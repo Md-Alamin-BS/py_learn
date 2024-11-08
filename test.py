@@ -103,7 +103,7 @@
 #         print(f"{i} x {j} = {i * j}")
 #     print("\n")
 
-
+'''
 for letter in "Python":
     print(letter)
 
@@ -119,3 +119,89 @@ else:
   print("Finally finished!")
 
   print (pow(2, 3)) # 2^3 = 8
+'''
+
+# def translate(phrase):
+#   translation = list(phrase)
+#   for i in range(len(translation)):
+#     if translation[i].lower() in "aeiou":
+#       if translation[i].isupper():
+#         translation[i] = "G"
+#       else:
+#         translation[i] = "g"
+#   return ''.join(translation)
+
+# print(translate(input("Enter a phrase to translate: ")))
+
+# def translate(phrase):
+#   translation = ""
+#   for letter in phrase:
+#     if letter.lower() in "aeiou":
+#       if letter.isupper():
+#         translation += "G"
+#       else:
+#         translation += "g"
+#     else:
+#       translation += letter
+#   return translation
+
+# while True:
+#   phrase = input("Enter a phrase to translate (or 'x' to exit): ")
+#   # if phrase.lower() == 'exit now':
+#   #   break
+#   print(translate(phrase))
+
+# try:
+#   file = open("demo1.txt", "r")
+#   print(file.read())
+#   # file.write("hello world")
+# except Exception as err:
+#   print(f"An error occurred: {err}")
+#   try:
+#     # Nested try-except block
+#     # Additional code that might raise an exception
+#     pass
+#   except Exception as nested_err:
+#     print(f"An error occurred in the nested block: {nested_err}") 
+# finally:
+#   try:
+#     file.close()
+#   except Exception as err:
+#     print(f"An error occurred while closing the file: {err}")
+
+# with open("demo.txt", "a") as test_file:
+#     test_file.write("\nThis is Python programming.")
+
+# with open("demo.txt", "r") as test_file:
+#     print(test_file.read())
+
+# with open("demo.txt", "a+") as test_file:
+#   test_file.write("\nThis is Python programming.")
+#   test_file.seek(10)
+#   print(test_file.read())
+  
+#   # Example 1: Reading from a specific position
+# with open("demo.txt", "r") as test_file:
+#   test_file.seek(5)
+#   print(test_file.read())
+
+# Example 2: Moving to the end of the file
+with open("demo.txt", "r") as test_file:
+  test_file.seek(0, 2)  # Move to the end of the file
+  print(test_file.tell())  # Print the current position
+
+# # Example 3: Moving to the beginning of the file
+# with open("demo.txt", "r") as test_file:
+#   test_file.seek(0)
+#   print(test_file.read())
+
+# # Example 4: Moving to a specific position and reading a fixed number of bytes
+# with open("demo.txt", "r") as test_file:
+#   test_file.seek(10)
+#   print(test_file.read(5))  # Read 5 bytes from position 10
+
+from my_module import student
+
+student1 = student("John", 25, 3.5, "Computer Science")
+
+print(student1.name)
