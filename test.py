@@ -205,4 +205,8 @@ from my_module import student
 student1 = student("Al-Amin", 25, 3.5, "Computer Science", False)
 
 print(student1.name)
-student1.my_method()
+student1.my_self()
+
+student2 = student("Lelin", 3.6, "Engineering", 4, False)
+print(student2.name)
+student2.my_self()
