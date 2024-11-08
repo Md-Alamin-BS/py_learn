@@ -186,9 +186,9 @@ else:
 #   print(test_file.read())
 
 # Example 2: Moving to the end of the file
-with open("demo.txt", "r") as test_file:
-  test_file.seek(0, 2)  # Move to the end of the file
-  print(test_file.tell())  # Print the current position
+# with open("demo.txt", "r") as test_file:
+#   test_file.seek(0, 2)  # Move to the end of the file
+#   print(test_file.tell())  # Print the current position
 
 # # Example 3: Moving to the beginning of the file
 # with open("demo.txt", "r") as test_file:
@@ -202,6 +202,7 @@ with open("demo.txt", "r") as test_file:
 
 from my_module import student
 
-student1 = student("John", 25, 3.5, "Computer Science")
+student1 = student("Al-Amin", 25, 3.5, "Computer Science", False)
 
 print(student1.name)
+student1.my_method()
