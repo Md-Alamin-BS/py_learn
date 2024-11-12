@@ -200,7 +200,7 @@ else:
 #   test_file.seek(10)
 #   print(test_file.read(5))  # Read 5 bytes from position 10
 
-from my_module import student
+from class_test import student
 
 student1 = student("Al-Amin", 25, 3.5, "Computer Science", False)
 

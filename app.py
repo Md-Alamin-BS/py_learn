@@ -1,31 +1,31 @@
-from math import *
-from class_test import student
+# from math import *
+# from class_test import student
 
-def check(num):
-    return print(f"Yes, {num} is in the list") if num in [1, 2, 3, 4, 5] else print(f"{num} is not in the list")
+# def check(num):
+#     return print(f"Yes, {num} is in the list") if num in [1, 2, 3, 4, 5] else print(f"{num} is not in the list")
 
-print("Hello, World!")
-for i in range(1, 6):
-    print(' ' * (5 - i) + '*' * (2 * i - 1))
+# print("Hello, World!")
+# for i in range(1, 6):
+#     print(' ' * (5 - i) + '*' * (2 * i - 1))
 
-test_str="Hello, Python!"
-print (len(test_str))
-print (test_str[0])
-print (test_str.index('P'))
-print (test_str.count('o', 7, 14)) #string.count(value, start, end)
-print (test_str.find('python')) #gives -1 if value not found, same as index but does not throw exception
-print (test_str.replace('Python', 'World', 0)) #string.replace(oldvalue, newvalue, count) -count how mnay times to replace
+# test_str="Hello, Python!"
+# print (len(test_str))
+# print (test_str[0])
+# print (test_str.index('P'))
+# print (test_str.count('o', 7, 14)) #string.count(value, start, end)
+# print (test_str.find('python')) #gives -1 if value not found, same as index but does not throw exception
+# print (test_str.replace('Python', 'World', 0)) #string.replace(oldvalue, newvalue, count) -count how mnay times to replace
 
-test_num = 1234
-print (str(test_num) + " is a number")
-print(abs(-1))
-print(pow(2, 3))
-print(max(1, 2, 3, 4))
-print(min(1, 2, 3, 4))
-print(round(3.14159, 2))
-print(floor(-3.9)) 
-print(ceil(3.1))
-print(sqrt(16))
+# test_num = 1234
+# print (str(test_num) + " is a number")
+# print(abs(-1))
+# print(pow(2, 3))
+# print(max(1, 2, 3, 4))
+# print(min(1, 2, 3, 4))
+# print(round(3.14159, 2))
+# print(floor(-3.9)) 
+# print(ceil(3.1))
+# print(sqrt(16))
 
 # name = input("Enter your name: ") #input() waits for user input
 # age = input("Enter your age: ")
@@ -35,26 +35,26 @@ print(sqrt(16))
 # result = float(num1) + float(num2)
 # print(result)
 
-Tests = ["Black box", "White box", "Gray box", "Unit", "Integration", "System", "Acceptance"]
-Tests[1] = "Clear box"
-print(Tests[1])
-numbers = [1, 2, 3, 4, 5]
-numbers.append(6)
-numbers.extend(Tests)
-numbers.insert(6, 7)
-print(numbers)
-Tests.remove("Clear box")
-Tests.insert(1, "Regression")
-# Tests.extend(numbers)
-# Tests.pop(19)
-# print(Tests) 
-# # Tests.clear()
+# Tests = ["Black box", "White box", "Gray box", "Unit", "Integration", "System", "Acceptance"]
+# Tests[1] = "Clear box"
+# print(Tests[1])
+# numbers = [1, 2, 3, 4, 5]
+# numbers.append(6)
+# numbers.extend(Tests)
+# numbers.insert(6, 7)
+# print(numbers)
+# Tests.remove("Clear box")
+# Tests.insert(1, "Regression")
+# # Tests.extend(numbers)
+# # Tests.pop(19)
+# # print(Tests) 
+# # # Tests.clear()
+# # print(Tests)
+# # print(numbers.index(7))
+# Tests.sort()
 # print(Tests)
-# print(numbers.index(7))
-Tests.sort()
-print(Tests)
-Tests.reverse()
-print(Tests)    
+# Tests.reverse()
+# print(Tests)    
 
 # def max_num(num1, num2, num3):
 #     if num1>=num2 and num1>=num3:
@@ -103,12 +103,18 @@ print(Tests)
 #     print("Invalid operator, only +, -, /, * are allowed")
 
 
-def check(num):
-    return print(f"Yes, {num} is in the list") if num in [1, 2, 3, 4, 5] else print(f"{num} is not in the list")
+# def check(num):
+#     return print(f"Yes, {num} is in the list") if num in [1, 2, 3, 4, 5] else print(f"{num} is not in the list")
 
-num = int(input("Enter a number: "))
-check(num)
+# num = int(input("Enter a number: "))
+# check(num)
 
-student1 = student("Alice", 3.8, "Computer Science", 3, False)
-print(student1.name)
-student1.my_self()
+# student1 = student("Alice", 3.8, "Computer Science", 3, False)
+# print(student1.name)
+# student1.my_self()
+
+
+from class_test import student
+
+student3 = student("Al-Amin", 25, 3.6, "Computer Science", False)
+student3.grading()
