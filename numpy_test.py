@@ -1,9 +1,9 @@
 import numpy as np #numpy - numerical python
 
-np1 = np.array([0,1,2,3,4,5,6,7,8,9])
+np1 = np.array([0,1,2,3,4,5,6,7,8,9,10,11])
 print(np1)
 
-np1 = np1.reshape(2,5)
+np1 = np1.reshape(6,2)
 print(np1)
 
 np2=np.arange(0,10,2)
@@ -25,3 +25,7 @@ print(np7)
 list = [1,2,3,4,5,6,7,8,9]
 np8 = np.array(list)
 print(np8)
+
+# Slicing numpy array
+np9 = np1[1:5]
+print(np9)
