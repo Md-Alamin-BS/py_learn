@@ -200,13 +200,81 @@ else:
 #   test_file.seek(10)
 #   print(test_file.read(5))  # Read 5 bytes from position 10
 
-from class_test import student
+# from class_test import student
 
-student1 = student("Al-Amin", 25, 3.5, "Computer Science", False)
+# student1 = student("Al-Amin", 25, 3.5, "Computer Science", False)
 
-print(student1.name)
-student1.my_self()
+# print(student1.name)
+# student1.my_self()
 
-student2 = student("Lelin", 3.6, "Engineering", 4, False)
-print(student2.name)
-student2.my_self()
+# student2 = student("Lelin", 3.6, "Engineering", 4, False)
+# print(student2.name)
+# student2.my_self()
+
+
+# # Define a tuple
+# my_tuple = (1, 2, 3)
+
+# # Attempt to modify an element (this will raise an error)
+# try:
+#     my_tuple[0] = 10
+# except TypeError as e:
+#     print(e)  # Output: 'tuple' object does not support item assignment
+    
+# Define a tuple with elements of different data types
+my_tuple = (1, "hello", 3.14, [4, 5, 6], (7, 8, 9), True)
+
+# Accessing elements of the tuple
+print(my_tuple[0])  # Output: 1 (integer)
+print(my_tuple[1])  # Output: hello (string)
+print(my_tuple[2])  # Output: 3.14 (float)
+print(my_tuple[3])  # Output: [4, 5, 6] (list)
+print(my_tuple[4])  # Output: (7, 8, 9) (tuple)
+print(my_tuple[5])  # Output: True (boolean)
+
+# Define two dictionaries
+dict1 = {'a': 1, 'b': 2}
+dict2 = {'c': 3, 'd': 4}
+
+# Combining using update
+result_update = dict1.copy()
+result_update.update(dict2)
+print(result_update)  # Output: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+
+# Combining using update
+result_update = dict1.copy()
+result_update.update(dict2)
+print(result_update)  # Output: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+
+# Combining using dictionary unpacking (Python 3.5+)
+result_unpack = {**dict1, **dict2}
+print(result_unpack)  # Output: {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+
+
+# Define two lists
+list1 = [1, 2, 3]
+list2 = [4, 5, 6]
+
+# Concatenation
+result_concat = list1 + list2
+print(result_concat)  # Output: [1, 2, 3, 4, 5, 6]
+
+# Slicing
+result_slice = list1[1:3] + list2[0:2]
+print(result_slice)  # Output: [2, 3, 4, 5]
+
+
+# Define two tuples
+tuple1 = (1, 2, 3)
+tuple2 = (4, 5, 6)
+
+# Concatenation
+result_concat = tuple1 + tuple2
+print(result_concat)  # Output: (1, 2, 3, 4, 5, 6)
+
+# Slicing
+result_slice = tuple1[1:3] + tuple2[0:2]
+print(result_slice)  # Output: (2, 3, 4, 5)
+
+
+

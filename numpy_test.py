@@ -29,3 +29,25 @@ print(np8)
 # Slicing numpy array
 np9 = np1[1:5]
 print(np9)
+
+np10= np.array([1,2,3,4,5,6,7,8,9])
+print(np10[4:])
+print(np10[-6:-1])
+
+
+# Print the array in reverse order
+print(np10[::-1])
+
+# Specify start and end indices for backward print
+start = -6  # Start from the 6th element from the end
+end = -1    # End at the element before the last one
+
+# Print the specified slice in reverse order
+print(np10[start:end][::-1])
+
+print(np10[-1:-9:-1])
+
+
+# Steps
+np11=np.arange(0, 101, 5) 
+print(np11)
