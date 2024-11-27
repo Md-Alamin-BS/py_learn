@@ -51,3 +51,33 @@ print(np10[-1:-9:-1])
 # Steps
 np11=np.arange(0, 101, 5) 
 print(np11)
+
+
+np2 = np1.reshape(6,2) # Reshape the numpy array
+# print(np2)
+
+
+arr = np.array([
+[1, 2, 3], 
+[4, 5, 6],
+[7, 8, 9],
+[10, 11, 12],
+[13, 14, None] # None and zero(0) can be used as placeholder for missing values. Array requires same number of elements in each row/2 dimentional array
+])
+newarr = arr.reshape(-1)
+# print(newarr)
+
+arr2 = np.array([
+    [1, 2, 3], 
+    [4, 5, 6],
+    [7, 8, 9],
+    [10, 11, 12],
+    [13, 14]
+], dtype=object)
+newarr2 = np.concatenate(arr2)
+print(newarr2)
+
+arr3 = np.array([1, 2, 3])
+arr4 = np.array([4, 5, 6])
+arr = np.stack((arr3, arr4))
+print(arr)

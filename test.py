@@ -278,3 +278,43 @@ print(result_slice)  # Output: (2, 3, 4, 5)
 
 
 
+# Define a tuple with elements of different data types
+# Example of unpacking a normal tuple
+tuple_list = [(1, 4), (2, 5), (3, 6), (4, 7)]
+result = []
+
+for i, j in tuple_list:
+    result.append(i + j)
+print(result)  # Output: [5, 7, 9, 11]
+
+# Example of using zip to create tuples and unpack them
+x = [1, 2, 3, 4]
+y = [4, 5, 6, 7]
+z = []
+
+for i, j in zip(x, y):
+    z.append(i + j)
+print(z)  # Output: [5, 7, 9, 11]
+
+# Read the Excel file
+df = pd.read_excel('Test-Case-format.xlsx')
+# Print the contents of the DataFrame
+# print(df)
+
+
+# Read the Excel file
+df = pd.read_excel('Test-Case-format.xlsx')
+
+# Apply strip() to each string element in the DataFrame
+df = df.applymap(lambda x: x.strip() if isinstance(x, str) else x)
+
+# Print the cleaned DataFrame
+# print(df)
+
+with open('example.txt', 'r') as file:
+    for a_line in file:
+        stripped_line = a_line.strip()
+        if stripped_line:  # Only process non-empty lines
+            cleaned_line = ' '.join(stripped_line.split())
+            print(cleaned_line)
+            
