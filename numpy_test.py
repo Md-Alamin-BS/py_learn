@@ -81,3 +81,5 @@ arr3 = np.array([1, 2, 3])
 arr4 = np.array([4, 5, 6])
 arr = np.stack((arr3, arr4))
 print(arr)
+
+print(f"Exponential of 2: {np.exp(2)}") # Exponential of 2 is 7.38905609893065
