@@ -1,4 +1,5 @@
 import numpy as np #numpy - numerical python
+# from numpy import random
 
 np1 = np.array([0,1,2,3,4,5,6,7,8,9,10,11])
 print(np1)
@@ -83,3 +84,12 @@ arr = np.stack((arr3, arr4))
 print(arr)
 
 print(f"Exponential of 2: {np.exp(2)}") # Exponential of 2 is 7.38905609893065
+
+# Using enumerate to get index and value
+my_list = [1, 2, 3, 4, 5]
+for index, value in enumerate(my_list):
+    if index % 2 == 0:  # Custom condition: only print values at even indices
+        print(value)
+        
+arr = np.array([1, 2, 3, 4, 5])
+print(np.random.permutation(arr))  # Output: [1 2 4 5 3]
