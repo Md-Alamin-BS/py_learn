@@ -87,9 +87,13 @@ print(f"Exponential of 2: {np.exp(2)}") # Exponential of 2 is 7.38905609893065
 
 # Using enumerate to get index and value
 my_list = [1, 2, 3, 4, 5]
-for index, value in enumerate(my_list):
+for index, value in enumerate(my_list): # Enumerate returns both index and value separately in two variables from my_list
     if index % 2 == 0:  # Custom condition: only print values at even indices
         print(value)
         
-arr = np.array([1, 2, 3, 4, 5])
-print(np.random.permutation(arr))  # Output: [1 2 4 5 3]
+
+arr_rearrange = np.array([1, 2, 3, 4, 5])
+print(np.random.permutation(arr_rearrange))  # Output: [1 2 4 5 3] or different every time, does not change the original array
+
+np.random.shuffle(arr_rearrange) # Output: [5 2 1 3 4] or different every time, changes the original array
+print(arr_rearrange)

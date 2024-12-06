@@ -5,9 +5,9 @@ import numpy as np, pandas as pd
 #   print(x) # Output: b'1' b'2' b'3'
  
 
-# arr2 = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
-# for y in np.nditer(arr2[:, ::2]):
-#   print(y)
+arr2 = np.array([[1, 2, 3, 4], [5, 6, 7, 8]])
+for y in np.nditer(arr2[:, ::2]):
+  print(y)
   
 # for idx, z in np.ndenumerate(arr2):
 #   print(idx, z)
@@ -44,23 +44,24 @@ import numpy as np, pandas as pd
 # values_to_insert = [2, 4, 6]
 # # Find indices where values should be inserted
 # indices = np.searchsorted(arr6, values_to_insert)
+# print(indices)  # Output: [1 2 3]
 # # Insert values at the specified indices
 # arr_sorted = np.insert(arr6, indices, values_to_insert)
 # print(arr_sorted)  # Output: [1 2 3 4 5 6 7]
 
-arr7 = np.array([7, 50, 11, 8])
-arr7_sorted = np.sort(arr7)
-arr_sort_right = np.searchsorted(arr7_sorted, [10, 2, 9], side='right')
-print(arr_sort_right)  # Output: [2 0 3]
-print(np.insert(arr7_sorted, arr_sort_right, [10, 2, 9]))  # Output: [ 2  7  8  9 10 11 50]
+# arr7 = np.array([7, 50, 11, 8])
+# arr7_sorted = np.sort(arr7)
+# arr_sort_right = np.searchsorted(arr7_sorted, [10, 2, 9], side='right')
+# print(arr_sort_right)  # Output: [2 0 3]
+# print(np.insert(arr7_sorted, arr_sort_right, [10, 2, 9]))  # Output: [ 2  7  8  9 10 11 50]
 
-arr_sort_left = np.searchsorted(arr7_sorted, [10, 2, 9], side='left')
-print(arr_sort_left)  # Output: [2 0 3]
-print(np.insert(arr7_sorted, arr_sort_left, [10, 2, 9]))  # Output: [ 2  7  8  9 10 11 50]
+# arr_sort_left = np.searchsorted(arr7_sorted, [10, 2, 9], side='left')
+# print(arr_sort_left)  # Output: [2 0 3]
+# print(np.insert(arr7_sorted, arr_sort_left, [10, 2, 9]))  # Output: [ 2  7  8  9 10 11 50]
 
-# arr8 = np.array([6, 7, 8, 9])
-# x = np.searchsorted(arr8, 7, side='right')
-# print(x)
+# # arr8 = np.array([6, 7, 8, 9])
+# # x = np.searchsorted(arr8, 7, side='right')
+# # print(x)
 
 arr_check = np.array([41, 42, 43, 44])
 
