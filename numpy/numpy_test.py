@@ -1,6 +1,7 @@
 import numpy as np #numpy - numerical python
 # from numpy import random
 
+'''
 np1 = np.array([0,1,2,3,4,5,6,7,8,9,10,11])
 print(np1)
 
@@ -97,3 +98,14 @@ print(np.random.permutation(arr_rearrange))  # Output: [1 2 4 5 3] or different 
 
 np.random.shuffle(arr_rearrange) # Output: [5 2 1 3 4] or different every time, changes the original array
 print(arr_rearrange)
+
+'''
+
+np_search = np.array([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 2])
+
+x = np.where(np_search == 2) # Output: (array([1, 11], dtype=int64),)
+# print(np_search)
+print(x)
+print(x[0]) # Output: [1 11]
+print(x[0][0]) # Output: 1
+print(np_search[x[0]]) # Output: [2 2]

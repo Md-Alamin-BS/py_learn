@@ -118,3 +118,10 @@ from class_test import student
 
 student3 = student("Al-Amin", 25, 3.6, "Computer Science", False)
 student3.grading()
+
+
+my_list = [1, 2, 3, 4, 5]
+for index, value in enumerate(my_list):
+    # if index % 2 == 0:  # Custom condition: only print values at even indices
+    #     print(value)
+    print(index, value)
