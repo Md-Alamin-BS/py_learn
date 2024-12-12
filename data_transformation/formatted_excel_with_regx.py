@@ -1,8 +1,8 @@
 import pandas as pd
 
 # File paths
-before_file = 'data_sorting/before_sorting.xlsx'
-output_file = 'data_sorting/formatted_excel_with_regx.xlsx'
+before_file = 'data_sorting/excel_files/before_sorting.xlsx'
+output_file = 'data_sorting/excel_files/formatted_excel_with_regx.xlsx'
 
 def process_excel(before_file, output_file):
     # Load the before sorting data

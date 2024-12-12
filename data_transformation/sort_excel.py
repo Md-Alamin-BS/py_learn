@@ -2,8 +2,8 @@ import pandas as pd
 from datetime import datetime
 
 # File paths
-before_file = 'data_sorting/before_sorting.xlsx'
-output_file = 'data_sorting/file_output.xlsx'
+before_file = 'data_sorting/excel_files/before_sorting.xlsx'
+output_file = 'data_sorting/excel_files/file_output.xlsx'
 
 def process_excel(before_file, output_file):
     # Load the before sorting data

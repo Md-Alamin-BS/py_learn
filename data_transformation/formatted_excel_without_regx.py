@@ -1,16 +1,25 @@
 import pandas as pd
 
 # File paths
-before_file = 'data_sorting/before_sorting.xlsx'
-output_file = 'data_sorting/optimized_excel_without_regx.xlsx'
+before_file = 'data_sorting/excel_files/before_sorting.xlsx'
+output_file = 'data_sorting/excel_files/file_output_formatted2.xlsx'
 
 def process_excel(before_file, output_file):
     # Load the before sorting data
     before_data = pd.read_excel(before_file, sheet_name='in')
 
     # Extract all unique tags dynamically from the column names
-    tags = {col.split()[0] for col in before_data.columns if any(metric in col.lower() for metric in ['precision', 'recall', 'f1']) and 'avg' not in col.lower()}
-    avg_tags = {col.split()[0] for col in before_data.columns if 'avg' in col.lower()}
+    tags = set()
+    avg_tags = set()
+
+    for col in before_data.columns:
+        if any(metric in col.lower() for metric in ['precision', 'recall', 'f1']):
+            if 'avg' in col.lower():
+                tag = col.split()[0]  # Extract the tag for avg columns
+                avg_tags.add(tag)
+            else:
+                tag = ' '.join(col.split()[:-1])  # Extract the tag for normal columns
+                tags.add(tag)
 
     tags = sorted(tags)
     avg_tags = sorted(avg_tags)
