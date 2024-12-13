@@ -2,27 +2,15 @@ import pandas as pd
 
 # File paths
 before_file = 'data_transformation/excel_files/before_sorting.xlsx'
-output_file = 'data_transformation/excel_files/file_output.xlsx'
+output_file = 'data_transformation/excel_files/optimized_excel_with_color.xlsx'
 
 def process_excel(before_file, output_file):
     # Load the before sorting data
     before_data = pd.read_excel(before_file, sheet_name='in')
 
     # Extract all unique tags dynamically from the column names
-    tags = set()
-    avg_tags = set()
-
-    for col in before_data.columns:
-        if any(metric in col.lower() for metric in ['precision', 'recall', 'f1']):
-            if 'avg' in col.lower():
-                tag = col.split()[0]  # Extract the tag for avg columns
-                avg_tags.add(tag)
-            else:
-                tag = ' '.join(col.split()[:-1])  # Extract the tag for normal columns
-                tags.add(tag)
-
-    tags = sorted(tags)
-    avg_tags = sorted(avg_tags)
+    tags = sorted({col.split()[0] for col in before_data.columns if any(metric in col.lower() for metric in ['precision', 'recall', 'f1']) and 'avg' not in col.lower()})
+    avg_tags = sorted({col.split()[0] for col in before_data.columns if 'avg' in col.lower()})
 
     metrics = ['Precision', 'Recall', 'F1']
 
@@ -36,7 +24,7 @@ def process_excel(before_file, output_file):
 
         # Append the values to the data structure
         before_value = before_data[before_col].iloc[0] if before_col in before_data.columns else ''
-        after_value = before_data[before_col].iloc[1] if before_col in before_data.columns else ''
+        after_value = before_data[after_col].iloc[1] if after_col in before_data.columns else ''
 
         return before_value, after_value
 
@@ -49,11 +37,6 @@ def process_excel(before_file, output_file):
             row[(metric, 'After')] = after_value
             row[(metric, 'RegX')] = ''  # Add blank RegX column
         data.append(row)
-
-    # Add a blank row before avg tags
-    data.append({'Tag': '', ('Precision', 'Before'): '', ('Precision', 'After'): '', ('Precision', 'RegX'): '',
-                 ('Recall', 'Before'): '', ('Recall', 'After'): '', ('Recall', 'RegX'): '',
-                 ('F1', 'Before'): '', ('F1', 'After'): '', ('F1', 'RegX'): ''})
 
     # Process avg tags
     for tag in avg_tags:
@@ -81,25 +64,29 @@ def process_excel(before_file, output_file):
     tag_column = df.pop('Tag')
     df.columns = pd.MultiIndex.from_tuples(df.columns)
 
+    # Reset the MultiIndex columns to a single level
+    df.columns = [' '.join(col).strip() for col in df.columns.values]
+
     # Save the output to an Excel file
     with pd.ExcelWriter(output_file, engine='xlsxwriter') as writer:
+        df.to_excel(writer, sheet_name='Sheet1', index=False)
         workbook = writer.book
-        worksheet = workbook.add_worksheet('Sheet1')
-        writer.sheets['Sheet1'] = worksheet
+        worksheet = writer.sheets['Sheet1']
 
         # Define formatting styles
-        header_format = workbook.add_format({'bold': True, 'bg_color': '#D9E1F2', 'align': 'center', 'valign': 'vcenter', 'font_size': 13, 'font_name': 'Aptos Narrow'})
-        subheader_format = workbook.add_format({'bold': True, 'bg_color': '#B4C6E7', 'align': 'center', 'valign': 'vcenter', 'font_size': 13, 'font_name': 'Aptos Narrow'})
-        data_format = workbook.add_format({'align': 'left', 'valign': 'vcenter', 'font_size': 12, 'font_name': 'Aptos Narrow'})
-        light_red_format = workbook.add_format({'bg_color': '#FFC7CE', 'align': 'left', 'valign': 'vcenter', 'font_size': 12, 'font_name': 'Aptos Narrow'})
-        light_green_format = workbook.add_format({'bg_color': '#C6EFCE', 'align': 'left', 'valign': 'vcenter', 'font_size': 12, 'font_name': 'Aptos Narrow'})
+        header_format = workbook.add_format({'bold': True, 'bg_color': '#D9E1F2', 'align': 'center', 'valign': 'vcenter', 'font_size': 12.5, 'font_name': 'Aptos'})
+        subheader_format = workbook.add_format({'bold': True, 'bg_color': '#B4C6E7', 'align': 'center', 'valign': 'vcenter', 'font_size': 12.5, 'font_name': 'Aptos'})
+        data_format = workbook.add_format({'align': 'left', 'valign': 'vcenter', 'font_size': 11, 'font_name': 'Aptos'})
+        light_red = workbook.add_format({'bg_color': '#FFC7CE'})
+        light_green = workbook.add_format({'bg_color': '#C6EFCE'})
 
         # Write the 'Tag' column header manually
         worksheet.write(0, 0, 'Tag', header_format)
+        worksheet.write(1, 0, '', subheader_format)  # Make the cell below 'Tag' header empty
 
         # Write the multi-level headers for the remaining columns
-        header_top = [col[0] for col in df.columns]
-        header_sub = [col[1] for col in df.columns]
+        header_top = [col.split()[0] for col in df.columns]
+        header_sub = [col.split()[1] if len(col.split()) > 1 else '' for col in df.columns]
 
         current_top = None
         start_col = 1
@@ -121,35 +108,25 @@ def process_excel(before_file, output_file):
         worksheet.write_column(2, 0, tag_column, data_format)
         for row_num, row_data in enumerate(df.values, start=2):
             for col_num, cell_value in enumerate(row_data, start=1):
-                col_header = df.columns[col_num - 1]
-                if col_header[1] == 'Before':
-                    # Compare with After column
-                    try:
-                        after_value = row_data[col_num + 1]
-                        if isinstance(cell_value, (int, float)) and isinstance(after_value, (int, float)):
-                            if cell_value > after_value:
-                                worksheet.write(row_num, col_num, cell_value, light_red_format)
-                            else:
-                                worksheet.write(row_num, col_num, cell_value, data_format)
-                        else:
-                            worksheet.write(row_num, col_num, cell_value, data_format)
-                    except IndexError:
-                        worksheet.write(row_num, col_num, cell_value, data_format)
-                elif col_header[1] == 'After':
-                    # Compare with Before column
-                    try:
-                        before_value = row_data[col_num - 1]
-                        if isinstance(cell_value, (int, float)) and isinstance(before_value, (int, float)):
-                            if cell_value > before_value:
-                                worksheet.write(row_num, col_num, cell_value, light_green_format)
-                            else:
-                                worksheet.write(row_num, col_num, cell_value, data_format)
-                        else:
-                            worksheet.write(row_num, col_num, cell_value, data_format)
-                    except IndexError:
-                        worksheet.write(row_num, col_num, cell_value, data_format)
-                else:
-                    worksheet.write(row_num, col_num, cell_value, data_format)
+                worksheet.write(row_num, col_num, cell_value, data_format)
+
+        # Apply conditional formatting
+        for col in range(1, len(df.columns), 3):
+            before_col = col
+            after_col = col + 1
+            for row in range(2, len(df) + 2):
+                worksheet.conditional_format(row, before_col, row, before_col, {
+                    'type': 'cell',
+                    'criteria': '>',
+                    'value': f'=${chr(65 + after_col)}{row + 1}',
+                    'format': light_red
+                })
+                worksheet.conditional_format(row, after_col, row, after_col, {
+                    'type': 'cell',
+                    'criteria': '>',
+                    'value': f'=${chr(65 + before_col)}{row + 1}',
+                    'format': light_green
+                })
 
         # Adjust column widths
         worksheet.set_column(0, 0, 15)  # Tag column
