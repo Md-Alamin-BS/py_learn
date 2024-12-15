@@ -1,12 +1,24 @@
+import os
 import pandas as pd
 
 # File paths
-before_file = 'data_transformation/excel_files/before_sorting.xlsx'
-output_file = 'data_transformation/excel_files/optimized_excel_with_color.xlsx'
+input_file = 'data_transformation/excel_files/input_file.csv'
+output_file = 'data_transformation/excel_files/file_output.xlsx'
 
-def process_excel(before_file, output_file):
-    # Load the data from the first sheet
-    before_data = pd.read_excel(before_file, sheet_name=0)
+def read_input_file(file_path):
+    """Dynamically read the input file based on its extension."""
+    file_extension = os.path.splitext(file_path)[1].lower()
+
+    if file_extension == '.csv':
+        return pd.read_csv(file_path)  # Read CSV file
+    elif file_extension in ['.xls', '.xlsx']:
+        return pd.read_excel(file_path, sheet_name=0)  # Read the first sheet of Excel file
+    else:
+        raise ValueError(f"Unsupported file type: {file_extension}")
+
+def process_excel(input_file, output_file):
+    # Dynamically read the input file
+    before_data = read_input_file(input_file)
 
     # Extract all unique tags dynamically from the column names
     tags = sorted({col.split()[0] for col in before_data.columns if any(metric in col.lower() for metric in ['precision', 'recall', 'f1']) and 'avg' not in col.lower()})
@@ -135,4 +147,4 @@ def process_excel(before_file, output_file):
     print(f"File successfully created at: {output_file}")
 
 # Process the data
-process_excel(before_file, output_file)
+process_excel(input_file, output_file)
