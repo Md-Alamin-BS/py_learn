@@ -1,0 +1,27 @@
+{
+  "averages": [
+    {
+      "Type": "Average per DDR",
+      "precision": 0.8828016643550625,
+      "recall": 0.8828016643550625,
+      "f1": 0.8828016643550625
+    },
+    {
+      "Type": "Average per Tag",
+      "precision": 0.367816091954023,
+      "recall": 0.96,
+      "f1": 0.5318559556786704
+    }
+  ],
+  "per_tag": [
+    {
+      "tag": "tighthole",
+      "precision": 0.367816091954023,
+      "recall": 0.96,
+      "f1": 0.5318559556786704,
+      "true_positives": 96,
+      "positives_in_ground_truth": 100,
+      "negatives_in_ground_truth": 1342
+    }
+  ]
+}

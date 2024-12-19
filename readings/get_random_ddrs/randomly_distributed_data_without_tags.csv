@@ -1,0 +1,268 @@
+"id","Text","phase","code","subCode","commentLength","label","tags","auto"
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_4d8c7ecc-4e87-423b-aed0-6e1f02312643-1","Drilled 8 1/2"" hole section from 1575 m to 2230 m with 1700-2270 lpm/158-180 bar, 160-180 rpm/10-13 kNm, 8-14 ton WOB, MW 1.31 sg, ECD 1.41-1.45 sg. At 1750 m, experienced 46 bar increase in SPP, suspected to be plugged nozzle. Reduced flow from 2270 lpm to 1700 lpm in order not to wash out seals in PowerDrive. Attempted high flow/high rotation (2400 lpm/180 rpm) to clear plugged nozzle without success. - Average ROP = 48.5 m/hr - Lubricated with 0.6-1 m3/hr - Added LCM bridging material as per program (SafeCarb40 + G-Seal Fine)","RES3","P","DRL","534","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-9","Picked up and ran 30"" conductor from surface.
+-Fill shoe joint with SW and verified float clear.
+- Ran 2 xintermediate joints and XO joint.
+-Filled Conductor with seawater with hose lined up to cement unit.","COND1","P","RIH","206","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-353","Continued presure testing schedule.Tested SCSSSV control line to 475 bar / 15 minsTested CI line to 190 bar / 15 minsTested THS spare tubing hanger line against blanking plug to 475 bar / 15 mins.Tested ASV against blanking plug to 475 bar / 15 mins.Tested gallery seals to 475 bar / 15 mins.","PRODCSG1","P","TREE","292","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-354","Held a TBT then lined up to the cement unit to pump down the tubing.Increased pressure and noted annulus and tubing pressure rise the same until 175 bar when the tubing pressure increased quickly to 200 bar.Increased the pressure to 210 bar and held for 15 mins to fully set the packer and to test the tubing and packer from below.","PRODCSG1","P","PKR","331","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3975de6f-0aa3-4abd-b5fa-852abbd0aee2-247","Racked back one stand in derrick.  Installed CST tool into DP connection. M/U cement stand. Pressure tested cement hose to 250 bar/ 5 min.","ABAN","P","OTHR","138","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b212eb62-ea04-4e52-8957-59270890389a-125","Drilled from 163.5 m to 168.5 m. Marked pipe for depth control in case of wiper trip.
+
+Flow: 1500 lpm
+Pressure: 3-6 bar
+WOB: 0-2 ton
+RPM: 40
+Torque: 2-3 kftlbs
+ROP: 10 m/hr","COND1","P","DRL","172","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6184997d-c51e-44d6-9391-ef0a61586044-263","Changed handling equipment to 5-1/2"" DP and changed jaws in casing tong for FAST connector.  Meanwhile: lifted ROCS/tubing hanger assembly from riser deck to RCWM.","UCMP","P","RU/RD","163","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_be3f7f9c-7d72-4238-a357-e4c73d4bc280-145","Slide drilled 26"" hole to set direction from 838m to 845m.  Flow: 4450 LPM Pressure: 178 bar WOB: 8-10 mT RPM: 60 Torque: 7-14 kNm Limit ROP: 55 m/hr ECD: 1,25-1,26 EMS: 1,22","SURF","P","DRL","174","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-355","Bled the tubing pressure to 200 bar and locked in.Lined up the cement unit to choke and kill line.Incresed the annulus pressure to 210 bar and pressure tested the A annulus to 210 bar / 15 mins.","PRODCSG1","P","TBG","194","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_087c4b8e-7d57-4931-9ba1-1bd69b05d4e9-29","Dropped 2-3/4"" drift with tail. POOH and washed WH on TOH with 1450 lpm and 48 bar. Broke and L/D WBRRT. Retrieved drift and Totco ring.","INTCSG2","P","DP","136","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_96e517dc-21cf-4bb7-9537-27519bfc064a-14","L/D drilling pup. R/U kelly cock/circulating swedge/ circulating hose to drill pipe. Circulate at 1000 lpm @ 50 bar.Install DDM torque wrench. Periodically moving pipe. R/D circulating assembly.M/U drilling pup. Function test DDM torque wrench.","DR","N","SEQP","244","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_5b7bd5f2-06cc-44a7-a41f-8626df8c0dfd-40","Picked up and RIH with 2x8"" DC stands, jar and accelerator stands, 5 1/2"" HWDP to 254 m. Compensatied  through BOP and 20x13 3/8"" crossover.","PRODCSG2","P","BHAHDL","140","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b212eb62-ea04-4e52-8957-59270890389a-130","Drilled from 168.5 m to 172 m. Took survey prior to connection, inclination 0.22 deg. Spotted 10 m3 Hi-Vis pill prior to connection.
+
+Flow: 3000 lpm
+Pressure: 34 - 39 bar
+WOB: 2-8 ton
+RPM: 50
+Torque: 4 - 6 kftlbs
+ROP: 8 m/hr","COND1","P","DRL","224","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0ae6e915-e725-4eec-81f9-b02e5a6e9484-156","Slugged pipe with 1.57 SG brine.POOH with 5"" DSTJ Drill Pipe to 52m - trip rate reduced due to swabbing effect of fish (2+ mins slips to slips).","","","","144","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-363","Ran 1 x joint of 5"" HWDP landing string then installed the FMS.Continued to RIH on landing string to 144 m, securing the umbilical w/ tape on each connection.","PRODCSG1","P","OTHR","158","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_4d8c7ecc-4e87-423b-aed0-6e1f02312643-27","Perform wireline run #5B according to program. When retracting from pre-test station at 4236.8 m experienced stuck tendencies. Stuck on cable, free after pulling with 12170 lbf. Decided to cancel the 3 last remaining pre-tests.   - Completed 54 stations, 9 good pre-tests. Struggled to achieve stable build up when recording pre-tests. - Well static throughout logging operations.","RES3","P","RTW","380","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-1","Commenced anchor operations.Anchor #8: Havila Venus07:30 Running out chain09:46 Started lowering anchor09:53 Anchor on bottom11:10 Pre-tension to 245T12:28 PCP delivered to rigAnchor #4: Island Valiant07:30 Running out chain10:08 Started lowering anchor10:17 Anchor on bottom11:10 Pre-tension to 245T11:29 Weak link snappedAnchor #1: Island Valiant12:07 PCP delivered from rig, running out chain13:32 Started lowering anchor13:43 Anchor on bottom18:24 Pre-tension to 290T18:42 PCP delivered to rigAnchor #5: Far Scorpion13:45 Started running out chain into vessel chain locker15:00 Subsurface buoys connected, running out chain17:14 Started lowering anchor17:23 Anchor on bottom18:24 Pre-tension to 290T18:46 Weak link snappedAnchor #7: Havila Venus15:42 PCP delivered from rig19:22 Started lowering anchor19:25 Anchor on bottom22:00 Tension test 300T completed22:15 Weak link snappedAnchor #2: Island Valiant18:51 PCP delivered from rig20:12 Started lowering anchor20:23 Anchor on bottomAnchor #3: Far Scorpion19:10 PCP delivered from rig20:12 Started lowering anchor20:19 Anchor on bottom22:38 Tension test 295T completed23:03 Weak link snappedAnchor #6: Havila Venus23:00 PCP delivered from rigFar Scorpion departed field 23:00.Started skidding rig to well P-6 location 23:20Simultaneously performed rigfloor maintenance:Function tested elevator rotator. Overhauled flowline trip tank valve. Checked chain and brakes on drawworks.Made up and racked HWDP drilling stand and cement stand. Pressure tested cement hose, 150 bar, 5 min.00:00 - 06:00 UpdateContinued mooring operations.Performed rig floor maintenance.","MOB/DEMOB","P","ANCH","1615","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-19","Circulated well clean with 2500 lpm / 240 bar, 160 - 180 rpm / 15 - 19 kNm. ECD 1:50. Observed shakers cleaning up after 2 x BU. Observed ECD drop from 1.50sg. to 1.48 sg. Reciprocated string. Circulated a total of 6.5 x BU  - Adjusted shaker screens from 6x 230/270 (mid/btm) mesh screens to 3x325/325 + 3x270/270 mesh screens  Performed PST samples: Final PST - 16s, 16s and 18s.","RES3","P","CIR","381","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-21","Drilled from 3075 m to 3230 m.   Flow: 2500 lpm Pressure: 221 - 223 bar WOB: 5 - 10 T RPM: 160 Torque: 9 - 20 kNm ROP: 27.0 m/hr ECD: 1.45 -1.46 sg Max gas: 3.1 %  Boosted riser with 1000 lpm.","RES3","P","DRL","192","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-22","Drilled from 3230 m to 3350 m.   Flow: 2500 lpm Pressure: 221 - 223 bar WOB: 2 - 8 T RPM: 160 Torque: 8 - 22 kNm ROP: 24.0 m/hr ECD: 1.45 -1.46 sg Max gas: 1.9 %  Boosted riser with 1000 lpm.","RES3","P","DRL","191","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_4d8c7ecc-4e87-423b-aed0-6e1f02312643-35","Spliced and installed rope socket on cable drum wire. Spliced and installed rope socket on down hole wire.   At 04:00, fire alarm sounded. Fire team and all personnel mustered. False alarm.  Meanwhile:  - Removed 8 ft drilling bails and installed 12 ft bails.  - Removed torque wrench. - Made up fishing assembly hand tight in aux.  - Installed DP elevators on long bails. - Held toolbox talk for installing sheave wheel at crown block.","RES3","N","RUD","436","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_96e517dc-21cf-4bb7-9537-27519bfc064a-35","Observe mud leaking from DDM washpipe. Stop pumps and grease washpipe. Washpipe continued to leak. POOH to 2840m. R/U circulating assembly and circulating hose. Circulate at 1000 lpm @ 56 bar.","DR","P","MUD","192","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3975de6f-0aa3-4abd-b5fa-852abbd0aee2-271","Held TBT. Laid out 8 "" accelerator to deck. Picked up 1x 8"" DC and racked back same. M/U ACME sub to hang off tool and racked back hang off stand in forward set back.","ABAN","P","OTHR","166","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6184997d-c51e-44d6-9391-ef0a61586044-279","Verified XMT valve status and performed pressure test #3 -  pressure test of lower and middle TH seals from Optime SCILs - 20/210 bar 5/10 min.","UCMP","P","TSTPRS","143","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_be3f7f9c-7d72-4238-a357-e4c73d4bc280-164","RIH with 1x 5 1/2"" WDP stand. Performed make up test of 5 1/2"" WDP between stand #1 and stand #2 in the following steps: Made up stand to 70 kNm and marked pipe. Broke out and registered stand break out at 40,1 kNm. Cleaned threads on pin/box and made up to 70 kNm again. Observed stand turn 167 degrees more. Marked connection again. Broke out stand and registered 44,6 kNm. Span out stand and made up stand to 70 kNm again. Observed mark was flush.","INTCSG1","N","MU","450","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_d5565405-2989-4499-8df9-8b7845ab2679-199","Dropped sponge wiper ball.Circulated 2 x BU at 4000 lpm flow-rate, 200 bar pressure, 100 RPM, 0.5 kftlbs Tq.After 49 m3 pumped, sudden sharp drop in pump pressure to 137 bar observed; no change to hookload.","","","","206","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-403","Reamed down from 4057 m and relogged caliper data from 4062 m to 4072 m bit depth with 1900 lpm, 205 - 210 bar, 100 rpm, 12 - 17 Kft.lbs. at 60 m/hr.","","","","149","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-384","RIH with tractor + stoker assy from 1300m to 2881m. No issues passing GLM & CI sub. Start tractor and tractor to 3025 CCL depth. Confirm spaceout. Activated stroker to midlength. Tractor ahead and engage into FIV shifting profile. Activated annhor and stroked out to shift FIV. Monitor well on trip tank. Observed no loss . FIV not shifted open. Attempted x 2 to engage and stroke FIV open . Appeared anchor not setting.","PRODCSG1","N","ELEC","420","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-24","Drilled from 2782 m to 2945 m.   Flow: 2500 lpm Pressure: 220 - 223 bar WOB: 4 - 12 T RPM: 140 - 150 Torque: 9 - 18 kNm ROP: 24.1 m/hr ECD: 1.44 -1.45 sg Max gas: 3.2 %  Boosted riser with 1000 lpm.  0.55 m below and 0.85 m right of the plan. C-C separation from AY2H 4.83 m.","RES3","P","DRL","275","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-42","Drilled out 30"" conductor shoetrack and rathole.
+-2800lpm, 73-75bar, 60rpm, 1-5kNm, WOB 1-5ton
+-Drilled out in 2m increments and reamed to above tagged TOC.
+-Drilled out of shoe at 203.7m.","PRODCSG1","N","DRLCMT","188","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_a1dd419b-0652-4e3a-b28f-1f382d972384-1","Checked area with ROV Used rig to move mud mat to alternative location, landed same RIS with ROV basket, landed same Lifted off x-mas tree debris cap  Meanwhile: AHV's prepared next anchor lines","MOB/DEMOB","P","MISC","194","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-37","Circulated 1 x BU with 3450 lpm, 290 bar, 180 rpm, 8-10 kft-lbs while reciprocating string. Downlinked to close IUR 1/2 way through BU. Max gas reading on BU 8%.","","","","161","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_96e517dc-21cf-4bb7-9537-27519bfc064a-38","Break circulation and stage pumps to 1900 lpm. Downlink to ""wake up"" stethoscope tool. Downlink to prepare tool for pressure sample test. POOH to 2947.5m bit depth to take pressure test #1.","DR","P","OTHR","189","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0d87386b-fc8f-4a04-92dd-8100761f8bfc-49","Broke circulation and tested MWD, 2400 LPM, 52 bar. Calibrated RMR system. Observed possible leak from SMO. Investigated with ROV, no leak.","SURF","P","MUD","139","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_a1dd419b-0652-4e3a-b28f-1f382d972384-2","Positioned rig in safe handling zone (40m STB and 24m AFT) Continued deploying anchor lines with use of AHV's - 7 of 10 anchor lines deployed at midnight  Meanwhile: Lifted x-mas tree debris cap to surface Landed BOP on carrier M/U and RIS with SCILS unit, placed unit 30m above seabed M/U booster joint, 45ft riser joint and 80 ft riser joint Skidded BOP to well centre and landed riser on top of BOP ROV inspected and checked location of mud mat - ok ROV brushed and polished VX seal area ROV removed lift-anchor from guide post extention","MOB/DEMOB","P","ANCHOR","540","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-26","Drilled from 2945 m to 3075 m.   Flow: 2500 lpm Pressure: 221 - 224 bar WOB: 8 - 12 T RPM: 160 Torque: 9 - 23 kNm ROP: 24.8 m/hr ECD: 1.45 -1.46 sg Max gas: 3.9 %","RES3","P","DRL","162","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_d5565405-2989-4499-8df9-8b7845ab2679-206","RIH and landed protection sleeve in DWIGS setting profile at 143.7 m LAT. Set protection sleeve. Released running tool from sleeve with 2 jar strokes. Flow checked well - Well static. POOH to surface and laid out Wireline tool string.","","","","234","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_087c4b8e-7d57-4931-9ba1-1bd69b05d4e9-56","Mix , pump and displaced cmt as follows: Pumped 10 m3 of unweighted soap spacer followed by 10 m3 of 1.5 sg MCS spacer with rig pumps. Dropped bottom dart. Mix and pumped 20m3 of 1.92 sg slurry with additvies. Dropped top dart and displaced with 800 liters and observed shear at 130 bar. Continued to pump additional 1.2m3 with cmt unit. Swapped to rig pump and displaced at 2500 lpm, slowed pump to 1500 lpm after 145m3. Observed bottom plug land and shear with 80 bar. Continued to displace and bumped plug.  Dispalcement volume = 167.6 m3. Pressured up 35 bar over final circ pressure (40bar). Held for 5 minutes. Bled pressure off and checked floats, good.","INTCSG2","P","CMT","660","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-383","RIH w/ MPT on 5"" HWDP on landing string.Engaged MPT to the DWIGS.Opened the MPR.Sheared CI sub with 332 bar, injected at 100 bar - 0.5 lpm, 150 bar - 0.5 lpm & 175 bar - 0.6 lpm.","PRODCSG1","P","TBG","178","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_59608cc9-0446-48ab-aa89-531c431a05b3-25","Performed slide tests with pilot mill through window. Slided through with flow and rotation, only flow and no flow - no obstruction seen.
+Pulled above window and installed PS16. ","RES3","N","CIR","178","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_087c4b8e-7d57-4931-9ba1-1bd69b05d4e9-57","Removed cmt hose and control lines. Set Vecto MS-1 seal assy per procedure. Closed MPR and pressure tested seal assy 20/345 bar for 5/10 minutes.","INTCSG2","P","TOOL","145","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_2a55b3ee-a271-4208-a74a-b76f10938eb1-0","Reporting continued from 16/1-D-9 B. Exited Ivar Aasen 500 m zone at 22:20 hrs. Commenced towing rig to 25/4-11 Hyrokkin location.","MOB/DEMOB","P","OTC","130","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6184997d-c51e-44d6-9391-ef0a61586044-285","Verified XMT valve status and performed pressure test #8 - ""A"" annulus test & tubing hanger seals upper from above and lower from below from cement unit. - Adjusted tubing pressure to 180 bar. - Lined up cement unit to pump down kill line. - Increased pressure in stages and performed annulus test to 20/210 bar 5/10 min. - Bled-off annulus pressure to 0 bar.","UCMP","P","TSTPRS","359","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_a1dd419b-0652-4e3a-b28f-1f382d972384-9","Skidded rig and landed SCILS on mud mat.  - Reduced efficiency due to anchor tension requirements and helicopter.  - Re-arranged GL positions.","MOB/DEMOB","P","SKID","142","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-386","Closed the BSR and performed pressure test to 20 bar / 5 mins, 345 bar / 10 mins.Pressured up the tubing to expend the LBFV.LBFV sheared at 243 bar.","PRODCSG1","P","TBG","148","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-38","Changed elevators to 5"". Picked up Casing Hanger from deck and M/U to casing. Rigged down casing tong and secured same in setback area. Removed casing slips, installed 5"" slips. Took Up/Dn wts: 240/175 mT.","INTCSG2","P","EQIP","205","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-14","Drilled from 196m to 202.5m, with 4200 lpm, 104-113 bar, 120 rpm, torque 3-10 kft.lbf, wob 0-3 tons. Performed survey and pumped hi-vis pill every single.TD hole section at 202.5m.36"" Hole Opener cutter depth: 200.1m RKB LAT.","COND1","P","ROT","225","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_087c4b8e-7d57-4931-9ba1-1bd69b05d4e9-58","Pressure tested BOPE with 20/345 bar for 5/10mins on yellow POD. Tested rams and annulars except LPR. Unable to test LPR due to space out limitation. Function tested BOPE from Blue POD from T-P office.","INTCSG2","P","BOPE","201","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6184997d-c51e-44d6-9391-ef0a61586044-288","Verified XMT valve status and performed pressure test #9 - high pressure inflow test of SCSSV from cement unit. - Adjusted tubing pressure to 210 bar. - Bled-off pressure on SCSSV control line at SCILs to close SCSSV. - Bled-off pressure on cement unit to 10 bar to apply 200 bar diff. across SCSSV. - Performed 200 bar / 30 min inflow test - ok. - Bled-off tubing pressure to 0 bar.  Meanwhile: held pre-job meeting for unlatching THRT & releasing ROCS/THRT from TH.","UCMP","P","INFLW","467","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-51","Drilled 12 1/4'' hole at restricted ROP at 60m/hr from 900m to 981m
+- 2500lpm, 78-80bar, 100rpm, 8-10kNm, WOB 0-9ton,  ROP 60 m/hr.
+- Pumped SW and 3x6m3 hi-visc sweeps pr stand.
+- Started to detect MWD data.","PRODCSG1","P","DRL","208","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-15","With bit at TD, 202.5 m, pumped 10 m3 hi-vis. Circulated without rotation 10 min. Verified TD using ROV with mark at sea bed and second mark, level with marker buoys. Pumped 40 m3 hi-vis followed by 60 m3 SW 4200 lpm, 110 Bar. Displaced well w/55 m3 1.50 SG gelmud.","COND1","P","MUD","265","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0ae6e915-e725-4eec-81f9-b02e5a6e9484-186","Circulated 10 mins, 2200 lpm flow-rate, 171 bar pressure. Pulled back above window to 2513 m, racked back drilling stand, installed TIW valve.","","","","142","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_a1dd419b-0652-4e3a-b28f-1f382d972384-12","Released gatorlock and stroked out slipjoint. L/D landing joint.   Meanwhile: - Closed BSR from blue pod. - Pressure tested connector to 20/275 bar for 5/10 min - ok. Pumped 120ltr, bled back same. - Informed FPSO to open up wells V01 and V02 after successful test","MOB/DEMOB","P","BOPSER","264","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6184997d-c51e-44d6-9391-ef0a61586044-289","Performed pressure test #10 - low pressure tubing test from cement unit. - Pressured up tubing to 20 bar / 5 min. - Bled-off tubing pressure to 0 bar.","UCMP","P","TSTPRS","150","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3eb52c10-6bb9-44c3-8fc3-7b33e10cf4f6-351","Stood down for safety with regards to incident on RCWM - Deck crew.
+
+Meanwhile
+- Measured drill line on STB side.
+- Pressure tested standpipe manifold to 20/425 bar.
+- Rigged up casing tong for building 5 1/2"" tubing in AUX.
+- Performed drops check on TDX.
+- Greased TDX.","LCMP2","N","SAFETY","271","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0ae6e915-e725-4eec-81f9-b02e5a6e9484-187","Drilled ahead 9 1/2"" hole from 3836 m to 3930 m.35-45 av 40 m/hr ROP, 6-8 mT WOB, 140 RPM, 17-21 kNm Tq with 15 kNm FRTq, 2520 lpm flow-rate, 230 bar pressure, ECD 1.38 sg with 1.30 sg MWt. Boosted riser at 300 lpm.Low level of stick-slip & no shocks in sandstones, on BHA tools.Formation sandstone, no stringers.","","","","313","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-53","Circulated hole clean/displaced well to 1.30sg KCl WBM.
+- 2500lpm, 58-68bar, 100rpm, 7-8 kNm.
+- Circulated until ECD leveled out at 1.27sg. Pumped total 110m3.","PRODCSG1","P","CLNWB","159","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-71","RIH with sandscreens on 5"" dp from 3079m to 4457 at 2min/std. No issues running across whipstock and drag trended close to predicted values. No losses while RIH.","PRODCSG1","P","DP","161","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_d5565405-2989-4499-8df9-8b7845ab2679-217","Performed pre-job safety meeting. Picked up MPT and latched tool in elevator. Checked tool set in recovering mode with latch ring extended. RIH MPT on 5"" HWDP and latched DWIGS at 141.2 m setting down string weight. Applied 2 MT overpull verifying MPT latched. Opened MPR. POOH DWIGS on 5"" HWDP. Broke out and laid out MPT and DWIGS as one assembly (Ready for pickup on WDW2).","","","","376","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-75","Released CART and POOH:
+- Released CART with 5 right hand turnes and pulled free from HPWHH.
+- POOH with cement stand and racked back in derrick.
+- Pulled out of well with innerstring.","PRODCSG1","P","CMT","184","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-8","Circulate B/U x 1 at 1500 lpm and no rotary at 3072m. Boosted riser with 800 lpm. Rack backstand and P/U to 3044m.","RES1","P","MUD","114","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-11","POOH with window mill from 3012m to 1270m. Racked backed 7 stands of HWDP.","RES1","P","DP","74","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3eb52c10-6bb9-44c3-8fc3-7b33e10cf4f6-6","RIH with whipstock assembly from 1538 m to 2156 m on 5 1/2"" WDP.
+Observed 7 ton set down weight with latch in tie back gap.","RES2","P","RIH","123","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_5d08fc17-9f3f-459c-9073-2dcceec53394-3","Troubleshooting BHA and POOH. Break new connection and plug in tool from basket in derrick.","PRODLNR1","N","BHAHDL","91","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3eb52c10-6bb9-44c3-8fc3-7b33e10cf4f6-331","Pumped down string with cement unit and verified ball seat had sheared with returns on trip tank.","LCMP2","P","RIH","97","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3eb52c10-6bb9-44c3-8fc3-7b33e10cf4f6-332","Pressure tested LBFV's, Versa-Trieve, MCS and junction to deflector seals to 50 bar / 10 min.
+- Pumped 280 ltr. Bled back same.","LCMP2","P","TSTPRS","127","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_59608cc9-0446-48ab-aa89-531c431a05b3-9","Performed planned maintenance on rigfloor. Assisted deck with L/D BHA. Greased crown and compensator in derrick","RES3","P","MAINT","111","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_289e9b6e-8295-45af-b79b-3f394642d17c-38","Washed wellhead area with sea water at 5300 lpm. ROV guided open ended stinger whilst pumping.","","P","MUD","94","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6f7a493a-7bfe-43ee-9e04-e774e3b6e91d-176","Main: RIH with 5 1/2'' screens from 1367 m to 2542 m.   
+
+Tripping speed: 14 stands/hours. 
+
+Aux: P/U and R/B 5 1/2'' HWDP.","LCMP1","P","RIH","123","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-371","Fully set packer.  Lined up to pressure down string. Pressured up to 285 bar and held pressure for 15 min.","LCMP2","P","PKRST","106","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_289e9b6e-8295-45af-b79b-3f394642d17c-39","POOH with landing string and laid out cement stinger and wellhead running tool.","","P","DP","79","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-20","Cleared and cleaned rig floor. Meanwhile function tested blind shear ram.","DR","P","RIG","73","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_5b7bd5f2-06cc-44a7-a41f-8626df8c0dfd-41","Continued RIH with 12 1/4"" drilling BHA on 5 1/2"" DP from 254 to 1462 m.","PRODCSG2","P","RIH","72","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_087c4b8e-7d57-4931-9ba1-1bd69b05d4e9-32","Commenced R/U of casing equipment. R/U BX frame 2, 500 ton elevators and tongs.","INTCSG2","P","CSG","79","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_8366da9d-d4b9-43b5-b2ec-2e6a1e642cb7-230","Changed to 5 1/2"" handling equipment. Ran 2 x 5 1/2"" HWDP. Compensated through BOP and wellhead.","PH1","N","BHAHDL","96","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_bd926b14-7167-4e66-8ca9-a0e48139cc9d-131","Made up stand of 5"" HWDP to BHA and RIH. Laid out top single and laid out onto catwalk.","INTCSG2","P","BHA","87","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-17","P/U and R/B 5 1/2"" sand screens with 2x2.5mm nozzles. Racked 13 stands from 11:00 hrs.","RES3","P","PU","86","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-18","Commenced P/U and R/B 5 1/2"" sand creens with 2x2.5mm nozzles.","RES3","P","PU","62","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-39","Changed handling equipment.  Installed drilling stand (5 7/8"" HWDP with pre installed drilling pup.","PRODCSG1","N","BHAHDL","99","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-23","Observed a small increase in ECD. Reamed stand with 2500 lpm, 222 bar, 160 RPM and 15kNm.","RES3","P","REAMBK","89","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-40","Washed in hole with 3500lpm, 121bar. 
+-Tagged TOC at 188m (8m shallow).","PRODCSG1","N","WASH","71","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c83b7f8e-40c3-45d8-8172-f07c41bdff7f-236","POOH on 5 1/2"" wired DP. Compensated through 13 3/8"" shoe. Hole in good condition.","PRODLNR1","P","POH","82","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-41","Picked up 20"" casing hanger and changed out to a longer handling pup.","PRODCSG1","P","PU","69","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0d87386b-fc8f-4a04-92dd-8100761f8bfc-48","Engaged compensator. RIH with 17 1/2"" BHA. Stabbed into SMO. RIH with 17 1/2"" BHA to 159 m.","SURF","P","BHA","91","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-36","Rebuild fishing BHA. L/D 6-1/2"" Jar and P/U 8"" Jar. Changed handling equipment to 5-1/2"".","","","","89","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_96e517dc-21cf-4bb7-9537-27519bfc064a-37","R/D circulating assembly. Held TBT for pressure sampling operations.RIH to 2925m. M/U DDM.","DR","P","DP","90","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_4d8c7ecc-4e87-423b-aed0-6e1f02312643-36","Installed sheave wheel onto 20 ton pad eye below crown block.","RES3","N","RUD","61","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-6","Picked up and made up 36"" BHA.Simultaneously performed seabed survey with ROV.","COND1","P","BHA","78","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-64","Clean and clear rig floor. Check and grease TDS and racking arms.","RES1","P","RIG","65","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-409","POOH with 3 1/2"" stinger from 2810 m to 2534 m. Had heavy backflow from string all time.","","","","88","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_8366da9d-d4b9-43b5-b2ec-2e6a1e642cb7-241","B/U X-Over and sub from  5 1/2"" DP stand and checked for cement","PH1","P","BHAHDL","63","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_5d08fc17-9f3f-459c-9073-2dcceec53394-28","Changed handling equipment to POOH with 12 1/4'' x 13 1 /2'' BHA.
+
+- Removed PS30 slips and installed master bushing.","PRODLNR1","N","RU/RD","117","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6184997d-c51e-44d6-9391-ef0a61586044-287","Prepared fingerboard for P/U 13 3/8"" csg Cleaned and cleared stbd area  Meanwhile: OWS prepared casing tong on deck","UCMP","P","RU/RD","115","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_96e517dc-21cf-4bb7-9537-27519bfc064a-46","Perform rig maintenance on DDM; Upper Racking Arm; & Stand Lift.Monitor well on trip tank.","DR","P","RIG","90","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-411","Continued RIH screens from 3460 to 3711 m on 5-1/2"" landing string.","","","","67","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_a1dd419b-0652-4e3a-b28f-1f382d972384-10","Skidded rig prior to landing BOP.  - Reduced efficiency due to anchor tension requirements.","MOB/DEMOB","P","SKID","91","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-45","POOH (dry) with 12 1/4"" x 14 1/2"" BHA from 1609 m to 385 m on 5"" DP.","","","","68","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_00dc26a3-4be6-4aba-9825-cbd7b09c4c8d-15","Made up 24"""" BHA and changed out Anderdrift assembly, P/U the back-up modified 0.0 deg to 2.5 deg tool. RIH to 90m.","SURF","P","RUD","115","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_96e517dc-21cf-4bb7-9537-27519bfc064a-47","Held TBT. Cut & slip 110 feet of drill line.Monitor well on trip tank.","DR","P","DLIN","70","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_a1dd419b-0652-4e3a-b28f-1f382d972384-11","Landed BOP.  - Landed BOP. - Locked connector. Pumped 62.4 ltr (blue pod).","MOB/DEMOB","P","BOPSER","74","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-46","Changed to 5-1/2"" handling equipment. Continued POOH with BHA to 130 m. Removed diverter bag and wipers in rotary.","","","","114","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_be3f7f9c-7d72-4238-a357-e4c73d4bc280-173","RIH with 16"" BHA from 348m to 422m on 5 1/2"" WDP. Cleaned threads in box and pin on every stand.","INTCSG1","N","RIH","96","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_2a55b3ee-a271-4208-a74a-b76f10938eb1-1","Continued towing rig from Ivar Aasen location to 25/4-11 Hyrokkin location. Entered Hyrokkin 500 m zone at 20:15 hrs.","MOB/DEMOB","P","OTC","117","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_289e9b6e-8295-45af-b79b-3f394642d17c-57","Continued BOP testing: tested BOPs on blue pod to 20 bar / 5 mins and 345 bar / 10 mins.Performed 2 good tests; test #4, #5.","","P","BOPE","124","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-70","RIH with sandscreen completion on 5"" DP landing string from derrick. Filled string at 3079m.","PRODCSG1","P","DP","92","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_087c4b8e-7d57-4931-9ba1-1bd69b05d4e9-59","POOH with  Vetco PADPRT and L/D same. Checked lead impression on PADPRT, good.","INTCSG2","P","TOOL","78","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_00dc26a3-4be6-4aba-9825-cbd7b09c4c8d-16","Continued making up 24"""" BHA and RIH same to 136m. Opened compensator. Stabbed into well and continued tripping in to 174m.","SURF","P","RUD","123","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_59608cc9-0446-48ab-aa89-531c431a05b3-37","P/U milling assembly from catwalk. M/U float sub and X/O and RIH with 3 stands 5 1/2"" DP. M/U magnet assemblies and RIH","RES3","N","BHAHDL","119","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_087c4b8e-7d57-4931-9ba1-1bd69b05d4e9-74","Installed drilling pup and washed down with 2000 lpm and 180 bar and tagged TOC on depth at 2292.9m with 5 mt down.","INTCSG2","P","MUD","115","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_537aeb98-2d89-4e38-bb2c-4d9a6b3685e3-4","Released BOP test tool (8 ton), POOH and L/D same.  - All seals intact on BOP test tool.","RES1","P","BOPTOOL","88","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_d5565405-2989-4499-8df9-8b7845ab2679-224","Wash well head and wear bushing profile and BOP with 4000 lpm and 78 bar.","","","","73","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0ae6e915-e725-4eec-81f9-b02e5a6e9484-204","M/U DDM, filled pipe, established circulation, staged up flow rate.","","","","67","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b212eb62-ea04-4e52-8957-59270890389a-169","Mix and pumped 10 m3 of of 1.52 sg Tuned light XLE cement slurry with 815 lpm. Displaced with 1 m3 seawater.","COND1","P","CMT","108","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-85","Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.","","","","63","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-85","Changed handling equipment to 5"". Transferred 8 1/2"" BHA from main
+setback.","RES1","P","BHAHDL","75","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_4d8c7ecc-4e87-423b-aed0-6e1f02312643-61","Performed pull test to 11000 lbf to check if wireline tool free, no movement observed.","RES3","N","RTW","86","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3d817220-3ddd-41d4-b466-f2c0e90dde04-20","Removed monkey arm from catwalk due to a broken cylinder mounting padeye.","DR","N","RIG","73","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-51","Installed suction hose and flying lead on SMO. Function tested and calibrated RMR system.Held shallow gas meeting.","SURF","P","EQIP","114","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0d87386b-fc8f-4a04-92dd-8100761f8bfc-81","Held TBT and JSA. Fill and flush C/k lines. Pressure tested same 20/345 bar for 5/10 mins.","SURF","P","BOPE","90","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-52","Stabbed 26"" BHA into well. RIH to 175m.Picked up single for space out. Disconnected BX elevator. Installed drilling stand.","SURF","P","BHA","122","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-8","Rigged up Conductor running equipment.","COND1","P","RU/RD","38","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-7","POOH from 2860m to 2571m, with 5"" DP. Pulled wet.","DR","P","DP","49","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_d5565405-2989-4499-8df9-8b7845ab2679-182","Held TBT for core handling.","","","","27","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-375","L/O VMB RT. Held TBT for slip and cut drill line.","","","","49","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3eb52c10-6bb9-44c3-8fc3-7b33e10cf4f6-333","Racked back cement stand.","LCMP2","P","BHAHDL","25","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_4d8c7ecc-4e87-423b-aed0-6e1f02312643-16","POOH with 8 1/2"" drilling BHA from 1500 m to 400 m.","RES3","P","TRP","51","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3eb52c10-6bb9-44c3-8fc3-7b33e10cf4f6-337","Pumped 7 m3 of 1.3 sg slug.","LCMP2","P","CIR","27","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c3299f77-1fdd-40df-8d3f-5ef5ac52b4cd-34","RIS with 12-1/4"" BHA on 8 1/4"" DC singles.","PRODCSG1","P","BHAHDL","42","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-20","Assisted Main during displacement.","RES3","P","MISC","34","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-3","Held TBT for making up 36"" BHA.","COND1","P","MTG","31","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-61","Continue to POOH with 5"" dp from 1030m to 500m.","RES1","P","DP","47","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_bd926b14-7167-4e66-8ca9-a0e48139cc9d-145","Racked back 11 stands 5"" HWDP into derrick.","INTCSG2","P","DP","43","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-5","Held shallow gas meeting with all involved personnel.","COND1","P","MTG","53","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-63","POOH with BHA. Download MWD memory. L/O BHA.","RES1","P","BHA","44","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-25","Recorded SCR's.","RES3","P","CIR","15","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-38","Performed drawdown test on BOP.","","","","31","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-7","RIH with 36"" BHA on 5"" HWDP to 10m above seabed.","COND1","P","BHA","48","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_00dc26a3-4be6-4aba-9825-cbd7b09c4c8d-14","Reloaded cement head in preparation for next cement job.","COND1","P","CMT","56","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_5d08fc17-9f3f-459c-9073-2dcceec53394-29","B/O and L/D 12 1/4'' x 13 1/2'' assemblies to deck.","PRODLNR1","N","BHAHDL","51","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0d87386b-fc8f-4a04-92dd-8100761f8bfc-61","Held TBT. POOH and racked back BHA.","SURF","P","BHA","35","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_6184997d-c51e-44d6-9391-ef0a61586044-286","Disconnected csg tong and L/D same on PCWM","UCMP","P","RU/RD","42","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-410","RIH with BHA from 228 m to 2440 m on 5 DP.","","","","42","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-387","Held a toolbox talk for the upcoming operation.","PRODCSG1","P","MTG","47","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3eb52c10-6bb9-44c3-8fc3-7b33e10cf4f6-350","Rigged up casing tong for building 5 1/2"" tubing.","LCMP2","P","RU/RD","49","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_59608cc9-0446-48ab-aa89-531c431a05b3-26","Flow checked well - static. 
+Pumped 3 m3 of 1.96 sg slug.","RES3","N","FLWCHK","57","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9b9f9cec-7911-451b-8302-e62a9e7b6f1d-388","Troubleshoot depth counter issues.","PRODCSG1","N","ELEC","34","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-47","RIH with 9 1/2"" BHA on 5"" DP from 208 m to 1018 m.","","","","50","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_8366da9d-d4b9-43b5-b2ec-2e6a1e642cb7-242","P/U and B/O 12 1/4"" Clean out BHA.","PH1","P","BHAHDL","34","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b212eb62-ea04-4e52-8957-59270890389a-150","Moved rig 14 meters starboard. Well center at AUX.","COND1","P","SKID","50","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c83b7f8e-40c3-45d8-8172-f07c41bdff7f-250","TBT for P/U cement head.","PRODLNR1","P","SAFETY","24","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9692cbad-f497-4988-a0a6-79675d87cc29-15","Rig up wireline logging equipment.","","P","OPEN","34","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5a9c95f-53cc-451d-9b81-e02aa9f5e66b-402","Installed landing joint.Latched inner barrel to outer barrel","PRODCSG1","P","RISR","60","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-60","Removed radioactive sources from MWD tool.","RES3","N","BHAHDL","42","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_bd926b14-7167-4e66-8ca9-a0e48139cc9d-168","Removed radioactive sources from LWD tools.","RES1","N","BHA","43","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_2a55b3ee-a271-4208-a74a-b76f10938eb1-12","Held TBT for skidding cantilever.","MOB/DEMOB","P","OTC","33","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_2a55b3ee-a271-4208-a74a-b76f10938eb1-13","Skidded cantilever 9.9 m aft of transom and 3 m stbd","MOB/DEMOB","P","OTC","52","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_82bb7059-b00e-4d6e-84f5-9f9243791d5e-29","Flow checked well for minimum 10 min - static, 15 rpm.","INTCSG1","N","FLWCHK","54","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_be3f7f9c-7d72-4238-a357-e4c73d4bc280-198","Flow checked well prior to pulling BHA in to BOP.","INTCSG1","N","FLWCHK","49","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_2a55b3ee-a271-4208-a74a-b76f10938eb1-14","Installed cantilever stair towers.","MOB/DEMOB","P","OTC","34","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ecfeaf4c-0b12-44cf-b55c-a76a1e302461-50","Repaired leaking seawater valve for main engine cooling.","SURF","N","RIG","56","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9692cbad-f497-4988-a0a6-79675d87cc29-28","Run in the hole with Earth Imager  to 1380 m","","P","OPEN","44","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_01dc3079-768e-4647-b325-e82da115aee8-73","Plugged into MWD.  Meanwhile held prejob prior to L/D BHA.","RES3","N","BHAHDL","58","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-86","Held TBT prior to displacing riser to 1,05 sg brine.","","","","52","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_9692cbad-f497-4988-a0a6-79675d87cc29-29","Continue to run in the hole with Earth Imager to 2277 m.","","P","OPEN","56","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_83b72239-3492-4a51-901d-8c48ae4775b0-17","Changed to 4"" DP inserts in PUE for laying down 4"" DP","RES1","P","RU/RD","53","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c83b7f8e-40c3-45d8-8172-f07c41bdff7f-254","TBT for P/U and M/U Versaflex hanger.","PRODLNR1","P","SAFETY","37","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-427","Released spear by CW rotation and R/B 1 stand.","","","","46","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c7dbc982-643b-4b75-967b-5bb27978ba61-428","Pumped slug at 2448 m, and installed wipers below rotary.","","","","57","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c83b7f8e-40c3-45d8-8172-f07c41bdff7f-259","Pumped 5 m3 of 1.72 sg slug.","PRODLNR1","P","CIR","28","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_636b7822-e7aa-449d-9d6f-de2d487b951a-9","Commenced to hook up C.W.M. hydraulics.","","P","RIG_","39","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0ae6e915-e725-4eec-81f9-b02e5a6e9484-211","Tripped in hole with clean up assembly to 2510m","","","","47","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_fa623bc9-9eb7-4da4-990a-472281ed13c1-295","Continue to run in hole from 161m to 414m.","","","","42","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_be3f7f9c-7d72-4238-a357-e4c73d4bc280-208","Cleaned and cleared rigfloor.","SURF","P","CLRF","29","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_00dc26a3-4be6-4aba-9825-cbd7b09c4c8d-43","Held Toolbox talk whilst circulating.","SURF","N","MTG","37","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_5b7bd5f2-06cc-44a7-a41f-8626df8c0dfd-102","Removed stuck casing protector on stand.","PRODCSG2","P","RIH","40","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_82bb7059-b00e-4d6e-84f5-9f9243791d5e-47","Changed handling equipment to pull NSP.","INTCSG1","N","RU/RD","39","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_fa623bc9-9eb7-4da4-990a-472281ed13c1-297","Pull out of hole with 24"""" BHA and rack back in derrick.","","","","56","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_c83b7f8e-40c3-45d8-8172-f07c41bdff7f-268","M/U and R/B 9 1/2"" Backup drilling BHA.","RES1","P","BHAHDL","39","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_fa623bc9-9eb7-4da4-990a-472281ed13c1-299","Flow-checked well - static.","","","","27","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_2a55b3ee-a271-4208-a74a-b76f10938eb1-31","Checked for flow at seabed with ROV - no flow observed.","COND1","P","OTC","55","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_15693322-a9c7-4e32-96f1-1894517648cf-817","Nippled down choke and kill lines and removed hand rails on BOP.
+
+Note: A-annulus pressure = 0 bar.","3ICT, RIC","P","Mechanical Evaluatio","101","notag","",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_87992d4b-4c1f-4760-ab8e-40f1b255fcc0-1111","R/B drill collar with Black Box EMS. Continued POOH from 12 m to surface. Checked and L/D milling assembly. Knives were 30% worn.","ABAN","P","POH","129","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_a0d5f776-0825-4bfd-ae17-af1ffe23f549-351","Established parameters, 800 lpm/48 bar, 25 rpm/24-29 kNm. 
+Scraped 9 5/8"" casing interval from 3904 m to top PBR three times. Tagged PBR three times with 2 ton at 3963.3 m (40 cm deeper compared to previous tag without flow and rotation).
+- Corresponding bit depths: 4405 m to 4464.6 m","LCMP1","P","RWH","285","notag","",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_0a1ff79d-6564-4225-b257-e0c8a18e69b5-417","Completed shift handover, preshift meeting with crews and endorsed permits. Got hold of DP crane crew. Made lifting plan and got boat alongside. Lifted backload down to boat. Crane out of service due to problems with wire spooling.","INTERV","P","RD","231","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b5eba2c0-b2be-4961-84b1-c543ac7b2d53-1125","Lost WOB at 3069m. Continued to ream in hole to 3082m with 300 gpm / 750 psi, 43 rpnm / 11-13 kftlbs.","PROD1","N","RIH","101","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_bb6cf018-415f-49e8-83f3-51fb1fc717d4-204","Cont. washing multibowl with Cameron jetting tool. Wash with 600 gpm using SW","INT1","P","WASH","77","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_ea5e007f-098f-4c01-9b67-e4c45718ab97-501","Oriented key to 15 degrees starboard aft. landed TH in rotary table. laid out TH Handling Tool. made up TH Running Tool (THRT) to the TH. Checked same. Ran in TH and installed 7"""" FMS.","","P","TBG_","184","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_68dfaf95-7fb5-4ae4-af6e-6939a6b7308b-728","PU READ casing patch. Secured in rotary. PU joint number 1 and attempt to MU. There was no indication of shouldering up at recommended MU torque. Backed out joint and cleaned threads. Found galling in middle of box. Repaired same with emory cloth. Clean pin on casing joint #1, also galled, laid down same. Picked up joint #2. Removed protector and observed red paint on the threads and sand in thread compound. Cleaned connection and found that the red paint was below the thread compound. Found some thread damage. Laid down joint #2.","INT2","N","PU","536","notag","",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3d7e9112-e803-404b-b3ba-fc608c145346-220","Installed Diverter Bag and Auto-Slips.","2DL, SH36","P","Handle Drilling BHA","38","notag","",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_b897156a-4c9b-429d-85b6-b3e598efb4d1-253","Pick up MFC tractor BHA and make up inside riser and the lubricator. Stab on the lubricator and pressure test QTS 300-5000 psi 5-10 min.","ABAN","P","BHPULD","136","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_daf21cbb-0f5a-458b-8698-96aa25f193fd-46","Took survey and continued drilling 32"" hole to 350m w 1:1 mix PHB/sea water. Pumped 20m3 PAC hi-vis sweep before and spotted 20m3 PHB pill on bottom at connections. Drilled through hard spot 314-320m,4m/hr,otherwise 10-30m/hr. Drilling parameters : 1-4t WOB, 2-4kftlbs torque,45-60RPM,5000liters/min at 100bar pump press.","COND1","P","DRL","321","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_3a067892-b7e2-4eec-8672-2ddcdf738a97-1321","Continued POH
+- Pulled out with 2 m/min. PUW 530 lbs. WHP 76 bar. 
+- Stopped at 220m and pulled 200 lbs overpull twice. Not able to get further out of hole","INTERV","N","POH","155","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_bde06324-c3f2-435b-b673-36e5a6a7276f-155","B/O and L/O 5 1/2"" to 5"" XO on top of liner.  Change to 2 7/8"" equipment and L/O 2 7/8 cement stinger and R/T.","COMP","P","LD","110","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_fa2e8fe2-f298-4847-805c-3ea436ef3a93-702","Made wiper trip to 4590m. Initial pulling wt 73000lbs.","INTERV","P","WIPER","54","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_81576e6d-96a9-46cd-b27f-2b3b4a0feaf3-175","Run in pocket. Tap & jar down 6 times. PU. Hanging in trigger, fire EA jar once  in order to shear free.","INTERV","N","RIH","104","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_26263864-2697-4366-9e02-fdb1e5126e52-750","Washed through 10"" rathole in 2 x stages from 5021.8 m to 5029 m.
+- 1000 lpm / 116 bar, 10 rpm / 11 kNm, zero WOB.
+- At 5027 m observed a 2 MT WOB spike and string stall out.
+- Increased parameters to 1200 lpm / 143 bar, 50 rpm 16 kNm.
+- Washed down last 2 m from 5027 m to bottom of 12 1/4"" rathole at 5029 m.
+- WOB flickered between 0-2 MT while washing down the last 2 m.
+- No indication of any cement in rathole.","RES1","N","WASH","416","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_7965aeb4-c7cf-49c6-8e05-6b13262a7fdf-2331","Meeting with onshore forward plan.
+Meanwhile:
+-Inject 3500 M2/hr Gaslift from production to lower Hydrostatic head
+-Work Coil up/down every 15 min to attempt to pull/push free. No indication movement
+-PO 65000 Ibs/SO 0 Ibs. No movement on CT","INTERV","N","SAFETY","241","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_fc63f8c4-dd68-4450-8a8d-d39dc3dfba85-13","Drilled from 3903 m to 3921 m.    - WOB = 6 - 7 T / 1600 lpm / 163 bar / 180 rpm / 23 - 36 kNm.    - ROP = +/- 30 m/hr / MW in = 1,34 sg / MW out = 1,33+ sg / ECD =  +/- 1,386 / Max gas = 16 - 22 % gas,","RES1","P","DRL","202","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_12d51bd7-e92a-472a-9498-afeaf5997709-12","CIRC OUT FILL W/ 80 SPM/2000 PSI.","PROD1","C","","33","notag","[]",""
+"a1f86f80-135e-458b-aafc-3af30d2476f2_main_644eef11-e8fb-4201-94ea-97df3d19b3b1-540","Drilled 12-1/4"" hole from 3916m to 3931m  with 1,58 sg OBM. 
+Drilled with WOB: 15-19mT, 3500 lpm / 284 bar, 160rpm / 29-32kNm / 1,60sg ECD / Max 7,44% gas.
+ROP 10m/hr.
+
+Lost 18m3 of OBM down hole over the last 24 hrs.","INT2","P","DRLDIR","217","notag","[]",""

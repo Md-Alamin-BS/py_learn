@@ -1,0 +1,2 @@
+﻿displayName,status,createdOn,duration,avg_recall_per_ddr,avg_precision_per_ddr,avg_f1_per_ddr,boulders precision,boulders recall,boulders f1,dheqfailure precision,dheqfailure recall,dheqfailure f1,dircontrol precision,dircontrol recall,dircontrol f1,harddrilling precision,harddrilling recall,harddrilling f1,highrop precision,highrop recall
+"eval_run_20241210141056_mod_prompt","Completed","2024-12-11T09:02:08.1954217+00:00","46676.1479","0.764","0.701","0.719","0","1","0","0.077","0.25","0.118","0","1","0","0.111","1","0.2","0","1"

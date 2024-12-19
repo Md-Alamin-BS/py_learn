@@ -1,0 +1,9 @@
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/Run.schema.json
+name: tighthole_tagging
+flow: ./
+data: '../../../experiments/1_datasets/reviewed_distributed_ddr_v4.csv'
+column_mapping:
+  text: ${data.text}
+  phase: ${data.phase}
+  code: ${data.code}
+  subCode: ${data.subCode}

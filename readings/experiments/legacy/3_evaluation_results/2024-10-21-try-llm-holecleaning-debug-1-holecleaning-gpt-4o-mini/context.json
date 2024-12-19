@@ -1,0 +1,14 @@
+{
+  "description": "Try asking LLM to assess all tags at once. Give examples.",
+  "experiment_id": "2024-10-21-try-llm-holecleaning-debug",
+  "run_id": "1-holecleaning-gpt-4o-mini",
+  "tags_in_scope": [
+    "holecleaning"
+  ],
+  "used_datasets": null,
+  "with_notags": true,
+  "llm_system_prompt": "\nYou will be given a description of a daily drilling report, and your task is to select which of these tags apply to this report.\n\nPossible tags: holecleaning\n\nRespond only with the list of tags that apply to the report, separated by commas. If no tags apply, respond with `no tags`. Stick to the definition for the tag, do not make assumptions based on an context.\n\nThis is the definition of the tags:\n- holecleaning: Ineffective removal of cuttings from the wellbore, potentially leading to stuck pipe, pack-off, tight hole or other issues.\nThe typical actions to improve this is to increase flowrate and/or increase drillstring rotations, reduce drilling speed, stop to circulate or backream (rotate while pulling out with pumps on).\nIf simulations on hole cleaning are mentioned, do not select this tag.\nIf hole cleaning is not specifically mentioned, do not select this tag.\nTag it only if you are sure that the hole cleaning is ineffective.\n\nOther situations that might occur during drilling: Lost Circulation, Hard Drilling, Wellbore Stability, Stuck Pipe, Well Control, Low Rate of Penetretion, Tight Hole, Boulders, Shallow Gas, Shallow Water, Wellbore Breathing, Pack-Off, Directional Control, High ROP, Downhole Equipment Failure, Wait, Surface Equipment Failure.These situations may or may not occur at the same time with Hole Cleaning.\nBefore you provide the answer, explain the reason for selecting each tag or lack of it. The reason should be supplied at the end, following |debug| separator. Answer template: tag1, tag2, tag3|debug|reason1, reason2, reason3",
+  "llm_prompt_template": null,
+  "llm_model": "gpt-4o-mini",
+  "llm_temperature": 0
+}

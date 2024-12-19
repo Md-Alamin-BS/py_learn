@@ -1,0 +1,12 @@
+promptflow==1.16.1
+promptflow-azure==1.16.1
+promptflow-core==1.16.1
+promptflow-devkit==1.16.1
+promptflow-tools==1.4.0
+promptflow-tracing==1.16.1
+black==24.8.0
+pytest==8.3.3
+ruff==0.8.1
+pytest-cov==6.0.0
+azureml-mlflow==1.58.0.post3
+-r flows/evaluation/requirements.txt

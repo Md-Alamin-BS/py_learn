@@ -1,0 +1,783 @@
+{
+  "flow_runs": [
+    {
+      "run_id": "d787d70d-13f4-41eb-bf22-d90ab7d8c5e7_0",
+      "status": "Completed",
+      "error": null,
+      "inputs": {
+        "text": "Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.\n",
+        "recordType": "",
+        "phase": "",
+        "operationSubcode": "",
+        "scope": "",
+        "title": "",
+        "extendedCategory": ""
+      },
+      "output": {
+        "tags": [
+          {
+            "tag": "lostcirculation",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "harddrilling",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wellborestability",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "stuckpipe",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wellcontrol",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "holecleaning",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "boulders",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "shallowgas",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "shallowwater",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wellborebreathing",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "packoff",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "dircontrol",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "lowrop",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "highrop",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "dheqfailure",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wait",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "surfeqfailure",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "tighthole",
+            "present": false,
+            "justification": "regex"
+          }
+        ]
+      },
+      "metrics": null,
+      "request": null,
+      "parent_run_id": "d787d70d-13f4-41eb-bf22-d90ab7d8c5e7",
+      "root_run_id": "d787d70d-13f4-41eb-bf22-d90ab7d8c5e7",
+      "source_run_id": null,
+      "flow_id": "tag_record",
+      "start_time": "2024-11-25T11:51:15.213283Z",
+      "end_time": "2024-11-25T11:51:15.228282Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "flow",
+          "node_name": "flow",
+          "type": "Flow",
+          "start_time": 1732531875.213283,
+          "end_time": 1732531875.228282,
+          "children": [
+            {
+              "name": "regex_tag",
+              "type": "Function",
+              "inputs": {
+                "text": "Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.\n",
+                "phase": "",
+                "operationSubcode": ""
+              },
+              "output": [
+                {
+                  "tag": "lostcirculation",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "harddrilling",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "wellborestability",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "stuckpipe",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "wellcontrol",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "holecleaning",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "boulders",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "shallowgas",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "shallowwater",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "wellborebreathing",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "packoff",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "dircontrol",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "lowrop",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "highrop",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "dheqfailure",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "wait",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "surfeqfailure",
+                  "present": false,
+                  "justification": "regex"
+                },
+                {
+                  "tag": "tighthole",
+                  "present": false,
+                  "justification": "regex"
+                }
+              ],
+              "start_time": 1732531875.217292,
+              "end_time": 1732531875.225281,
+              "error": null,
+              "children": [],
+              "node_name": "AssignTag",
+              "parent_id": "",
+              "id": "10f0fd64-dc8f-4b16-a366-7d67073a27c3",
+              "function": "regex_tag",
+              "system_metrics": {}
+            }
+          ],
+          "system_metrics": {
+            "duration": 0.014999,
+            "prompt_tokens": 0,
+            "completion_tokens": 0,
+            "total_tokens": 0
+          },
+          "inputs": {
+            "text": "Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.\n",
+            "recordType": "",
+            "phase": "",
+            "operationSubcode": "",
+            "scope": "",
+            "title": "",
+            "extendedCategory": ""
+          },
+          "output": {
+            "tags": [
+              {
+                "tag": "lostcirculation",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "harddrilling",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "wellborestability",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "stuckpipe",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "wellcontrol",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "holecleaning",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "boulders",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "shallowgas",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "shallowwater",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "wellborebreathing",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "packoff",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "dircontrol",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "lowrop",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "highrop",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "dheqfailure",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "wait",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "surfeqfailure",
+                "present": false,
+                "justification": "regex"
+              },
+              {
+                "tag": "tighthole",
+                "present": false,
+                "justification": "regex"
+              }
+            ]
+          },
+          "error": null
+        }
+      ],
+      "name": "",
+      "description": "",
+      "tags": null,
+      "system_metrics": {
+        "duration": 0.014999,
+        "prompt_tokens": 0,
+        "completion_tokens": 0,
+        "total_tokens": 0
+      },
+      "result": {
+        "tags": [
+          {
+            "tag": "lostcirculation",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "harddrilling",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wellborestability",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "stuckpipe",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wellcontrol",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "holecleaning",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "boulders",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "shallowgas",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "shallowwater",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wellborebreathing",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "packoff",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "dircontrol",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "lowrop",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "highrop",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "dheqfailure",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "wait",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "surfeqfailure",
+            "present": false,
+            "justification": "regex"
+          },
+          {
+            "tag": "tighthole",
+            "present": false,
+            "justification": "regex"
+          }
+        ]
+      },
+      "upload_metrics": false,
+      "otel_trace_id": "0xf1468a779d213844c91606d6db38f756",
+      "message_format": "basic"
+    }
+  ],
+  "node_runs": [
+    {
+      "node": "AssignTag",
+      "flow_run_id": "d787d70d-13f4-41eb-bf22-d90ab7d8c5e7",
+      "run_id": "d787d70d-13f4-41eb-bf22-d90ab7d8c5e7_AssignTag_0",
+      "status": "Completed",
+      "inputs": {
+        "text": "Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.\n",
+        "phase": "",
+        "operationSubcode": ""
+      },
+      "output": [
+        {
+          "tag": "lostcirculation",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "harddrilling",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wellborestability",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "stuckpipe",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wellcontrol",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "holecleaning",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "boulders",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "shallowgas",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "shallowwater",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wellborebreathing",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "packoff",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "dircontrol",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "lowrop",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "highrop",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "dheqfailure",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wait",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "surfeqfailure",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "tighthole",
+          "present": false,
+          "justification": "regex"
+        }
+      ],
+      "metrics": null,
+      "error": null,
+      "parent_run_id": "d787d70d-13f4-41eb-bf22-d90ab7d8c5e7_0",
+      "start_time": "2024-11-25T11:51:15.216285Z",
+      "end_time": "2024-11-25T11:51:15.225281Z",
+      "index": 0,
+      "api_calls": [
+        {
+          "name": "regex_tag",
+          "type": "Function",
+          "inputs": {
+            "text": "Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.\n",
+            "phase": "",
+            "operationSubcode": ""
+          },
+          "output": [
+            {
+              "tag": "lostcirculation",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "harddrilling",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "wellborestability",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "stuckpipe",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "wellcontrol",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "holecleaning",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "boulders",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "shallowgas",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "shallowwater",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "wellborebreathing",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "packoff",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "dircontrol",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "lowrop",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "highrop",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "dheqfailure",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "wait",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "surfeqfailure",
+              "present": false,
+              "justification": "regex"
+            },
+            {
+              "tag": "tighthole",
+              "present": false,
+              "justification": "regex"
+            }
+          ],
+          "start_time": 1732531875.217292,
+          "end_time": 1732531875.225281,
+          "error": null,
+          "children": [],
+          "node_name": "AssignTag",
+          "parent_id": "",
+          "id": "10f0fd64-dc8f-4b16-a366-7d67073a27c3",
+          "function": "regex_tag",
+          "system_metrics": {}
+        }
+      ],
+      "cached_run_id": null,
+      "cached_flow_run_id": null,
+      "logs": {
+        "stdout": "",
+        "stderr": ""
+      },
+      "system_metrics": {
+        "duration": 0.008996
+      },
+      "result": [
+        {
+          "tag": "lostcirculation",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "harddrilling",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wellborestability",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "stuckpipe",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wellcontrol",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "holecleaning",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "boulders",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "shallowgas",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "shallowwater",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wellborebreathing",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "packoff",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "dircontrol",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "lowrop",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "highrop",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "dheqfailure",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "wait",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "surfeqfailure",
+          "present": false,
+          "justification": "regex"
+        },
+        {
+          "tag": "tighthole",
+          "present": false,
+          "justification": "regex"
+        }
+      ],
+      "message_format": "basic"
+    }
+  ]
+}

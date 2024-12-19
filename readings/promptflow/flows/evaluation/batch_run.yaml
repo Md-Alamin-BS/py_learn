@@ -1,0 +1,10 @@
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/Run.schema.json
+name: evaluate_tagging
+flow: ./
+column_mapping:
+  text: ${data.text}
+  phase: ${data.phase}
+  operationSubcode: ${data.subCode}
+  assigned_tags: ${run.outputs.assigned_tags}
+  prediction: ${run.outputs.tags}
+  groundtruth: ${data.reviewedTags}

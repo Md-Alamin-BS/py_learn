@@ -1,0 +1,30 @@
+{
+  "description": "Evaluate performance of the existing solution to set a baseline",
+  "experiment_id": "2024-10-24-baseline-data-events",
+  "run_id": "on-events-dataset-v1",
+  "tags_in_scope": [
+    "boulders",
+    "dheqfailure",
+    "dircontrol",
+    "harddrilling",
+    "highrop",
+    "holecleaning",
+    "lostcirculation",
+    "lowrop",
+    "packoff",
+    "shallowgas",
+    "shallowwater",
+    "stuck",
+    "stuckpipe",
+    "surfeqfailure",
+    "tighthole",
+    "wait",
+    "wellborebreathing",
+    "wellborestability",
+    "wellcontrol"
+  ],
+  "used_datasets": [
+    "reviewed_distributed_events.csv"
+  ],
+  "with_notags": true
+}

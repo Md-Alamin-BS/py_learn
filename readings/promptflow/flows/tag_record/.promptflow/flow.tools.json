@@ -1,0 +1,64 @@
+{
+  "package": {},
+  "code": {
+    "all_tags_at_once.jinja2": {
+      "type": "llm",
+      "inputs": {
+        "recordType": {
+          "type": [
+            "string"
+          ]
+        },
+        "text": {
+          "type": [
+            "string"
+          ]
+        },
+        "phase": {
+          "type": [
+            "string"
+          ]
+        },
+        "operationSubcode": {
+          "type": [
+            "string"
+          ]
+        },
+        "scope": {
+          "type": [
+            "string"
+          ]
+        },
+        "title": {
+          "type": [
+            "string"
+          ]
+        },
+        "extendedCategory": {
+          "type": [
+            "string"
+          ]
+        }
+      },
+      "source": "all_tags_at_once.jinja2"
+    },
+    "parse_output.py": {
+      "type": "python",
+      "inputs": {
+        "llm_response": {
+          "type": [
+            "string"
+          ]
+        },
+        "debug": {
+          "type": [
+            "bool"
+          ],
+          "default": "False"
+        }
+      },
+      "source": "parse_output.py",
+      "function": "parse_output"
+    }
+  }
+}

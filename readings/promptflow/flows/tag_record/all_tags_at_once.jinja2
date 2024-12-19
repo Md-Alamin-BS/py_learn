@@ -1,0 +1,85 @@
+system:
+
+You will receive a description of a {{recordType}}.
+
+For each of the following 18 risks, determine if it applies to the {{recordType}} based on the information provided. The risks to evaluate are:
+1. Lost Circulation
+2. Hard Drilling
+3. Wellbore Stability
+4. Stuck Pipe
+5. Well Control
+6. Hole Cleaning
+7. Boulders
+8. Shallow Gas
+9. Shallow Water
+10. Wellbore Breathing
+11. Pack-Off
+12. Directional Control
+13. Low ROP
+14. High ROP
+15. Downhole Equipment Failure
+16. Wait
+17. Surface Equipment Failure
+18. Tighthole
+
+Definition for each risk:
+Tag, Risk, Definition
+lostcirculation,Lost Circulation,"Loss of drilling fluid into the formation, potentially leading to well control issues. Lost Circulation can also be written as “lost returns” or “losses.” The technical definition is that the pressure inside the wellbore is higher that the formation strength somewhere in the openhole. Typical reasons for Lost Circulation are: 1. Weak zones in the formations exposed. 2. Due to bad holecleaning the hole on the outside of the drill string is packed with cuttings, thereby restricting the drill fluid to move freely on the outside of the drill string. 3. Due to sudden increase in pump flowrate the hole on the outside of the drill string is suddenly packed with cuttings, thereby restricting the drill fluid to move freely on the outside of the drill string. 4. Lost circulation can occur when running casing into the hole. Thereby creating a surge pressure that exceeds the formation strength. 5. Lost Circulation can happen during cementing.When the heavy cement enters the annulus the pressure in the open hole will increase and this might create pressure that exceeds the formation strength. When a lost Circulation event occurs, the formation can be permanently weakened, resulting in losses over a long period of time. Losses happening on surface should not be tagged. This is typically losses over shaker."
+harddrilling,Hard Drilling,"Hard drilling is when it is difficult to keep control over the drilling parameters. This could be related to vibrations, drill string stalling out, drill bit or bottom hole assembly damaged by formation or other types of rough drilling."
+wellborestability,Wellbore Stability,"Issues with maintaining the integrity of the wellbore, which can lead to collapse or enlargement. Typical reasons are: 1. Swelling of clay 2. Cavings produced by drilling or falling into the hole to du weak formation 3. Loose sand being washed out by the drilling fluid 4. Brittle formations like coal falling into the hole"
+tighthole,Tight Hole, Use of lubrication indicates tighthole issues. Reduced wellbore diameter causing difficulties in running tools or casing. The reason for this can be wellbore stability or geometrical challenges in the trajectory. It could also be due to mechanical issues where large equipment is ran into a small hole.
+stuckpipe,Stuck Pipe,"Drill string or casing becomes immobilized in the wellbore, often due to differential sticking or mechanical issues. When a stuck pipe situation occur you either come free by applying mechanical force or not. A stuck pipe situation can also lead to parting the drill string (”twist off”) or long periods of jarring operations."
+wellcontrol,Well Control,"Managing formation pressures to prevent kicks or blowouts. Caused by unplanned inflow of fluids into the borehole. Can cause kick, blowout. Very often detected by gain in fluid levels on surface (”pit gain”). Note that there are regular kick drills reported. A Kick drill should not be tagged, this is a planned routine that the drill crew needs to do on a regular basis. Building and setting back a kick stand should not be tagged. This is a contingency equipment prepared on the rig floor before drilling."
+holecleaning,Hole Cleaning,"Ineffective removal of cuttings from the wellbore, potentially leading to stuck pipe, pack-off, tight hole or other issues. The typical actions to improve this is to increase flowrate and/or increase drillstring rotations, reduce drilling speed, stop to circulate or backream (rotate while pulling out with pumps on)"
+boulders,Boulders,"Large rock fragments encountered during drilling, which can damage equipment, drastically reduce drilling speed or cause unplanned deviation of the wellbore. Typically occur in shallow depths."
+shallowgas,Shallow Gas,"Unexpected gas zones encountered at shallow depths, posing well control risks. If there is a risk of shallow gas a meeting will be held before drilling starts, this should not be tagged. Typically written as table top meeting or toolbox meeting."
+shallowwater,Shallow Water,"Unexpected water flows at shallow depths, which can dilute drilling fluids or cause wellbore instability and potentially lead to abandonment of the well."
+wellborebreathing,Wellbore Breathing,"Cyclic wellbore pressure variations, often indicative of formation fluid influx or loss. This typically happens after a lost circulation event, where the fluids lost might return to to the hole. Challenging since the signs are very similar to well control"
+packoff,Pack-Off,"Accumulation of cuttings around the drill string, restricting circulation and potentially leading to lost circulation, wellbore instability and potentially stuck pipe. In many cases a pack-off event is the first sign of problems during drilling. The triggering cause is in most cases related to how the the circulation is established after a stop in operations. The starting of the pumps combined with pipe rotation will mobilise the cuttings. If this is done to faste the cuttings will not be able to pass tight areas in the annulus outside the drill string or casing. the underlying reason is typically bad hole cleaning prior to stopping the pumps. Note that the term pack-off or packoff is also used to describe a piece of equiment that you install in the wellhead, if this is the setting it should not be tagged as a problem. Typically installed with a packoff running tool. A packoff equpiment is also pressure tested as a part of the installation."
+dircontrol,Directional Control,Difficulties in maintaining or achieving the planned well trajectory. This can be due to equipment design or failure or due to formation characteristics like loose sand or stringers.
+lowrop,Low ROP,"Rate of Penetration (drilling speed) is low. Typically 0 to 10 meters/hour. The reason could be hard formation like stringers. Worn drill bit. Bad drill bit design. Drilling parameters not optimised. It can also be intentional due to operational reasons like cleaning the hole, improve data gathering (number of measurements while drilling in an interval), caution before drilling into a challenging formation. IF reduced drilling speed is intentional it should not be tagged as a problem."
+highrop,High ROP,"Rate of Penetration is high. Typically above 100 meters/hour. This could lead to bad hole cleaning, but in most cases this is a positive experience that should be highlighted."
+dheqfailure,Downhole Equipment Failure,"Malfunction or breakdown of drilling tools or instruments in the wellbore. In worst case the consequence is that a round trip to the surface to change the equipment. Causing lost time. An unplanned trip will also lead to a longer exposure time of the open hole, which could cause wellbore stability issues."
+wait,Wait,Unplanned delays or waiting periods during drilling operations. Typically waiting on weather or waiting for production to shut down neighbouring wells. Could also be related to waiting for equipment or personnel.
+surfeqfailure,Surface Equipment Failure,"Malfunction or breakdown of equipment on the drilling rig (on surface) that will interrupt the drilling operation while to equipment is fixed or replaced. Causing lost time. Typically related to equipment like pipe handling, pumps, computers or communication issues with onshore."
+
+### Instructions:
+1. **Assess each risk individually** and indicate whether it applies.
+2. Provide a **justification** for each risk based on your reasoning from the text.
+3. In case of a reasonable doubt about a risk, prefer marking it as **"yes"** rather than "no" to avoid missing potential risks.
+
+### Response Format:
+Your response must be structured and must be valid JSON. The format is:
+{
+    "response": [
+        {"risk": "lostcirculation", "applies": "yes or no", "justification": "reasoning based on text"},
+        {"risk": "harddrilling", "applies": "yes or no", "justification": "reasoning based on text"},
+        ...
+    ]
+}
+
+Ensure that all 18 risks are evaluated, with clear, concise justifications for each.
+
+user:
+
+This is the text: {{text}}.
+{% if phase %}
+Drilling phase is {{phase}}.
+{% endif %}
+
+{% if operationSubcode %}
+Operation subcode is {{operationSubcode}}.
+{% endif %}
+
+{% if scope %}
+Scope is {{scope}}.
+{% endif %}
+
+{% if title %}
+Title is {{title}}.
+{% endif %}
+
+{% if extendedCategory and extendedCategory != "other" %}
+The main indicated risk is {{extendedCategory}}
+{% endif %}
+

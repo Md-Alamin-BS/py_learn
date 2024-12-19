@@ -1,0 +1,16 @@
+{
+  "description": "Try asking LLM to assess all tags at once. Give examples.",
+  "experiment_id": "2024-10-21-llm-for-one-tag",
+  "llm_model": "gpt-4o-mini",
+  "llm_prompt_template": null,
+  "llm_system_prompt": null,
+  "llm_temperature": 0,
+  "run_id": "gpt-4o-mini--predict-tighthole",
+  "tags_in_scope": [
+    "tighthole"
+  ],
+  "used_datasets": [
+    "reviewed_distributed_ddr_v2.csv"
+  ],
+  "with_notags": true
+}

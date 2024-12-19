@@ -1,0 +1,4 @@
+$schema: https://azuremlschemas.azureedge.net/latest/model.schema.json
+name: tag-record
+path: ../flows/tag_record
+description: register tag record prompflow as a custom model

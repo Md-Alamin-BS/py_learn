@@ -1,0 +1,14 @@
+{
+  "description": "Try asking LLM to assess all tags at once. Give examples.",
+  "experiment_id": "2024-10-23-try-llm-packoff-debug",
+  "run_id": "1-packoff-gpt-4o-mini",
+  "tags_in_scope": [
+    "packoff"
+  ],
+  "used_datasets": null,
+  "with_notags": true,
+  "llm_system_prompt": "\nYou will be given a description of a daily drilling report, and your task is to select which of these tags apply to this report.\n\nPossible tags: packoff\n\nRespond only with the list of tags that apply to the report, separated by commas. If no tags apply, respond with `no tags`. Stick to the definition for the tag, do not make assumptions based on an context.\n\nThis is the definition of the tags:\n- packoff: \"Accumulation of cuttings around the drill string, restricting circulation and potentially leading to lost circulation, wellbore instability and potentially stuck pipe. \nIn many cases a pack-off event is the first sign of problems during drilling. The triggering cause is in most cases related to how the the circulation is established after a stop in operations.\nThe starting of the pumps combined with pipe rotation will mobilise the cuttings. If this is done to faste the cuttings will not be able to pass tight areas in the annulus outside the drill string or casing.\nThe underlying reason is typically bad hole cleaning prior to stopping the pumps.\nNote that the term pack-off or packoff is also used to describe a piece of equiment that you install in the wellhead, if this is the setting it should not be tagged as a problem.\nTypically installed with a packoff running tool. A packoff equpiment is also pressure tested as a part of the installation.\"\n\nDo not tag with `packoff` if the issue is equipment related for example:\n- RIH with same and land in packoff profile with 5 tonne down -> do not tag as packoff, tag as equipment related issue\n- B/O pack off on spear and removed pack off -> do not tag as packoff, tag as equipment related task\n- Released RSM pack off and running tool -> do not tag as packoff, tag as equipment related task\n\nOther situations that might occur during drilling: Lost Circulation, Hard Drilling, Wellbore Stability, Stuck Pipe, Well Control, Hole Cleaning, Tight Hole, Boulders, Shallow Gas, Shallow Water, Wellbore Breathing, Low Rate of Penetration, Directional Control, High ROP, Downhole Equipment Failure, Wait, Surface Equipment Failure.These situations may or may not occur at the same time with Packoff.\nBefore you provide the answer, explain the reason for selecting each tag or lack of it. The reason should be supplied at the end, following |debug| separator. Answer template: tag1, tag2, tag3|debug|reason1, reason2, reason3",
+  "llm_prompt_template": null,
+  "llm_model": "gpt-4o-mini",
+  "llm_temperature": 0
+}

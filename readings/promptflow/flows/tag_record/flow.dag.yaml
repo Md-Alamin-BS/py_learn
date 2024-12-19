@@ -1,0 +1,59 @@
+id: tag_record
+name: Tagging Flow for all tags
+inputs:
+  text:
+    type: string
+  recordType:
+    type: string
+  phase:
+    type: string
+    default: ""
+  operationSubcode:
+    type: string
+    default: ""
+  scope:
+    type: string
+    default: ""
+  title:
+    type: string
+    default: ""
+  extendedCategory:
+    type: string
+    default: ""
+outputs:
+  tags:
+    type: list
+    reference: ${ParseLlmResponse.output.tags_with_justification}
+  assigned_tags:
+    type: list
+    reference: ${ParseLlmResponse.output.assigned_tags}
+nodes:
+- name: AssignTag
+  type: llm
+  source:
+    type: code
+    path: all_tags_at_once.jinja2
+  inputs:
+    deployment_name: gpt-4o-mini
+    temperature: 0
+    extendedCategory: ${inputs.extendedCategory}
+    operationSubcode: ${inputs.operationSubcode}
+    phase: ${inputs.phase}
+    recordType: ${inputs.recordType}
+    scope: ${inputs.scope}
+    text: ${inputs.text}
+    title: ${inputs.title}
+    response_format:
+      type: json_object
+  provider: AzureOpenAI
+  connection: akerbp-ai
+  api: chat
+  use_variants: false
+- name: ParseLlmResponse
+  type: python
+  source:
+    type: code
+    path: parse_output.py
+  inputs:
+    llm_response: ${AssignTag.output}
+  use_variants: false

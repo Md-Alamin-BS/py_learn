@@ -1,0 +1,29 @@
+{
+  "description": "Evaluate performance of the existing solution to set a baseline",
+  "experiment_id": "2024-10-16-baseline-data-ddrs",
+  "run_id": "on-eval-dataset-v3",
+  "tags_in_scope": [
+    "boulders",
+    "dheqfailure",
+    "dircontrol",
+    "harddrilling",
+    "highrop",
+    "holecleaning",
+    "lostcirculation",
+    "lowrop",
+    "packoff",
+    "shallowgas",
+    "shallowwater",
+    "stuckpipe",
+    "surfeqfailure",
+    "tighthole",
+    "wait",
+    "wellborebreathing",
+    "wellborestability",
+    "wellcontrol"
+  ],
+  "used_datasets": [
+    "reviewed_distributed_ddr_v3.csv"
+  ],
+  "with_notags": true
+}

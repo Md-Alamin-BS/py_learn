@@ -1,0 +1,63 @@
+id: evaluation
+name: Evaluation
+environment:
+  python_requirements_txt: requirements.txt
+inputs:
+  # The following fields are used to provide context only
+  text:
+    type: string
+    default: |
+      Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.
+  phase:
+    type: string
+    default: ""
+  operationSubcode:
+    type: string
+    default: ""
+  assigned_tags:
+    type: list
+    default:
+      ["stuckpipe", "tighthole"]
+  # The following fields are used to compute the metrics
+  prediction:
+    type: list
+    default:
+    - tag: tighthole
+      present: true
+      justification: Looks like tighthole
+    - tag: stuckpipe
+      present: true
+      justification: Looks like stuckpipe
+  groundtruth:
+    type: string
+    default: "['tighthole']"
+outputs: {}
+nodes:
+- name: per_ddr_metrics
+  type: python
+  source:
+    type: code
+    path: calculate_per_ddr_metrics.py
+  inputs:
+    prediction: ${inputs.prediction}
+    groundtruth: ${inputs.groundtruth}
+  aggregation: false
+- name: per_ddr_average_metrics
+  type: python
+  source:
+    type: code
+    path: calculate_average_per_ddr_metrics.py
+  inputs:
+    precisions: ${per_ddr_metrics.output.precision}
+    recalls: ${per_ddr_metrics.output.recall}
+    f1s: ${per_ddr_metrics.output.f1}
+  aggregation: true
+- name: per_tag_metrics
+  type: python
+  source:
+    type: code
+    path: calculate_per_tag_metrics.py
+  inputs:
+    predictions: ${inputs.prediction}
+    groundtruths: ${inputs.groundtruth}
+  aggregation: true

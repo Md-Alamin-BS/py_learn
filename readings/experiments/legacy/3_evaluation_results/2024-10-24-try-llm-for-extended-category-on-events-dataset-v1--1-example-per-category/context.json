@@ -1,0 +1,28 @@
+{
+  "description": "Evaluate performance of the existing solution to set a baseline",
+  "experiment_id": "2024-10-24-try-llm-for-extended-category",
+  "run_id": "on-events-dataset-v1--1-example-per-category",
+  "random_seed": 45,
+  "tags_in_scope": [
+    "boulders",
+    "harddrilling",
+    "holecleaning",
+    "lostcirculation",
+    "other",
+    "packoff",
+    "shallowgas",
+    "stuck",
+    "tighthole",
+    "waterflow",
+    "wellborestability",
+    "wellcontrol"
+  ],
+  "used_datasets": [
+    "reviewed_distributed_events.csv"
+  ],
+  "with_notags": true,
+  "llm_system_prompt": "\nYou will be given a description of a drilling event, and your task is to determine the extended category of this event.\nAvailable extended categories are: boulders, harddrilling, holecleaning, lostcirculation, other, packoff, shallowgas, stuck, tighthole, waterflow, wellborestability, wellcontrol\n\nRespond in 2 lines:\n1. Think about the extended category that best describes the event. Refer to the examples.\n2. Write a single word: the extended category that best applies to the event.\n\n## Example event 0\nScope: Subsurface\nTitle: Boulders\nSlow drilling and vibrations. Local Lessons Learned: See FWR. Category: Wellbore stability. Sub-category: Wellbore stability\nExtended category: boulders\n\n## Example event 1\nScope: Subsurface\nTitle: Reduced ROP // negative drill break in Lange, Spekk and Melke Fm\nDrilled with an ROP as expected until half way into the Lange formation, where the ROP started decreasing. above Top Spekk, the ROP dropped to 2m/hr and the next 300m\nExtended category: harddrilling\n\n## Example event 2\nScope: Subsurface\nTitle: Optimising of ROP\nDrilling 23\"x17\" section it was found that ROP could be optimised at 40 to 60 mtrs before the clay sand zone and 35 to 40 mtrs/hr for good hole cleaning during the diffferent lithologies.         Category: Hydraulics, Subcategory: Good hole cleaning at high ROP\nExtended category: holecleaning\n\n## Example event 3\nScope: Subsurface\nTitle: MudLoss\n25% losses (FWR)         Category: Hydraulics, Subcategory: Loss circulation\nExtended category: lostcirculation\n\n## Example event 4\nScope: Subsurface\nTitle: Kickoff\nOriginal hole, Mudline 129.5 m         Category: Directional drilling, Subcategory: Sidetrack\nExtended category: other\n\n## Example event 5\nScope: Subsurface\nTitle: Pack-off and stalling tendancies throughtout whole stand.\nDecision make to POOH to surface to P&A well. Activity: Backream stand from 4432 to 4400m. Formation: FarsundSiltstone Mud: Omni-flow OBM1.25\nExtended category: packoff\n\n## Example event 6\nScope: Subsurface\nTitle: Kick - shallow water flow and gas\nObserved water flow with associated gas from 800m. Killed well with mud and continued to drill with 1.20 sg. flowchecked with 1.20 sg mud. indications of gas bubbles. displaced pilot hole to 1.30 sg mud. well stable.\nExtended category: shallowgas\n\n## Example event 7\nScope: Subsurface\nTitle: Stuck pipe due to poor hole cleaning\nHigh ROP through unconsolidated sands resulted in stuck pipe. Pipe was cut and fished. Well was respudded.         Category: Wellbore stability, Subcategory: Wellbore stability\nExtended category: stuck\n\n## Example event 8\nScope: Subsurface\nTitle: Tight spots\nWhen running in hole with the 20\" casing, the casing took weight and had to be washed down. Category: Hydraulics, SubCategory: Poor hole cleaning\nExtended category: tighthole\n\n## Example event 9\nScope: Subsurface\nTitle: Shallow water flow (kick)\nAfter KO and sliding from 550m MD, significant flow was observed from the well. Stable after displacing to 1.30sg WBM\nExtended category: waterflow\n\n## Example event 10\nScope: Subsurface\nTitle: Packoffs\nPackoffs- due to poor hole cleaning when using motor and sliding excessively         Category: Wellbore stability, Subcategory: Sloughing or packoffs\nExtended category: wellborestability\n\n## Example event 11\nScope: Subsurface\nTitle: 12 bbl gain in Active\n12 bbl gain in Active at 3299m. Flowchecked \u2013 1 bbl gain in triptank. Shut in well and observed. Opened well, no flow. Category: Hydraulics, Subcategory: Other influx or kicks\nExtended category: wellcontrol\n",
+  "llm_prompt_template": null,
+  "llm_model": null,
+  "llm_temperature": 0
+}

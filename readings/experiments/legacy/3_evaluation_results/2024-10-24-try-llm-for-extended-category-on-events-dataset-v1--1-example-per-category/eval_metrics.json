@@ -1,0 +1,126 @@
+{
+  "averages": [
+    {
+      "Type": "Average per DDR",
+      "precision": 0.6625386996904025,
+      "recall": 0.6625386996904025,
+      "f1": 0.6625386996904025
+    },
+    {
+      "Type": "Average per Tag",
+      "precision": 0.674148860095949,
+      "recall": 0.7195712067332843,
+      "f1": 0.6327453820814862
+    }
+  ],
+  "per_tag": [
+    {
+      "tag": "boulders",
+      "precision": 0.36,
+      "recall": 0.9,
+      "f1": 0.5142857142857142,
+      "true_positives": 9,
+      "positives_in_ground_truth": 10,
+      "negatives_in_ground_truth": 313
+    },
+    {
+      "tag": "harddrilling",
+      "precision": 0.8461538461538461,
+      "recall": 0.46808510638297873,
+      "f1": 0.6027397260273972,
+      "true_positives": 22,
+      "positives_in_ground_truth": 47,
+      "negatives_in_ground_truth": 276
+    },
+    {
+      "tag": "holecleaning",
+      "precision": 0.8571428571428571,
+      "recall": 0.6666666666666666,
+      "f1": 0.75,
+      "true_positives": 12,
+      "positives_in_ground_truth": 18,
+      "negatives_in_ground_truth": 305
+    },
+    {
+      "tag": "lostcirculation",
+      "precision": 0.8648648648648649,
+      "recall": 1.0,
+      "f1": 0.927536231884058,
+      "true_positives": 32,
+      "positives_in_ground_truth": 32,
+      "negatives_in_ground_truth": 291
+    },
+    {
+      "tag": "other",
+      "precision": 0.8253968253968254,
+      "recall": 0.7647058823529411,
+      "f1": 0.7938931297709924,
+      "true_positives": 52,
+      "positives_in_ground_truth": 68,
+      "negatives_in_ground_truth": 255
+    },
+    {
+      "tag": "packoff",
+      "precision": 0.19047619047619047,
+      "recall": 1.0,
+      "f1": 0.32,
+      "true_positives": 4,
+      "positives_in_ground_truth": 4,
+      "negatives_in_ground_truth": 319
+    },
+    {
+      "tag": "shallowgas",
+      "precision": 0.625,
+      "recall": 0.8333333333333334,
+      "f1": 0.7142857142857143,
+      "true_positives": 10,
+      "positives_in_ground_truth": 12,
+      "negatives_in_ground_truth": 311
+    },
+    {
+      "tag": "stuck",
+      "precision": 0.6923076923076923,
+      "recall": 0.8571428571428571,
+      "f1": 0.7659574468085106,
+      "true_positives": 18,
+      "positives_in_ground_truth": 21,
+      "negatives_in_ground_truth": 302
+    },
+    {
+      "tag": "tighthole",
+      "precision": 0.9047619047619048,
+      "recall": 0.76,
+      "f1": 0.8260869565217391,
+      "true_positives": 19,
+      "positives_in_ground_truth": 25,
+      "negatives_in_ground_truth": 298
+    },
+    {
+      "tag": "waterflow",
+      "precision": 1.0,
+      "recall": 0.2857142857142857,
+      "f1": 0.4444444444444444,
+      "true_positives": 2,
+      "positives_in_ground_truth": 7,
+      "negatives_in_ground_truth": 316
+    },
+    {
+      "tag": "wellborestability",
+      "precision": 0.5365853658536586,
+      "recall": 0.3492063492063492,
+      "f1": 0.4230769230769231,
+      "true_positives": 22,
+      "positives_in_ground_truth": 63,
+      "negatives_in_ground_truth": 260
+    },
+    {
+      "tag": "wellcontrol",
+      "precision": 0.3870967741935484,
+      "recall": 0.75,
+      "f1": 0.5106382978723404,
+      "true_positives": 12,
+      "positives_in_ground_truth": 16,
+      "negatives_in_ground_truth": 307
+    }
+  ]
+}

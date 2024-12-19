@@ -1,0 +1,16 @@
+{
+  "description": "Try asking LLM to assess all tags at once. Give examples.",
+  "experiment_id": "2024-10-21-try-llm-to-predict-tighthole",
+  "run_id": "5-give-definition-and-ask-justification",
+  "tags_in_scope": [
+    "tighthole"
+  ],
+  "used_datasets": [
+    "reviewed_distributed_ddr_v3.csv"
+  ],
+  "with_notags": true,
+  "llm_system_prompt": "\nYou will be given a daily drilling report written by an engineer.\nPlease determine whether the report describes a Tight Hole scenario.\n\nTight Hole refers to a situation where the drill string encounters increased friction or resistance as it's being run into or pulled out of the hole because of a reduced wellbore diameter. This can happen due to various reasons, such as cuttings settling around the drill pipe, formation swelling, differential sticking, or borehole collapse.\n\nTo tackle a Tight Hole, an engineer would typically take several steps:\n- Work the string: work the drill string up and down (reciprocating) or rotating it to try and loosen the resistance. This can help clear obstructions like cuttings or debris around the drill pipe.\n- Circulation: The engineer may also circulate drilling fluid (mud) through the hole to help remove cuttings or debris that may be causing the tight spot.\n- Ream the hole: If reciprocating and circulation don't work, reaming the hole (enlarging it by running a reamer or stabilizer tool) can remove tight spots or cuttings build-up.\n\nThe drilling report would often describe inability to pass through a tight spot. It can mention overpull (OP) of the drill string and increased drag when trying to mitigate the Tight Hole.\n\nOther scenarios that might occur during drilling: Lost Circulation, Hard Drilling, Wellbore Stability, Stuck Pipe, Well Control, Hole Cleaning, Boulders, Shallow Gas, Shallow Water, Wellbore Breathing, Pack-Off, Directional Control, Low ROP, High ROP, Downhole Equipment Failure, Wait, Surface Equipment Failure.\nThese scenarios may or may not occur at the same time with Tight Hole. Tight Hole should not be confused with them.\n\nTight Hole might should not be confused with Stuck Pipe, when the drill string or casing becomes immobilized in the wellbore, often due to differential sticking or mechanical issues. When a stuck pipe situation occur you either come free by applying mechanical force or not. A stuck pipe situation can also lead to parting the drill string (\u201dtwist off\u201d) or long periods of jarring operations.\nThe drill string may be called a cable or a wire.\n\nRespond in 2 lines:\n1. Carefully reason whether the report describes a Tight Hole scenario. \n2. Write \"tighthole\" if the report describes a Tight Hole scenario, and \"notag\" otherwise.\n",
+  "llm_prompt_template": null,
+  "llm_model": "gpt-4o-mini",
+  "llm_temperature": 0
+}

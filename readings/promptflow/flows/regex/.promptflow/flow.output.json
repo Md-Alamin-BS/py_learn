@@ -1,0 +1,94 @@
+{
+  "tags": [
+    {
+      "tag": "lostcirculation",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "harddrilling",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "wellborestability",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "stuckpipe",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "wellcontrol",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "holecleaning",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "boulders",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "shallowgas",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "shallowwater",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "wellborebreathing",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "packoff",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "dircontrol",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "lowrop",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "highrop",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "dheqfailure",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "wait",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "surfeqfailure",
+      "present": false,
+      "justification": "regex"
+    },
+    {
+      "tag": "tighthole",
+      "present": false,
+      "justification": "regex"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+$schema: https://azuremlschemas.azureedge.net/promptflow/latest/Run.schema.json
+name: ddr_tagging
+flow: ./
+column_mapping:
+  text: ${data.text}
+  phase: ${data.phase}
+  code: ${data.code}
+  operationSubcode: ${data.subCode}
+  recordType: "daily drilling report"

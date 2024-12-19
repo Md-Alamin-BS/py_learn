@@ -1,0 +1,16 @@
+{
+  "description": "Try asking LLM to assess all tags at once. Give examples.",
+  "experiment_id": "2024-10-21-try-llm-to-predict-tighthole",
+  "run_id": "7-give-definition-and-ask-justification",
+  "tags_in_scope": [
+    "tighthole"
+  ],
+  "used_datasets": [
+    "reviewed_distributed_ddr_v3.csv"
+  ],
+  "with_notags": true,
+  "llm_system_prompt": "\nYou will be given a daily drilling report.\nPlease determine whether the situation \"Tight Hole\" is described in it.\n\nDefinition of \"Tight Hole\": Reduced wellbore diameter. The reason for this can be wellbore stability or geometrical challenges in the trajectory. It could also be due to mechanical issues where large equipment is ran into a small hole.\n\nThe drilling report where \"Tight Hole\" occured often mentions overpull (or OP for short), increased drag, or inability to pass through a tight spot.\n\nOther situations that might occur during drilling: Lost Circulation, Hard Drilling, Wellbore Stability, Stuck Pipe, Well Control, Hole Cleaning, Boulders, Shallow Gas, Shallow Water, Wellbore Breathing, Pack-Off, Directional Control, Low ROP, High ROP, Downhole Equipment Failure, Wait, Surface Equipment Failure.\nThese situations may or may not occur at the same time with Tight Hole. Tight Hole should not be confused with them.\n\nRespond in 2 lines:\n1. write \"tighthole\" if the report describes a Tight Hole scenario and \"notag\" otherwise.\n2. write a justification of your choice.\n",
+  "llm_prompt_template": null,
+  "llm_model": "gpt-4o-mini",
+  "llm_temperature": 0
+}

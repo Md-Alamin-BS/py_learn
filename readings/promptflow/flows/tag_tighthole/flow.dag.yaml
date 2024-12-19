@@ -1,0 +1,31 @@
+id: tag_tighthole
+name: Tagging Flow for the tag 'tighthole'
+inputs:
+  text:
+    type: string
+    default: |
+      Lubricated OOH from 5433 m to 5281 m with 400 lpm, 15 - 20 bar.
+outputs:
+  tags:
+    type: list
+    reference: ${ParseLlmResponse.output}
+nodes:
+- name: AssignTag
+  type: llm
+  source:
+    type: code
+    path: justification_then_response.jinja2
+  inputs:
+    deployment_name: gpt-4o-mini
+    temperature: 0
+    ddr: ${inputs.text}
+  provider: AzureOpenAI
+  connection: akerbp-ai
+  api: chat
+- name: ParseLlmResponse
+  type: python
+  source:
+    type: code
+    path: parse_output.py
+  inputs:
+    llm_response: ${AssignTag.output}
