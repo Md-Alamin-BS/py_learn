@@ -1,0 +1,2004 @@
+Name,Breed,Color,Size,Energy Level,Gender,Weight (kg),Age (years)
+Toby,Boxer,Gray,Large,Low,Male,32,4
+Cooper,Pug,Cream,Medium,Low,Female,24,12
+Stella,Poodle,Black,Large,Medium,Female,19,14
+Chloe,Doberman,Black,Small,High,Male,36,14
+Lucy,Chihuahua,White,Small,Medium,Female,34,9
+Maggie,Siberian Husky,Spotted,Medium,High,Female,32,4
+Sadie,Labrador Retriever,Black,Large,Medium,Male,27,15
+Bella,Poodle,Black,Small,Low,Male,40,9
+Jack,Bulldog,Gray,Small,Low,Male,14,4
+Milo,Poodle,Gray,Large,High,Male,48,3
+Max,French Bulldog,Brown,Small,Low,Female,24,10
+Stella,Bulldog,Golden,Large,Low,Male,31,1
+Stella,Golden Retriever,White,Medium,Medium,Male,5,3
+Daisy,Golden Retriever,Cream,Small,Low,Female,47,8
+Cooper,Great Dane,Cream,Medium,Medium,Male,32,2
+Luna,Border Collie,Brindle,Large,High,Male,25,7
+Max,Beagle,Spotted,Large,High,Female,5,6
+Toby,Pug,Brindle,Large,Low,Female,6,2
+Cooper,Siberian Husky,Black,Medium,Medium,Male,45,3
+Lucy,Boxer,Cream,Large,Medium,Male,10,8
+Sophie,Pug,White,Small,Low,Female,14,10
+Stella,Shih Tzu,White,Large,Low,Female,48,2
+Toby,German Shepherd,Brindle,Small,Low,Female,26,13
+Chloe,Great Dane,Black,Large,Medium,Female,21,8
+Daisy,Dachshund,Gray,Small,High,Male,12,11
+Leo,Corgi,Black,Medium,Medium,Female,34,7
+Leo,Yorkshire Terrier,Spotted,Large,Medium,Male,35,6
+Chloe,German Shepherd,Gray,Small,Medium,Female,48,5
+Charlie,Doberman,Golden,Large,Low,Male,12,10
+Charlie,Boxer,Brindle,Medium,High,Male,6,3
+Jack,Chihuahua,Golden,Medium,Low,Female,15,14
+Max,Dachshund,Golden,Medium,Low,Male,14,10
+Luna,Poodle,Gray,Small,High,Female,19,8
+Toby,French Bulldog,Brown,Large,Low,Male,19,7
+Bella,Siberian Husky,Brown,Small,Medium,Male,19,9
+Daisy,Yorkshire Terrier,White,Small,Medium,Female,31,7
+Toby,Siberian Husky,Black,Large,High,Female,35,7
+Chloe,Boxer,Gray,Large,Low,Female,47,13
+Chloe,Poodle,Spotted,Medium,Low,Male,50,10
+Max,Poodle,Golden,Medium,High,Male,19,11
+Sophie,Australian Shepherd,Golden,Small,Low,Male,33,1
+Chloe,Great Dane,Cream,Medium,High,Female,26,15
+Chloe,Siberian Husky,Gray,Large,High,Female,6,11
+Lucy,Shih Tzu,Golden,Small,Low,Female,9,11
+Cooper,Beagle,Brindle,Medium,Medium,Female,13,3
+Bella,Boxer,Black,Large,Low,Male,15,1
+Stella,Golden Retriever,Brindle,Small,High,Male,23,13
+Oliver,Border Collie,Brown,Large,Low,Female,43,3
+Cooper,Doberman,Gray,Small,High,Female,48,13
+Cooper,Boxer,Cream,Medium,Medium,Male,17,13
+Chloe,Border Collie,Brindle,Small,High,Male,29,11
+Sadie,Boxer,White,Large,High,Female,37,3
+Sophie,Bulldog,Golden,Large,Low,Female,29,2
+Bella,French Bulldog,Gray,Medium,Low,Female,33,9
+Sadie,Bulldog,Cream,Large,Low,Male,32,10
+Stella,Corgi,Brown,Small,Medium,Female,12,12
+Jack,Australian Shepherd,Brown,Medium,Low,Male,5,11
+Max,Bulldog,Golden,Small,Medium,Female,36,12
+Toby,Bulldog,Golden,Small,Medium,Female,46,11
+Max,Labrador Retriever,Golden,Medium,Low,Female,30,9
+Chloe,Great Dane,Black,Small,Low,Male,37,14
+Milo,Boxer,Golden,Large,Low,Male,18,4
+Rocky,Yorkshire Terrier,Spotted,Large,Low,Female,46,8
+Sophie,Labrador Retriever,Brown,Medium,Medium,Male,27,2
+Sophie,Australian Shepherd,Gray,Medium,High,Female,33,5
+Rocky,Chihuahua,Brindle,Medium,Medium,Female,50,11
+Milo,Yorkshire Terrier,Brown,Medium,Medium,Female,45,6
+Chloe,Dachshund,Spotted,Small,Low,Female,34,9
+Lucy,Rottweiler,Golden,Large,Medium,Male,50,9
+Lucy,Great Dane,Gray,Small,Medium,Female,18,1
+Toby,Siberian Husky,Brown,Large,High,Female,34,12
+Lucy,Yorkshire Terrier,Spotted,Large,High,Female,34,7
+Toby,Australian Shepherd,Spotted,Large,Low,Male,27,9
+Charlie,Beagle,Gray,Small,High,Male,32,13
+Milo,Rottweiler,White,Large,High,Male,50,3
+Rocky,French Bulldog,Golden,Large,Low,Male,44,14
+Luna,Border Collie,Gray,Small,High,Female,27,1
+Bailey,French Bulldog,Cream,Large,Low,Female,30,2
+Sadie,Rottweiler,Gray,Small,Medium,Female,24,11
+Cooper,Doberman,Spotted,Small,Medium,Female,44,8
+Charlie,Siberian Husky,Golden,Medium,Medium,Male,25,7
+Bailey,Boxer,Black,Small,Medium,Male,22,13
+Sophie,Corgi,White,Small,High,Male,28,1
+Rocky,Rottweiler,Golden,Small,Low,Female,6,10
+Charlie,German Shepherd,Brindle,Small,High,Male,41,13
+Sophie,French Bulldog,Spotted,Large,Low,Female,22,1
+Lucy,Labrador Retriever,Brown,Small,Low,Male,14,1
+Chloe,Corgi,Brown,Medium,Medium,Male,22,4
+Toby,Siberian Husky,Brown,Medium,Low,Female,20,2
+Charlie,Boxer,White,Small,Medium,Female,47,10
+Chloe,Australian Shepherd,Black,Small,High,Male,36,3
+Stella,German Shepherd,Cream,Large,High,Male,42,10
+Bella,Yorkshire Terrier,Brindle,Small,Medium,Male,30,14
+Toby,German Shepherd,White,Small,High,Male,40,6
+Toby,Chihuahua,Black,Small,Low,Female,41,10
+Milo,Bulldog,Spotted,Small,Medium,Male,20,15
+Cooper,Australian Shepherd,Gray,Small,High,Male,24,7
+Lucy,Boxer,Brown,Medium,Low,Male,13,8
+Maggie,Border Collie,Black,Large,High,Female,20,12
+Sadie,Dachshund,Spotted,Large,Low,Male,15,1
+Charlie,Great Dane,Brindle,Medium,Medium,Male,12,1
+Bella,Golden Retriever,Brindle,Small,Medium,Female,26,10
+Chloe,Dachshund,Brindle,Medium,High,Male,50,15
+Leo,Border Collie,Spotted,Medium,High,Male,32,14
+Lucy,Rottweiler,Brown,Large,High,Male,17,12
+Rocky,Boxer,Brown,Small,Medium,Female,48,10
+Oliver,Boxer,White,Medium,Medium,Male,30,15
+Lucy,German Shepherd,Brindle,Large,Medium,Male,15,2
+Charlie,Doberman,White,Small,Low,Male,40,15
+Sadie,Rottweiler,Golden,Large,Medium,Female,12,13
+Charlie,German Shepherd,Cream,Large,High,Male,29,13
+Cooper,Border Collie,Golden,Large,High,Male,31,7
+Daisy,Rottweiler,Cream,Medium,High,Female,20,8
+Jack,Yorkshire Terrier,Cream,Large,Low,Female,40,12
+Bailey,Doberman,Gray,Medium,High,Male,41,2
+Chloe,Poodle,Brindle,Small,Medium,Female,6,3
+Bella,Pug,Spotted,Medium,High,Male,21,14
+Chloe,Rottweiler,White,Medium,Low,Female,5,1
+Jack,Doberman,Cream,Small,Medium,Female,5,1
+Stella,Pug,Gray,Large,High,Female,17,5
+Chloe,Chihuahua,Black,Large,Medium,Female,19,8
+Oliver,Siberian Husky,Cream,Large,Medium,Female,42,15
+Toby,Poodle,Brindle,Large,High,Female,14,4
+Charlie,Dachshund,Black,Large,Medium,Male,28,1
+Luna,Pug,Cream,Small,Low,Male,35,12
+Sadie,Bulldog,Spotted,Medium,High,Male,12,4
+Rocky,Shih Tzu,Brindle,Small,High,Male,31,14
+Chloe,Australian Shepherd,Golden,Large,High,Female,50,10
+Sophie,Chihuahua,Golden,Large,Medium,Male,38,6
+Milo,Bulldog,Black,Medium,High,Female,22,7
+Cooper,Chihuahua,Spotted,Medium,Medium,Female,34,12
+Milo,Chihuahua,Brindle,Medium,Medium,Female,32,14
+Charlie,Bulldog,White,Large,Low,Female,22,9
+Sadie,Australian Shepherd,Golden,Large,Low,Female,35,12
+Charlie,Poodle,Cream,Medium,Low,Female,47,3
+Milo,Beagle,Cream,Medium,Low,Male,26,3
+Bailey,Pug,Brindle,Medium,High,Female,40,10
+Max,Shih Tzu,Cream,Small,Low,Male,13,9
+Toby,Poodle,Spotted,Large,High,Male,33,15
+Jack,Great Dane,Golden,Medium,High,Female,24,14
+Lucy,Pug,Black,Large,Low,Female,11,13
+Cooper,Corgi,Spotted,Small,Low,Female,39,12
+Milo,Boxer,Black,Large,Low,Female,30,11
+Chloe,Corgi,Brindle,Medium,High,Female,21,5
+Buddy,Siberian Husky,Spotted,Medium,Medium,Male,48,12
+Cooper,French Bulldog,Cream,Small,Low,Female,5,12
+Buddy,Pug,Golden,Small,Medium,Male,15,14
+Max,Beagle,White,Medium,Low,Male,19,11
+Toby,Bulldog,Spotted,Medium,High,Male,34,4
+Bailey,Siberian Husky,Gray,Large,High,Female,49,12
+Cooper,Shih Tzu,Golden,Small,Medium,Male,26,13
+Buddy,Doberman,Black,Medium,Medium,Female,30,10
+Luna,Labrador Retriever,Brown,Large,High,Male,31,8
+Lucy,German Shepherd,Gray,Medium,Medium,Male,29,12
+Max,Chihuahua,Spotted,Large,High,Male,22,10
+Buddy,Doberman,Brindle,Medium,Low,Female,48,2
+Chloe,Poodle,Gray,Large,Low,Female,50,10
+Max,Dachshund,Cream,Small,Low,Male,7,11
+Sadie,Bulldog,Gray,Large,High,Male,36,12
+Buddy,Rottweiler,Black,Small,Medium,Male,20,14
+Sadie,Great Dane,Gray,Large,Medium,Female,10,4
+Rocky,French Bulldog,Golden,Small,High,Male,35,15
+Chloe,Beagle,Spotted,Medium,High,Female,40,11
+Cooper,Pug,Golden,Large,Low,Female,26,13
+Lucy,Shih Tzu,Cream,Large,Medium,Female,17,1
+Daisy,Border Collie,Spotted,Medium,Medium,Female,8,12
+Cooper,Great Dane,Black,Medium,Low,Female,42,2
+Max,Border Collie,Black,Small,Medium,Female,14,15
+Bella,Bulldog,Gray,Medium,High,Male,9,7
+Charlie,Yorkshire Terrier,White,Medium,Low,Female,34,1
+Rocky,Shih Tzu,Spotted,Small,Medium,Female,38,2
+Buddy,Beagle,White,Small,High,Male,29,15
+Maggie,Beagle,Spotted,Large,Low,Male,25,2
+Luna,Golden Retriever,White,Medium,Low,Female,22,2
+Bailey,Chihuahua,Black,Small,Low,Female,24,6
+Daisy,Shih Tzu,Black,Small,Low,Male,45,8
+Charlie,Great Dane,Brown,Small,High,Male,17,8
+Leo,Poodle,Cream,Large,Medium,Female,39,14
+Chloe,Poodle,Cream,Medium,Low,Female,18,6
+Leo,Beagle,Brown,Large,High,Male,11,15
+Rocky,Pug,Black,Medium,High,Female,32,1
+Leo,Dachshund,Gray,Medium,Medium,Male,22,9
+Buddy,Bulldog,Black,Small,High,Male,29,13
+Leo,Siberian Husky,Brindle,Small,Medium,Male,17,2
+Sophie,Corgi,Spotted,Large,Medium,Female,32,13
+Lucy,Australian Shepherd,Brown,Large,High,Male,39,12
+Oliver,Great Dane,Brown,Medium,Low,Female,49,13
+Chloe,Great Dane,Cream,Small,High,Male,9,5
+Bailey,Shih Tzu,White,Small,Low,Male,29,14
+Max,Border Collie,Cream,Medium,Medium,Female,14,13
+Maggie,Beagle,Golden,Medium,High,Female,43,14
+Jack,German Shepherd,Brindle,Small,Low,Female,6,12
+Stella,Pug,Gray,Large,Medium,Female,32,15
+Charlie,Boxer,Golden,Large,High,Male,9,7
+Daisy,Bulldog,Gray,Large,Medium,Male,34,1
+Charlie,Rottweiler,Brown,Large,High,Female,34,3
+Stella,Chihuahua,White,Small,Low,Male,15,5
+Max,Golden Retriever,White,Large,Medium,Female,34,11
+Lucy,Labrador Retriever,White,Large,High,Male,40,12
+Toby,Corgi,Golden,Large,Medium,Male,49,15
+Max,Beagle,Spotted,Large,Low,Male,22,7
+Bella,Dachshund,Brindle,Small,High,Male,39,10
+Charlie,German Shepherd,White,Small,High,Female,49,3
+Toby,Doberman,Cream,Large,Low,Male,8,2
+Bailey,Great Dane,Golden,Medium,Low,Female,32,3
+Sadie,Bulldog,White,Medium,Low,Male,9,4
+Leo,Australian Shepherd,Spotted,Large,Medium,Female,46,15
+Oliver,Corgi,Golden,Large,Medium,Male,15,2
+Lucy,Beagle,Spotted,Large,Low,Male,46,10
+Charlie,Poodle,Golden,Small,High,Male,12,4
+Toby,Doberman,Black,Small,High,Male,17,4
+Bella,Boxer,Spotted,Large,Low,Male,23,8
+Lucy,Great Dane,White,Medium,High,Female,32,6
+Bailey,German Shepherd,Gray,Large,Low,Male,41,12
+Max,Doberman,Black,Large,Low,Male,15,9
+Luna,Pug,Gray,Small,Low,Male,18,3
+Chloe,French Bulldog,Gray,Medium,Medium,Female,17,3
+Maggie,Golden Retriever,Brindle,Small,Low,Male,40,6
+Luna,Labrador Retriever,Gray,Large,Medium,Male,7,3
+Buddy,Siberian Husky,Brindle,Small,Low,Male,38,6
+Cooper,Boxer,White,Small,High,Male,33,4
+Leo,Poodle,White,Large,Low,Male,12,8
+Max,Poodle,Golden,Large,Medium,Male,8,15
+Maggie,Bulldog,Brindle,Large,Low,Female,22,3
+Buddy,Border Collie,Spotted,Small,Medium,Male,22,2
+Stella,Rottweiler,White,Small,Low,Male,42,13
+Bella,Doberman,Brindle,Medium,High,Female,19,11
+Cooper,Doberman,Spotted,Large,Medium,Female,42,12
+Oliver,Great Dane,Gray,Large,High,Female,33,10
+Oliver,Chihuahua,Golden,Large,High,Female,12,11
+Bella,Doberman,Golden,Medium,Low,Female,27,3
+Toby,Labrador Retriever,White,Small,Medium,Male,25,3
+Bailey,Chihuahua,Golden,Large,High,Male,39,8
+Maggie,Poodle,Brindle,Small,High,Female,12,6
+Rocky,Great Dane,Cream,Large,Low,Female,25,3
+Cooper,Australian Shepherd,Gray,Large,Medium,Female,15,12
+Luna,Great Dane,Golden,Small,Medium,Female,47,15
+Luna,Golden Retriever,Brown,Small,Medium,Male,37,1
+Buddy,Great Dane,Brown,Large,High,Male,28,10
+Jack,Bulldog,Brown,Medium,Medium,Male,41,12
+Bella,Poodle,Brown,Medium,Medium,Female,48,15
+Jack,Corgi,Brindle,Small,High,Female,27,5
+Milo,Doberman,White,Small,Medium,Female,36,10
+Daisy,Labrador Retriever,Spotted,Small,Medium,Female,18,6
+Buddy,Bulldog,Brindle,Small,Low,Male,17,11
+Leo,Beagle,Brindle,Large,High,Male,29,4
+Sadie,Doberman,Black,Large,Low,Female,44,2
+Rocky,Doberman,Gray,Medium,Medium,Male,11,11
+Chloe,Beagle,Spotted,Large,Medium,Male,28,11
+Leo,Border Collie,White,Small,Low,Female,49,2
+Sophie,Poodle,Black,Small,Low,Female,13,11
+Max,Shih Tzu,Spotted,Medium,High,Female,9,8
+Lucy,Siberian Husky,Brindle,Medium,Medium,Male,6,5
+Cooper,Border Collie,Brown,Small,Low,Male,33,4
+Jack,German Shepherd,Cream,Large,Medium,Female,23,9
+Stella,Corgi,Spotted,Small,Medium,Male,27,10
+Rocky,Yorkshire Terrier,Brown,Large,High,Female,14,8
+Oliver,Labrador Retriever,Brindle,Large,Low,Male,32,1
+Rocky,Yorkshire Terrier,Cream,Large,Medium,Male,41,3
+Luna,Border Collie,Black,Medium,High,Male,12,11
+Maggie,Bulldog,Brindle,Large,Low,Female,12,4
+Oliver,Corgi,White,Large,Medium,Male,42,3
+Daisy,Dachshund,Cream,Large,Low,Female,43,9
+Daisy,Poodle,Golden,Large,Medium,Male,32,13
+Chloe,Bulldog,Black,Small,Medium,Female,47,6
+Sophie,Corgi,Brown,Large,High,Female,25,4
+Buddy,Shih Tzu,Cream,Medium,High,Female,45,11
+Cooper,Shih Tzu,Brindle,Large,Medium,Male,36,6
+Sadie,Chihuahua,Gray,Large,Low,Male,31,1
+Bailey,French Bulldog,Spotted,Medium,Low,Male,25,13
+Daisy,French Bulldog,Spotted,Medium,Medium,Male,36,7
+Buddy,Border Collie,Golden,Small,High,Male,49,12
+Sadie,Chihuahua,Gray,Large,High,Female,27,13
+Oliver,Chihuahua,White,Large,High,Male,12,2
+Daisy,Pug,Black,Large,Medium,Male,49,4
+Maggie,Boxer,White,Small,Medium,Female,26,2
+Bella,Siberian Husky,Black,Large,Low,Male,45,1
+Charlie,Great Dane,Spotted,Small,High,Female,39,13
+Charlie,Shih Tzu,White,Large,Medium,Male,5,9
+Milo,Rottweiler,Spotted,Large,Medium,Female,26,8
+Oliver,Beagle,White,Medium,Medium,Male,19,8
+Jack,Doberman,Black,Small,High,Female,35,12
+Lucy,Pug,Golden,Large,Low,Female,35,3
+Daisy,German Shepherd,Golden,Large,High,Male,39,6
+Luna,German Shepherd,Gray,Medium,Medium,Female,12,10
+Bailey,Corgi,Gray,Medium,Medium,Male,36,7
+Oliver,Pug,Brown,Small,High,Female,47,6
+Luna,Doberman,Black,Large,Low,Female,33,6
+Bailey,Chihuahua,White,Large,Medium,Female,21,15
+Chloe,French Bulldog,Spotted,Small,Medium,Female,30,14
+Oliver,Border Collie,Black,Medium,High,Female,37,15
+Bailey,Boxer,Brown,Small,Medium,Female,43,1
+Lucy,Doberman,Cream,Large,High,Female,46,6
+Sophie,Beagle,Spotted,Small,Medium,Male,29,13
+Daisy,Rottweiler,Black,Small,High,Female,23,2
+Sophie,Border Collie,Golden,Large,Medium,Male,43,6
+Oliver,Yorkshire Terrier,Gray,Large,High,Female,5,13
+Buddy,Doberman,Gray,Medium,Medium,Male,10,14
+Charlie,Shih Tzu,Golden,Small,Low,Male,6,11
+Cooper,Yorkshire Terrier,Golden,Medium,Low,Male,33,3
+Chloe,German Shepherd,Brown,Small,Low,Male,44,9
+Sadie,Bulldog,White,Small,Medium,Female,40,15
+Sophie,Shih Tzu,Brown,Large,Low,Female,41,15
+Leo,Dachshund,Brindle,Medium,Medium,Male,41,9
+Bailey,Corgi,White,Small,High,Male,8,8
+Bella,Border Collie,Black,Medium,Low,Female,31,7
+Bailey,Labrador Retriever,Spotted,Small,Low,Female,44,14
+Bailey,Bulldog,Black,Small,Low,Male,11,11
+Jack,Australian Shepherd,Spotted,Medium,Medium,Male,38,9
+Maggie,Yorkshire Terrier,Spotted,Small,Low,Female,35,5
+Max,Great Dane,Cream,Medium,Medium,Male,45,9
+Milo,Pug,Brown,Large,High,Male,31,10
+Stella,Australian Shepherd,Spotted,Small,Medium,Male,39,4
+Buddy,French Bulldog,Brown,Small,Medium,Male,22,15
+Chloe,Rottweiler,Brown,Medium,Medium,Male,50,7
+Leo,Bulldog,Brindle,Medium,High,Male,43,10
+Milo,Great Dane,Brindle,Medium,High,Female,45,3
+Oliver,Border Collie,White,Medium,High,Male,25,10
+Buddy,Australian Shepherd,Brown,Small,Medium,Female,44,12
+Oliver,Bulldog,Cream,Large,High,Female,31,6
+Leo,Pug,Gray,Large,High,Male,44,10
+Buddy,Beagle,Spotted,Medium,Medium,Female,47,8
+Luna,Golden Retriever,White,Large,Low,Female,19,11
+Daisy,Rottweiler,Cream,Small,Low,Female,34,15
+Jack,Poodle,Brindle,Small,High,Male,12,14
+Leo,Bulldog,Gray,Large,Medium,Female,37,3
+Stella,German Shepherd,Cream,Small,Low,Female,45,9
+Bella,French Bulldog,Spotted,Medium,Medium,Female,30,2
+Oliver,Doberman,Brindle,Medium,Medium,Female,39,2
+Milo,Boxer,Brindle,Medium,High,Male,32,10
+Bella,Shih Tzu,Golden,Large,High,Female,8,7
+Chloe,Border Collie,Brindle,Small,High,Male,22,1
+Toby,Corgi,Cream,Medium,Low,Female,17,1
+Milo,Chihuahua,Gray,Small,High,Female,34,2
+Bailey,Poodle,White,Small,High,Male,39,12
+Charlie,Shih Tzu,White,Small,High,Male,21,14
+Charlie,Golden Retriever,Brown,Medium,Medium,Female,21,1
+Leo,Chihuahua,Brindle,Small,Low,Male,23,12
+Maggie,Australian Shepherd,White,Medium,High,Male,10,8
+Lucy,Labrador Retriever,Cream,Small,Medium,Male,32,1
+Maggie,Chihuahua,Black,Large,High,Male,7,12
+Buddy,Rottweiler,Black,Small,Medium,Male,5,6
+Chloe,Dachshund,White,Small,Medium,Male,22,15
+Oliver,Bulldog,Brindle,Small,Low,Male,29,12
+Luna,Bulldog,Brown,Large,High,Female,35,8
+Sophie,Yorkshire Terrier,Brown,Small,Low,Female,40,11
+Oliver,German Shepherd,Spotted,Small,High,Female,45,9
+Toby,Siberian Husky,White,Small,High,Male,34,15
+Cooper,Great Dane,Gray,Small,High,Female,41,9
+Cooper,Corgi,Brown,Medium,High,Female,5,14
+Rocky,French Bulldog,Spotted,Large,Low,Female,47,9
+Rocky,Poodle,White,Small,High,Female,44,7
+Charlie,Labrador Retriever,Brown,Small,Medium,Male,37,5
+Milo,Yorkshire Terrier,Golden,Medium,Medium,Male,38,7
+Maggie,Chihuahua,Cream,Large,Medium,Female,24,14
+Sadie,Border Collie,Brown,Small,High,Female,27,7
+Chloe,German Shepherd,Brindle,Large,Low,Male,24,11
+Leo,Rottweiler,Golden,Large,Medium,Male,17,3
+Toby,Siberian Husky,Black,Small,Low,Male,7,9
+Rocky,Bulldog,White,Small,Low,Female,10,7
+Daisy,Bulldog,Brindle,Small,High,Female,25,9
+Sadie,Boxer,Cream,Medium,Low,Female,47,13
+Bella,Yorkshire Terrier,Spotted,Large,High,Male,49,11
+Lucy,Yorkshire Terrier,Golden,Large,High,Male,15,1
+Daisy,Boxer,Gray,Large,High,Female,13,5
+Stella,Yorkshire Terrier,Brown,Large,High,Male,27,13
+Rocky,Siberian Husky,Brown,Medium,Low,Male,48,15
+Sadie,Border Collie,Brindle,Small,Medium,Male,23,14
+Toby,Australian Shepherd,Brindle,Large,Low,Male,39,2
+Bella,Rottweiler,Brindle,Small,Medium,Female,8,5
+Rocky,Chihuahua,Black,Small,Low,Female,25,6
+Leo,Rottweiler,Brown,Small,Low,Male,31,15
+Oliver,Shih Tzu,Brown,Large,Low,Male,27,14
+Maggie,Border Collie,Brown,Small,Low,Male,8,3
+Maggie,Golden Retriever,Spotted,Medium,High,Male,26,12
+Lucy,Great Dane,White,Large,Medium,Male,42,5
+Chloe,German Shepherd,White,Medium,Medium,Male,24,7
+Leo,Yorkshire Terrier,Gray,Small,Medium,Male,23,1
+Daisy,Pug,Black,Medium,Low,Male,32,14
+Oliver,Shih Tzu,Spotted,Medium,Medium,Female,9,6
+Stella,Rottweiler,White,Medium,High,Male,35,8
+Max,Labrador Retriever,Cream,Medium,Medium,Male,24,11
+Luna,Australian Shepherd,Gray,Large,Medium,Male,19,4
+Milo,French Bulldog,Brindle,Small,High,Male,19,15
+Cooper,Chihuahua,Spotted,Small,Low,Female,35,10
+Bailey,Yorkshire Terrier,White,Small,High,Female,11,13
+Sophie,Chihuahua,Cream,Small,Low,Female,17,7
+Sadie,French Bulldog,Black,Large,Medium,Male,39,2
+Milo,Rottweiler,Black,Small,Medium,Male,29,14
+Luna,Poodle,White,Large,Medium,Female,50,6
+Sadie,Yorkshire Terrier,Black,Medium,Medium,Male,31,8
+Bailey,Beagle,Golden,Medium,Low,Female,21,13
+Max,Border Collie,Brindle,Large,Low,Female,32,4
+Luna,Boxer,Black,Large,Low,Female,46,6
+Luna,Doberman,Gray,Medium,Medium,Female,11,6
+Buddy,Great Dane,Golden,Large,Medium,Male,5,9
+Charlie,Poodle,Spotted,Medium,Medium,Male,19,9
+Chloe,Rottweiler,Black,Large,Low,Male,34,2
+Rocky,Boxer,Cream,Small,High,Male,15,13
+Charlie,Shih Tzu,Brown,Large,Medium,Female,25,11
+Stella,Doberman,Golden,Medium,Low,Male,7,8
+Luna,Labrador Retriever,Spotted,Medium,High,Female,31,7
+Milo,Shih Tzu,Spotted,Large,Low,Female,7,7
+Max,Dachshund,Spotted,Medium,High,Male,5,1
+Milo,Pug,Cream,Medium,High,Female,30,4
+Rocky,Shih Tzu,Golden,Large,Low,Female,46,2
+Lucy,Beagle,White,Small,Medium,Male,17,12
+Luna,Beagle,Black,Large,Low,Female,13,5
+Daisy,Great Dane,Cream,Small,High,Female,24,4
+Daisy,Border Collie,Brown,Large,Medium,Female,42,6
+Chloe,Shih Tzu,Brown,Medium,High,Female,19,9
+Sadie,Yorkshire Terrier,Black,Small,Medium,Male,26,9
+Toby,Poodle,Gray,Large,Medium,Male,13,4
+Stella,Poodle,Golden,Medium,Medium,Female,6,9
+Sadie,Yorkshire Terrier,Golden,Medium,Medium,Female,31,10
+Lucy,Shih Tzu,Gray,Small,High,Female,18,14
+Stella,Shih Tzu,Gray,Small,High,Female,23,2
+Charlie,Boxer,Black,Medium,Medium,Male,29,6
+Max,Chihuahua,Cream,Medium,High,Female,40,9
+Milo,Great Dane,Spotted,Medium,Medium,Female,27,5
+Chloe,Border Collie,White,Large,Medium,Male,32,13
+Sophie,Great Dane,Spotted,Small,Low,Male,17,11
+Max,Pug,Cream,Large,Medium,Male,18,12
+Stella,Labrador Retriever,Golden,Small,High,Female,18,3
+Lucy,Border Collie,Brindle,Medium,Medium,Female,23,1
+Jack,Bulldog,Cream,Small,Low,Male,50,4
+Luna,German Shepherd,White,Large,High,Male,20,6
+Cooper,Poodle,Black,Large,Low,Female,24,3
+Chloe,French Bulldog,Brown,Large,Low,Male,33,12
+Maggie,Shih Tzu,White,Medium,Medium,Female,5,15
+Lucy,German Shepherd,Cream,Small,Medium,Female,44,11
+Jack,Siberian Husky,Gray,Large,High,Male,5,6
+Chloe,Dachshund,Golden,Medium,High,Male,45,6
+Bella,Boxer,Golden,Medium,Low,Female,9,7
+Cooper,Doberman,Brindle,Large,Medium,Male,44,3
+Chloe,Poodle,Black,Large,Medium,Male,40,11
+Cooper,Great Dane,Brindle,Large,Medium,Female,10,15
+Bailey,Australian Shepherd,Golden,Small,Low,Male,38,1
+Lucy,Boxer,Gray,Small,Low,Male,35,6
+Cooper,Chihuahua,Brown,Small,Medium,Male,17,6
+Daisy,Dachshund,Spotted,Medium,Medium,Female,18,3
+Leo,Yorkshire Terrier,White,Small,Low,Male,48,13
+Stella,Poodle,Black,Small,Medium,Female,25,1
+Chloe,Boxer,Black,Small,High,Female,48,4
+Leo,Boxer,Golden,Large,High,Male,38,13
+Luna,Poodle,White,Small,High,Male,12,8
+Charlie,Labrador Retriever,White,Large,High,Male,13,1
+Toby,Poodle,Golden,Small,High,Female,49,5
+Maggie,Golden Retriever,Brown,Large,Low,Male,37,11
+Milo,Great Dane,Gray,Large,Low,Male,14,8
+Toby,Australian Shepherd,Brown,Medium,High,Female,43,13
+Max,Rottweiler,Spotted,Small,Medium,Female,18,2
+Buddy,Australian Shepherd,Golden,Large,Medium,Female,21,6
+Oliver,Yorkshire Terrier,Brown,Medium,Medium,Male,7,7
+Cooper,Poodle,Gray,Large,Low,Female,7,1
+Chloe,Boxer,Brown,Large,Low,Female,46,11
+Daisy,Rottweiler,White,Large,Medium,Female,10,13
+Rocky,Rottweiler,Gray,Medium,Medium,Female,42,13
+Maggie,Golden Retriever,Spotted,Large,Medium,Male,10,5
+Charlie,Golden Retriever,White,Large,High,Male,42,10
+Rocky,Pug,Brindle,Small,Medium,Female,44,1
+Chloe,Siberian Husky,Brown,Medium,Medium,Male,36,5
+Sadie,Pug,Brindle,Small,High,Male,5,4
+Luna,Australian Shepherd,Gray,Large,Medium,Male,45,4
+Bella,Golden Retriever,Brindle,Large,High,Female,49,12
+Jack,Bulldog,Brindle,Large,Medium,Female,43,3
+Lucy,Pug,Gray,Medium,Low,Female,37,6
+Jack,Rottweiler,White,Medium,Medium,Male,19,10
+Bella,Bulldog,Black,Small,Medium,Male,48,11
+Luna,Labrador Retriever,Spotted,Large,Medium,Female,11,12
+Stella,Yorkshire Terrier,Black,Large,Low,Male,10,1
+Lucy,Siberian Husky,Brindle,Medium,Medium,Female,34,6
+Chloe,French Bulldog,Black,Large,Medium,Male,43,14
+Lucy,Border Collie,Cream,Small,Medium,Male,12,9
+Milo,Pug,Golden,Medium,High,Male,37,5
+Daisy,Australian Shepherd,Golden,Medium,Low,Female,20,6
+Daisy,French Bulldog,Spotted,Medium,Low,Male,25,3
+Oliver,German Shepherd,Brown,Small,Medium,Female,27,15
+Sophie,Corgi,Brindle,Medium,Medium,Female,48,11
+Lucy,Dachshund,White,Large,Medium,Male,46,2
+Bailey,Pug,White,Small,High,Female,15,13
+Rocky,French Bulldog,Brown,Small,High,Male,38,14
+Stella,Australian Shepherd,Black,Medium,Low,Female,31,15
+Leo,Shih Tzu,Golden,Large,Medium,Male,35,14
+Lucy,Labrador Retriever,Brown,Large,Medium,Male,50,10
+Luna,Shih Tzu,Golden,Small,Medium,Female,19,15
+Stella,Shih Tzu,White,Small,Low,Female,16,6
+Rocky,Boxer,Black,Medium,Low,Male,47,6
+Bailey,Doberman,Brown,Small,High,Male,37,6
+Lucy,Rottweiler,Brindle,Small,High,Male,46,12
+Stella,German Shepherd,Brindle,Large,Medium,Male,42,6
+Charlie,Golden Retriever,Black,Small,High,Female,29,11
+Rocky,Dachshund,Gray,Medium,Low,Male,37,11
+Sophie,German Shepherd,Spotted,Large,Low,Female,36,15
+Jack,Beagle,Spotted,Medium,Medium,Female,36,12
+Toby,Boxer,Golden,Medium,Low,Female,14,8
+Sadie,Dachshund,Cream,Medium,Low,Male,19,3
+Bella,French Bulldog,Cream,Small,Medium,Male,43,1
+Daisy,German Shepherd,White,Medium,Low,Male,22,3
+Daisy,Golden Retriever,Golden,Medium,High,Female,49,11
+Buddy,Pug,White,Large,Low,Female,40,10
+Jack,Labrador Retriever,Brown,Small,Low,Female,15,8
+Maggie,Labrador Retriever,Golden,Small,Low,Female,34,9
+Bailey,Rottweiler,Cream,Medium,Medium,Male,45,12
+Bella,Great Dane,White,Medium,High,Female,8,10
+Maggie,Poodle,Spotted,Large,High,Female,45,6
+Daisy,Poodle,Golden,Small,Low,Female,12,6
+Chloe,Australian Shepherd,White,Small,High,Male,16,3
+Stella,Australian Shepherd,Spotted,Large,Medium,Male,8,4
+Rocky,Doberman,Brown,Small,Medium,Female,19,3
+Charlie,Pug,Black,Medium,Medium,Male,37,12
+Buddy,Golden Retriever,Brown,Medium,High,Male,6,12
+Bailey,Great Dane,Gray,Small,High,Female,7,15
+Bailey,Great Dane,Gray,Large,Low,Female,38,1
+Milo,German Shepherd,Brindle,Medium,Medium,Male,17,5
+Maggie,Pug,Black,Medium,High,Female,29,2
+Sadie,Shih Tzu,Cream,Large,Low,Female,15,6
+Charlie,Rottweiler,Brindle,Large,Medium,Female,37,1
+Lucy,Pug,Gray,Large,Low,Male,38,5
+Leo,Beagle,Brindle,Medium,High,Female,43,9
+Oliver,Border Collie,White,Small,Medium,Male,46,12
+Bella,German Shepherd,Brindle,Large,High,Female,21,13
+Sophie,Labrador Retriever,Black,Small,High,Male,50,9
+Sadie,Siberian Husky,White,Small,Low,Male,31,11
+Leo,French Bulldog,Brown,Large,Low,Female,25,11
+Charlie,Poodle,Brown,Large,Low,Male,19,12
+Buddy,Dachshund,Spotted,Large,High,Male,29,11
+Buddy,Labrador Retriever,Golden,Large,High,Female,18,3
+Jack,Poodle,White,Small,Medium,Female,21,13
+Lucy,Golden Retriever,Brindle,Large,Medium,Female,49,12
+Sophie,Dachshund,White,Medium,Low,Male,38,6
+Jack,Great Dane,Black,Small,Medium,Male,15,2
+Max,Golden Retriever,Brindle,Small,High,Female,9,8
+Maggie,Border Collie,Golden,Large,Medium,Male,21,8
+Oliver,Boxer,Gray,Large,Low,Male,6,5
+Sadie,Golden Retriever,White,Large,Low,Male,37,3
+Sadie,Beagle,Spotted,Medium,High,Male,47,10
+Luna,Doberman,Brown,Medium,Low,Female,28,12
+Cooper,Shih Tzu,Spotted,Medium,Low,Female,24,14
+Jack,Yorkshire Terrier,Black,Medium,Low,Female,50,7
+Rocky,French Bulldog,Black,Medium,Low,Female,37,15
+Bailey,Siberian Husky,Spotted,Small,Low,Male,10,6
+Toby,German Shepherd,White,Small,High,Male,45,2
+Stella,Doberman,Golden,Small,Medium,Female,32,14
+Stella,Corgi,White,Small,Low,Female,7,2
+Leo,Border Collie,Gray,Medium,High,Female,32,11
+Sophie,Yorkshire Terrier,Cream,Small,Medium,Male,6,15
+Buddy,Great Dane,Brown,Medium,Low,Male,39,12
+Chloe,Golden Retriever,Black,Large,Low,Male,15,14
+Buddy,Doberman,Gray,Small,Medium,Male,42,14
+Chloe,Shih Tzu,Black,Small,Medium,Female,47,9
+Rocky,Bulldog,White,Medium,Medium,Male,19,9
+Daisy,Golden Retriever,Cream,Small,High,Male,18,4
+Charlie,Shih Tzu,White,Large,Low,Male,26,10
+Toby,Bulldog,Gray,Small,High,Male,22,4
+Sadie,German Shepherd,Golden,Small,Low,Male,42,9
+Cooper,French Bulldog,Golden,Medium,Medium,Male,47,2
+Charlie,Siberian Husky,Cream,Small,Low,Male,38,1
+Max,Chihuahua,Golden,Medium,Low,Male,15,15
+Bella,Doberman,Cream,Large,Low,Male,19,13
+Milo,Bulldog,White,Large,Medium,Female,15,3
+Rocky,Corgi,Spotted,Large,High,Male,49,13
+Maggie,Beagle,White,Large,Medium,Male,24,4
+Maggie,Yorkshire Terrier,White,Small,High,Female,21,1
+Charlie,Australian Shepherd,White,Large,Low,Female,12,4
+Chloe,Dachshund,Spotted,Medium,Medium,Male,9,14
+Daisy,Poodle,White,Large,High,Male,49,11
+Bailey,Rottweiler,White,Large,Medium,Female,45,4
+Rocky,Siberian Husky,Golden,Small,Low,Female,16,12
+Cooper,Doberman,Cream,Large,Medium,Male,46,9
+Luna,Poodle,Brindle,Large,Low,Female,26,12
+Luna,Shih Tzu,Spotted,Large,Medium,Male,39,4
+Daisy,Australian Shepherd,Golden,Medium,High,Male,41,12
+Cooper,Bulldog,Golden,Medium,High,Female,25,2
+Lucy,Corgi,Cream,Medium,Low,Female,47,12
+Rocky,Boxer,Black,Medium,High,Female,44,15
+Maggie,Beagle,Cream,Large,Medium,Female,5,15
+Rocky,Bulldog,Cream,Medium,Low,Male,42,5
+Toby,Beagle,Spotted,Small,Low,Female,43,9
+Daisy,Shih Tzu,Gray,Large,High,Female,40,1
+Bailey,Labrador Retriever,Brindle,Medium,Low,Female,23,5
+Luna,Rottweiler,Brown,Medium,Low,Female,11,15
+Jack,Labrador Retriever,Spotted,Small,Low,Male,41,15
+Charlie,German Shepherd,Gray,Large,High,Male,37,13
+Oliver,Corgi,Cream,Small,Low,Male,21,5
+Stella,Bulldog,Spotted,Large,Low,Female,39,15
+Daisy,German Shepherd,Black,Medium,Low,Male,22,11
+Jack,Corgi,White,Large,Medium,Female,18,6
+Rocky,German Shepherd,Black,Large,Medium,Male,29,9
+Leo,Bulldog,Gray,Medium,Medium,Female,41,9
+Max,Poodle,Brindle,Medium,High,Female,28,1
+Max,Shih Tzu,Golden,Large,Medium,Male,8,1
+Jack,Border Collie,Golden,Medium,Medium,Male,19,10
+Chloe,Labrador Retriever,Brindle,Small,Low,Female,19,1
+Buddy,Shih Tzu,Brown,Large,High,Female,8,3
+Lucy,Beagle,Gray,Large,Low,Male,23,1
+Toby,Border Collie,Black,Medium,Medium,Male,50,3
+Buddy,Dachshund,Brown,Medium,Medium,Female,34,14
+Bailey,Labrador Retriever,Brown,Large,High,Male,9,8
+Sophie,Siberian Husky,Brown,Medium,High,Male,50,11
+Chloe,Australian Shepherd,Black,Medium,Medium,Female,16,14
+Toby,Great Dane,Brindle,Small,Medium,Male,36,3
+Daisy,Pug,White,Small,Medium,Female,9,9
+Rocky,Border Collie,Gray,Large,High,Female,44,12
+Milo,Border Collie,Spotted,Small,Low,Male,31,15
+Milo,Chihuahua,Gray,Medium,High,Female,20,11
+Daisy,Golden Retriever,Golden,Small,Medium,Female,14,3
+Bella,Yorkshire Terrier,White,Medium,High,Female,42,6
+Leo,Chihuahua,Spotted,Medium,Low,Female,15,14
+Luna,Boxer,Spotted,Large,Low,Female,45,5
+Charlie,Border Collie,Spotted,Small,Medium,Male,21,3
+Toby,Poodle,Brindle,Large,Low,Male,36,11
+Luna,Australian Shepherd,Cream,Large,Medium,Female,40,12
+Jack,Yorkshire Terrier,White,Large,Medium,Female,19,15
+Lucy,Corgi,Brindle,Medium,High,Male,38,9
+Luna,Corgi,Spotted,Medium,Low,Male,44,9
+Milo,Border Collie,Brindle,Small,Low,Male,13,6
+Lucy,Golden Retriever,Golden,Medium,High,Female,43,1
+Daisy,Bulldog,Spotted,Medium,Low,Female,34,1
+Bella,Great Dane,White,Small,Low,Male,43,13
+Milo,Golden Retriever,Black,Medium,Low,Male,16,9
+Daisy,French Bulldog,Gray,Medium,High,Female,40,12
+Maggie,Siberian Husky,White,Small,Medium,Male,9,12
+Sophie,Dachshund,Brindle,Medium,Low,Female,33,8
+Rocky,Siberian Husky,Cream,Large,Low,Female,30,15
+Bella,Great Dane,Gray,Small,Medium,Female,41,6
+Max,Border Collie,Golden,Medium,High,Female,15,4
+Milo,Labrador Retriever,Cream,Small,High,Female,13,2
+Toby,Corgi,Black,Large,Low,Female,14,12
+Bella,Poodle,Cream,Small,Medium,Female,50,4
+Buddy,Poodle,Spotted,Medium,Medium,Female,26,12
+Buddy,Bulldog,Brown,Small,Medium,Female,45,2
+Bella,Golden Retriever,Cream,Large,High,Female,32,11
+Toby,Golden Retriever,Black,Small,Medium,Female,47,2
+Bella,Labrador Retriever,Brown,Large,Medium,Female,47,6
+Rocky,Boxer,Brown,Medium,Low,Male,44,1
+Buddy,Rottweiler,Brown,Medium,High,Male,28,2
+Charlie,Border Collie,White,Medium,High,Male,28,12
+Maggie,Pug,White,Small,High,Male,19,4
+Buddy,Pug,Black,Large,High,Male,32,10
+Toby,Australian Shepherd,Golden,Small,High,Male,27,2
+Cooper,Australian Shepherd,White,Small,High,Female,34,2
+Charlie,Great Dane,Spotted,Small,Medium,Female,43,13
+Stella,Golden Retriever,Black,Large,High,Female,14,9
+Luna,Boxer,White,Small,Low,Male,9,9
+Toby,Rottweiler,Cream,Large,Medium,Female,23,13
+Milo,Beagle,Golden,Large,Medium,Female,12,2
+Toby,Beagle,White,Large,Low,Male,27,14
+Oliver,Chihuahua,Black,Small,Medium,Male,35,6
+Chloe,Boxer,Cream,Large,Low,Female,23,3
+Toby,Great Dane,Black,Large,High,Male,47,15
+Daisy,French Bulldog,Brown,Small,Medium,Male,13,3
+Sophie,Labrador Retriever,Gray,Large,Low,Female,48,15
+Max,German Shepherd,Spotted,Small,Low,Male,6,15
+Bailey,German Shepherd,Gray,Small,Medium,Male,49,1
+Sadie,Rottweiler,Golden,Medium,High,Female,44,1
+Rocky,French Bulldog,Spotted,Small,Low,Male,30,14
+Charlie,Pug,Brindle,Medium,Medium,Female,33,4
+Bella,Rottweiler,Brown,Large,Medium,Female,5,10
+Oliver,Poodle,Golden,Small,Medium,Female,5,9
+Lucy,Dachshund,White,Large,Low,Male,43,8
+Rocky,Doberman,Golden,Large,Low,Female,39,13
+Toby,Pug,Gray,Small,Medium,Female,17,14
+Luna,Labrador Retriever,Gray,Large,Low,Male,23,14
+Maggie,German Shepherd,Gray,Large,High,Female,45,8
+Toby,Chihuahua,Cream,Large,Low,Male,39,15
+Max,Australian Shepherd,Spotted,Large,Low,Female,42,9
+Rocky,Shih Tzu,Cream,Large,Low,Male,24,1
+Buddy,French Bulldog,Brown,Medium,Low,Male,50,10
+Bella,Doberman,White,Large,Medium,Male,45,8
+Jack,Corgi,Brown,Large,High,Female,47,13
+Bella,Labrador Retriever,Spotted,Large,Low,Female,29,8
+Sophie,German Shepherd,White,Large,Low,Male,23,12
+Stella,Shih Tzu,White,Medium,High,Male,5,12
+Luna,Siberian Husky,Golden,Medium,Medium,Male,19,13
+Charlie,Siberian Husky,Gray,Small,High,Female,47,5
+Sophie,Siberian Husky,Spotted,Medium,Medium,Male,38,13
+Jack,Chihuahua,Brown,Small,High,Female,18,6
+Leo,Australian Shepherd,Brindle,Large,Low,Male,41,11
+Chloe,Beagle,Brindle,Small,Medium,Female,44,9
+Oliver,Yorkshire Terrier,Cream,Large,High,Male,40,8
+Luna,Golden Retriever,Gray,Large,High,Female,20,15
+Lucy,Rottweiler,Gray,Large,Medium,Female,6,3
+Toby,Border Collie,Gray,Medium,High,Female,38,15
+Sophie,Poodle,White,Small,High,Male,21,7
+Cooper,Labrador Retriever,Cream,Large,Low,Female,18,8
+Bella,Bulldog,Gray,Medium,High,Male,16,4
+Daisy,Labrador Retriever,White,Medium,High,Female,18,14
+Sophie,Yorkshire Terrier,Brown,Large,Medium,Female,12,9
+Sophie,German Shepherd,Gray,Small,High,Female,10,13
+Charlie,Poodle,Brindle,Large,Low,Male,23,5
+Chloe,Yorkshire Terrier,White,Small,Medium,Female,20,4
+Bailey,Pug,White,Large,Low,Female,9,5
+Stella,Border Collie,Cream,Large,Medium,Female,33,8
+Bella,Chihuahua,Spotted,Medium,High,Male,25,13
+Sophie,Labrador Retriever,White,Large,Low,Male,30,2
+Milo,Beagle,Spotted,Small,Low,Female,43,7
+Jack,Great Dane,Gray,Medium,Medium,Male,29,4
+Cooper,Rottweiler,Spotted,Large,High,Female,32,2
+Charlie,Boxer,Cream,Medium,Low,Female,20,7
+Lucy,Golden Retriever,Gray,Small,Low,Female,44,10
+Toby,Dachshund,Spotted,Medium,High,Male,44,1
+Lucy,Bulldog,Brown,Small,High,Male,8,11
+Cooper,Beagle,Black,Medium,Medium,Male,19,10
+Sophie,Pug,Brown,Large,Low,Female,18,14
+Milo,Poodle,Brindle,Large,Low,Male,32,12
+Leo,Golden Retriever,Spotted,Small,High,Male,33,9
+Luna,Golden Retriever,Spotted,Small,High,Male,10,1
+Chloe,Rottweiler,Brown,Medium,Medium,Male,24,15
+Cooper,Boxer,Cream,Large,High,Female,48,2
+Chloe,German Shepherd,Cream,Medium,Low,Male,5,1
+Rocky,German Shepherd,Cream,Large,Low,Female,14,4
+Lucy,Border Collie,Cream,Medium,Low,Female,23,10
+Leo,Labrador Retriever,Golden,Medium,High,Male,34,15
+Max,Bulldog,Spotted,Large,Medium,Female,10,3
+Cooper,French Bulldog,Golden,Large,Medium,Male,22,11
+Rocky,Australian Shepherd,Cream,Large,High,Female,42,2
+Daisy,Doberman,Golden,Medium,Low,Female,26,5
+Buddy,Rottweiler,White,Large,Low,Male,36,6
+Lucy,Yorkshire Terrier,Golden,Medium,Medium,Female,14,13
+Sadie,Great Dane,Brindle,Large,Medium,Female,27,1
+Leo,Labrador Retriever,Brindle,Small,Low,Male,5,9
+Rocky,German Shepherd,Brown,Large,High,Female,18,1
+Daisy,Boxer,White,Medium,Medium,Female,28,5
+Rocky,Labrador Retriever,Brown,Small,High,Male,7,10
+Toby,Beagle,Brindle,Small,Medium,Female,30,10
+Leo,Rottweiler,Brindle,Medium,Low,Female,32,1
+Stella,Dachshund,Brown,Small,High,Female,13,1
+Leo,Australian Shepherd,Brindle,Small,Low,Male,9,15
+Luna,Great Dane,Cream,Medium,High,Male,33,5
+Oliver,Dachshund,Gray,Large,Medium,Male,22,12
+Jack,Shih Tzu,Golden,Small,Low,Female,26,7
+Luna,Golden Retriever,Cream,Medium,High,Male,49,2
+Milo,Golden Retriever,Gray,Large,Medium,Male,49,13
+Cooper,Poodle,Spotted,Medium,Medium,Male,40,7
+Cooper,Siberian Husky,White,Medium,Low,Female,41,15
+Sophie,Australian Shepherd,Spotted,Large,Low,Male,9,15
+Bella,Boxer,Cream,Medium,Medium,Male,25,8
+Lucy,Pug,Gray,Large,High,Female,47,13
+Leo,Pug,Spotted,Medium,High,Female,50,12
+Chloe,Dachshund,Golden,Small,Low,Female,11,3
+Leo,Chihuahua,White,Medium,Medium,Female,6,13
+Luna,Bulldog,White,Medium,High,Male,44,5
+Leo,German Shepherd,Brown,Small,Medium,Female,44,14
+Stella,Yorkshire Terrier,Cream,Large,High,Male,38,15
+Chloe,German Shepherd,Golden,Large,Low,Female,29,5
+Buddy,German Shepherd,Brindle,Medium,Medium,Male,34,1
+Maggie,Siberian Husky,Golden,Small,Low,Female,23,2
+Jack,Golden Retriever,White,Small,Low,Male,23,3
+Maggie,Bulldog,Brindle,Small,High,Male,26,8
+Oliver,Poodle,Brown,Small,Medium,Male,32,5
+Luna,Golden Retriever,Golden,Large,High,Male,21,9
+Toby,Chihuahua,Golden,Large,High,Female,43,6
+Oliver,Labrador Retriever,Gray,Large,Low,Female,46,6
+Bailey,Siberian Husky,Black,Small,Medium,Female,21,4
+Cooper,Bulldog,Golden,Medium,Low,Female,8,8
+Bailey,Chihuahua,Gray,Small,Low,Male,6,15
+Stella,Dachshund,Gray,Small,Low,Female,23,15
+Max,Corgi,Spotted,Large,Medium,Male,42,4
+Max,Australian Shepherd,Brindle,Small,Medium,Male,7,1
+Luna,Rottweiler,Brindle,Small,High,Female,11,5
+Cooper,Yorkshire Terrier,Spotted,Medium,High,Male,19,12
+Daisy,Shih Tzu,Brown,Large,Medium,Male,22,4
+Bailey,Dachshund,Cream,Large,Medium,Male,40,8
+Cooper,Border Collie,Gray,Medium,Low,Female,18,6
+Oliver,Doberman,Golden,Medium,Low,Male,28,12
+Oliver,Siberian Husky,Golden,Medium,High,Male,38,15
+Milo,Poodle,Brindle,Large,Medium,Female,8,9
+Buddy,Bulldog,Spotted,Large,Medium,Female,42,5
+Bailey,Boxer,Gray,Small,Low,Male,22,1
+Buddy,Siberian Husky,Spotted,Medium,High,Male,37,3
+Sophie,Corgi,Gray,Large,Low,Male,26,6
+Cooper,French Bulldog,Black,Small,Low,Female,42,13
+Rocky,Border Collie,Cream,Large,Low,Female,32,3
+Jack,French Bulldog,Gray,Small,Medium,Female,33,2
+Charlie,Corgi,Golden,Medium,Medium,Female,16,6
+Bailey,French Bulldog,Brindle,Small,High,Male,16,1
+Bella,Bulldog,White,Large,Medium,Female,37,4
+Chloe,Boxer,White,Small,Medium,Male,28,1
+Sadie,Yorkshire Terrier,Spotted,Medium,Medium,Female,32,1
+Lucy,Bulldog,Black,Large,High,Female,37,2
+Milo,Poodle,Gray,Medium,Medium,Male,9,10
+Daisy,Corgi,Brindle,Small,High,Male,5,10
+Jack,Australian Shepherd,Spotted,Large,High,Male,47,5
+Buddy,French Bulldog,Black,Small,Medium,Male,20,11
+Leo,Great Dane,Black,Medium,Low,Female,50,5
+Milo,Doberman,Black,Small,Medium,Male,16,7
+Charlie,Border Collie,Brindle,Small,High,Male,18,12
+Bailey,Bulldog,Spotted,Small,Medium,Female,36,1
+Milo,Chihuahua,Black,Large,Low,Male,41,15
+Max,German Shepherd,Black,Medium,High,Male,32,10
+Rocky,Yorkshire Terrier,White,Medium,Medium,Male,8,9
+Daisy,Chihuahua,Gray,Large,Medium,Male,30,9
+Max,Chihuahua,Cream,Medium,High,Male,18,15
+Jack,French Bulldog,Brown,Large,High,Male,19,14
+Luna,Poodle,Brown,Medium,Low,Male,34,2
+Lucy,Labrador Retriever,Spotted,Large,Low,Male,28,6
+Maggie,Doberman,White,Large,Medium,Male,33,15
+Jack,Doberman,Spotted,Large,Low,Male,28,14
+Leo,Great Dane,Cream,Medium,High,Male,14,15
+Stella,Bulldog,Gray,Medium,Medium,Male,32,11
+Stella,Corgi,Spotted,Large,High,Male,33,3
+Leo,German Shepherd,Golden,Large,Medium,Female,7,4
+Cooper,Pug,Golden,Large,Low,Female,45,8
+Stella,Golden Retriever,Black,Large,Medium,Female,39,4
+Stella,Rottweiler,Spotted,Medium,Low,Female,16,13
+Bella,Beagle,Cream,Medium,Medium,Female,24,12
+Leo,Border Collie,Golden,Large,Low,Female,11,3
+Buddy,Labrador Retriever,Golden,Large,Medium,Male,25,8
+Chloe,Great Dane,Golden,Medium,High,Female,30,11
+Bella,Chihuahua,Golden,Large,Medium,Female,33,5
+Jack,Bulldog,Brindle,Medium,Medium,Female,14,11
+Lucy,Poodle,White,Medium,Low,Female,25,7
+Bailey,Poodle,Cream,Medium,High,Male,19,9
+Chloe,Beagle,White,Large,Medium,Male,16,11
+Chloe,Doberman,Brindle,Medium,Medium,Female,43,11
+Max,Shih Tzu,Brown,Medium,Low,Female,6,8
+Max,Yorkshire Terrier,Gray,Medium,Medium,Female,40,8
+Max,Dachshund,Brown,Small,Medium,Female,28,2
+Stella,Pug,Spotted,Large,High,Female,31,3
+Buddy,Shih Tzu,Golden,Medium,Medium,Male,22,6
+Leo,Pug,Cream,Large,High,Female,25,11
+Charlie,Bulldog,Cream,Large,Medium,Male,21,11
+Stella,Bulldog,Cream,Small,Medium,Female,37,9
+Bella,Dachshund,White,Medium,Low,Female,36,3
+Daisy,Border Collie,Spotted,Medium,Low,Male,8,14
+Buddy,Border Collie,Cream,Large,Low,Male,6,2
+Rocky,Dachshund,Golden,Small,Medium,Male,18,8
+Stella,Boxer,Golden,Small,Medium,Male,37,10
+Buddy,Beagle,Brindle,Large,Low,Male,38,1
+Milo,Corgi,White,Large,Low,Female,25,12
+Rocky,Golden Retriever,White,Medium,Medium,Female,26,15
+Leo,Shih Tzu,Cream,Medium,Low,Female,31,4
+Toby,Corgi,Golden,Medium,Medium,Female,27,10
+Lucy,Shih Tzu,Spotted,Small,High,Female,34,1
+Bella,Dachshund,Brindle,Large,Medium,Male,24,12
+Lucy,Shih Tzu,White,Small,Medium,Male,14,3
+Oliver,Siberian Husky,Cream,Large,Medium,Male,20,12
+Milo,German Shepherd,Gray,Medium,High,Male,27,13
+Sophie,Bulldog,Spotted,Small,High,Female,49,1
+Jack,Corgi,Cream,Small,Medium,Male,31,3
+Sadie,Australian Shepherd,Brindle,Large,Low,Female,27,10
+Luna,Doberman,Black,Small,High,Male,7,2
+Bailey,Yorkshire Terrier,Black,Medium,Medium,Male,17,11
+Oliver,Australian Shepherd,Spotted,Small,High,Female,31,11
+Toby,Golden Retriever,Black,Medium,High,Female,22,13
+Milo,Australian Shepherd,White,Medium,Medium,Male,24,12
+Sophie,French Bulldog,Brindle,Large,High,Male,8,14
+Bella,Border Collie,Spotted,Large,High,Male,13,1
+Bella,French Bulldog,Cream,Medium,Low,Female,8,4
+Leo,Rottweiler,Brindle,Large,Low,Male,14,7
+Rocky,German Shepherd,Black,Medium,Low,Male,40,6
+Max,Boxer,Golden,Medium,High,Male,31,4
+Toby,Australian Shepherd,Gray,Small,High,Female,37,8
+Toby,German Shepherd,Black,Large,Medium,Male,49,2
+Leo,French Bulldog,Spotted,Small,Medium,Female,48,11
+Daisy,Australian Shepherd,Gray,Large,High,Female,46,2
+Milo,Labrador Retriever,Spotted,Medium,Low,Female,9,2
+Milo,Labrador Retriever,White,Medium,Medium,Male,8,2
+Bailey,Shih Tzu,White,Large,Low,Male,48,5
+Chloe,Australian Shepherd,Brindle,Large,High,Male,37,15
+Maggie,Australian Shepherd,Gray,Medium,High,Female,14,6
+Charlie,Boxer,Brown,Small,Medium,Female,19,13
+Bailey,Bulldog,Brindle,Large,Low,Female,36,11
+Bailey,Rottweiler,Brown,Large,Low,Female,20,12
+Toby,Poodle,Black,Medium,Low,Female,28,12
+Bella,French Bulldog,Brindle,Medium,High,Female,9,3
+Max,Dachshund,Brown,Small,Medium,Female,7,13
+Cooper,Corgi,Brindle,Medium,Low,Female,20,14
+Bella,Corgi,Black,Small,Low,Male,18,11
+Sophie,Golden Retriever,Gray,Medium,High,Female,19,5
+Buddy,Dachshund,Brindle,Medium,Medium,Male,38,2
+Charlie,Bulldog,Cream,Large,Medium,Male,50,10
+Sadie,French Bulldog,Brindle,Large,Medium,Female,46,4
+Luna,Poodle,Spotted,Medium,Low,Female,33,1
+Bella,Boxer,Cream,Large,Medium,Female,26,13
+Sophie,Poodle,Black,Small,High,Female,45,7
+Sadie,Chihuahua,Cream,Small,Low,Male,16,14
+Sadie,Labrador Retriever,Cream,Large,Medium,Male,8,9
+Max,Doberman,Gray,Large,Low,Male,21,10
+Bella,Rottweiler,Black,Small,High,Male,32,13
+Jack,Doberman,Golden,Large,Low,Male,21,5
+Milo,Border Collie,Brown,Medium,High,Male,33,6
+Oliver,Doberman,Gray,Small,Medium,Female,19,4
+Chloe,Rottweiler,Gray,Small,Medium,Male,23,7
+Toby,Beagle,White,Large,Low,Female,45,4
+Jack,Shih Tzu,Spotted,Small,Medium,Female,40,4
+Rocky,Australian Shepherd,Black,Medium,High,Male,39,10
+Leo,Bulldog,Cream,Large,Low,Female,25,1
+Cooper,Boxer,Spotted,Medium,Low,Male,47,9
+Charlie,Pug,Spotted,Medium,Low,Female,49,7
+Bailey,Corgi,Cream,Large,High,Female,44,1
+Sophie,Pug,White,Small,High,Female,32,15
+Sophie,Shih Tzu,Brindle,Medium,High,Female,30,12
+Jack,Pug,White,Medium,High,Male,29,5
+Cooper,Australian Shepherd,Spotted,Small,Medium,Male,7,13
+Milo,Shih Tzu,Cream,Large,Medium,Male,31,2
+Chloe,Pug,Gray,Small,Medium,Male,18,3
+Bailey,Siberian Husky,Golden,Small,Low,Male,8,4
+Buddy,Australian Shepherd,Black,Medium,Medium,Male,31,12
+Leo,Rottweiler,Brindle,Small,Medium,Female,11,8
+Rocky,Golden Retriever,Spotted,Small,Medium,Male,25,14
+Buddy,German Shepherd,Golden,Medium,Low,Female,16,6
+Lucy,Dachshund,White,Small,Low,Female,18,7
+Rocky,Dachshund,Brindle,Medium,Low,Female,35,14
+Toby,Beagle,Cream,Small,Medium,Female,22,9
+Stella,Dachshund,Spotted,Medium,High,Female,37,6
+Bailey,German Shepherd,Brown,Medium,Medium,Female,32,13
+Chloe,Dachshund,Brown,Small,Medium,Female,39,11
+Charlie,Golden Retriever,White,Large,High,Male,37,3
+Bailey,Rottweiler,White,Large,Medium,Female,40,13
+Rocky,Beagle,Black,Small,Low,Male,47,14
+Rocky,French Bulldog,Golden,Large,High,Female,16,14
+Bella,Pug,Brindle,Medium,High,Male,29,9
+Bailey,German Shepherd,Gray,Medium,High,Female,6,8
+Toby,Rottweiler,Brindle,Small,Low,Female,32,14
+Chloe,Golden Retriever,Gray,Small,High,Male,16,15
+Jack,Yorkshire Terrier,Golden,Large,Low,Male,10,10
+Chloe,Doberman,Gray,Large,Low,Female,44,5
+Stella,Boxer,White,Medium,High,Male,21,11
+Jack,Border Collie,Brindle,Large,Low,Female,8,12
+Stella,Labrador Retriever,Brown,Medium,High,Female,29,13
+Bella,Border Collie,Black,Small,High,Female,22,14
+Charlie,Corgi,Brown,Medium,Low,Male,22,5
+Maggie,Golden Retriever,White,Medium,Low,Female,8,2
+Luna,Border Collie,Brown,Small,Low,Male,20,12
+Oliver,Golden Retriever,Black,Small,Low,Male,19,15
+Sophie,Chihuahua,Cream,Small,High,Female,45,9
+Daisy,Poodle,White,Medium,High,Male,32,14
+Daisy,Labrador Retriever,Gray,Large,High,Male,21,2
+Bella,Doberman,Brown,Large,Low,Male,19,6
+Max,Siberian Husky,Brindle,Large,Low,Male,46,1
+Sophie,Labrador Retriever,Cream,Large,High,Female,36,3
+Lucy,French Bulldog,Gray,Large,Medium,Male,10,5
+Jack,Labrador Retriever,Spotted,Small,Low,Female,49,7
+Sadie,Chihuahua,Black,Medium,Medium,Female,37,10
+Leo,Beagle,Brindle,Medium,High,Male,34,8
+Bella,Great Dane,Spotted,Large,Medium,Male,33,12
+Sadie,Bulldog,Brindle,Medium,High,Female,46,9
+Rocky,Corgi,Black,Small,High,Male,24,2
+Sadie,Siberian Husky,Brindle,Small,Medium,Male,7,8
+Buddy,French Bulldog,White,Medium,High,Female,38,4
+Leo,Yorkshire Terrier,White,Large,High,Female,11,3
+Maggie,Corgi,Spotted,Small,High,Female,31,9
+Rocky,Great Dane,Black,Large,Medium,Female,37,3
+Sadie,Yorkshire Terrier,Brindle,Small,Low,Female,43,2
+Max,Labrador Retriever,Cream,Large,Low,Female,16,2
+Jack,Rottweiler,Cream,Medium,Low,Female,39,12
+Max,French Bulldog,Brown,Medium,Low,Female,14,15
+Jack,Yorkshire Terrier,Brindle,Medium,Medium,Female,5,7
+Oliver,Australian Shepherd,Cream,Small,Medium,Female,49,3
+Cooper,Doberman,Cream,Small,Low,Female,50,6
+Cooper,Doberman,Cream,Medium,High,Male,36,9
+Chloe,Australian Shepherd,Brown,Medium,High,Female,20,2
+Sophie,Golden Retriever,Brindle,Medium,High,Male,50,15
+Leo,Doberman,Spotted,Large,Low,Male,22,8
+Milo,Rottweiler,White,Large,Low,Male,7,14
+Oliver,Labrador Retriever,Black,Medium,High,Female,27,2
+Sophie,French Bulldog,Cream,Small,Medium,Male,48,2
+Sophie,Dachshund,Brown,Medium,Low,Female,17,12
+Cooper,Dachshund,Brown,Small,High,Female,9,3
+Max,Shih Tzu,Spotted,Large,Medium,Female,49,15
+Charlie,French Bulldog,Brown,Large,High,Male,6,13
+Rocky,Doberman,Golden,Small,High,Male,41,7
+Toby,Pug,Gray,Medium,Medium,Male,28,13
+Max,Siberian Husky,Spotted,Large,Medium,Female,40,10
+Maggie,German Shepherd,Golden,Medium,Low,Male,9,14
+Lucy,Beagle,White,Small,Low,Female,42,14
+Daisy,Shih Tzu,Gray,Small,Medium,Male,38,2
+Cooper,Corgi,Golden,Small,Medium,Female,28,12
+Bella,Golden Retriever,White,Medium,Low,Female,8,11
+Bella,Border Collie,Gray,Large,High,Female,9,13
+Leo,Shih Tzu,White,Large,High,Male,38,8
+Toby,Corgi,Brindle,Large,Low,Male,40,13
+Stella,Golden Retriever,Brindle,Large,High,Female,39,11
+Milo,Beagle,Black,Medium,Low,Female,18,9
+Milo,Dachshund,Spotted,Large,Low,Male,48,3
+Toby,Rottweiler,Brindle,Medium,Medium,Female,8,2
+Oliver,Pug,Brindle,Small,High,Male,21,4
+Jack,Boxer,Golden,Medium,Medium,Male,13,4
+Chloe,French Bulldog,White,Large,Low,Male,38,10
+Milo,Yorkshire Terrier,White,Medium,Low,Male,41,14
+Chloe,Poodle,Black,Small,High,Female,37,3
+Rocky,Great Dane,Cream,Medium,High,Female,21,1
+Maggie,Yorkshire Terrier,Black,Medium,Medium,Male,20,8
+Toby,French Bulldog,White,Medium,Low,Female,42,15
+Maggie,Beagle,Brindle,Medium,Low,Female,48,12
+Buddy,Dachshund,Cream,Medium,Low,Female,50,3
+Toby,Yorkshire Terrier,Golden,Small,Low,Female,28,7
+Sophie,French Bulldog,Golden,Small,Low,Female,27,9
+Rocky,Rottweiler,Black,Large,Low,Female,40,10
+Maggie,French Bulldog,Cream,Medium,High,Male,46,12
+Bailey,Australian Shepherd,Brown,Small,Low,Female,34,1
+Milo,Australian Shepherd,Spotted,Small,Medium,Female,43,12
+Charlie,Rottweiler,Brown,Large,Low,Female,28,1
+Sophie,Chihuahua,Spotted,Large,Medium,Female,6,9
+Charlie,Poodle,Black,Small,Medium,Female,47,15
+Bailey,Rottweiler,Golden,Small,High,Female,39,3
+Luna,Great Dane,Gray,Medium,Medium,Male,21,2
+Toby,Pug,Brown,Large,Low,Female,42,1
+Leo,Great Dane,Golden,Small,Low,Female,46,8
+Oliver,German Shepherd,Spotted,Small,Low,Female,30,4
+Sadie,Border Collie,Golden,Large,Low,Female,42,1
+Max,Yorkshire Terrier,Brindle,Large,High,Male,26,4
+Bailey,Great Dane,Gray,Medium,High,Female,7,11
+Bailey,Poodle,Brown,Small,High,Male,35,12
+Charlie,Poodle,Spotted,Large,Medium,Male,37,8
+Buddy,Australian Shepherd,Spotted,Small,Medium,Female,35,6
+Chloe,Border Collie,Brown,Medium,High,Male,25,14
+Bailey,Shih Tzu,White,Medium,Low,Female,21,14
+Lucy,Chihuahua,Cream,Large,Medium,Male,35,13
+Rocky,German Shepherd,Golden,Small,Medium,Male,50,4
+Charlie,Australian Shepherd,Brindle,Small,Low,Female,6,12
+Bailey,Border Collie,Brown,Large,Low,Male,21,10
+Lucy,Corgi,Golden,Medium,Low,Male,29,13
+Sophie,Border Collie,Golden,Large,Medium,Male,31,3
+Cooper,Pug,Spotted,Small,Medium,Male,46,5
+Charlie,Border Collie,Brindle,Small,High,Male,9,15
+Oliver,Doberman,White,Medium,Low,Female,44,13
+Stella,Dachshund,Golden,Small,High,Female,22,5
+Bailey,Siberian Husky,Gray,Small,High,Male,33,11
+Daisy,Chihuahua,Cream,Large,High,Female,23,9
+Bailey,Doberman,Golden,Medium,High,Female,28,2
+Bailey,Golden Retriever,Black,Large,High,Male,6,1
+Daisy,French Bulldog,Black,Large,High,Male,27,3
+Rocky,Doberman,Cream,Small,High,Male,40,3
+Bailey,Yorkshire Terrier,White,Large,Low,Female,7,9
+Lucy,Poodle,Gray,Large,Low,Female,45,12
+Oliver,Yorkshire Terrier,Brown,Large,Low,Female,42,3
+Bailey,Golden Retriever,Gray,Large,High,Female,18,7
+Maggie,Doberman,Cream,Medium,Medium,Male,44,2
+Sadie,Siberian Husky,Black,Small,High,Male,32,8
+Buddy,Golden Retriever,Brindle,Small,Low,Male,34,7
+Toby,French Bulldog,Brindle,Large,Medium,Male,42,3
+Cooper,Siberian Husky,White,Small,Low,Male,7,13
+Max,Boxer,Brown,Small,High,Female,49,1
+Daisy,Shih Tzu,Brown,Large,Low,Female,45,2
+Bella,Shih Tzu,Black,Medium,High,Male,45,7
+Bella,Australian Shepherd,Spotted,Large,Low,Female,44,3
+Sophie,Doberman,Spotted,Medium,High,Male,10,13
+Cooper,Chihuahua,White,Large,High,Female,28,1
+Rocky,Bulldog,Golden,Small,High,Female,16,10
+Rocky,Doberman,Gray,Medium,Medium,Male,14,8
+Leo,Golden Retriever,Black,Medium,Medium,Male,48,5
+Maggie,Dachshund,White,Medium,High,Female,40,10
+Cooper,Border Collie,Black,Medium,High,Female,47,14
+Lucy,Australian Shepherd,Gray,Small,High,Male,27,12
+Stella,Siberian Husky,Brown,Small,Medium,Male,21,7
+Buddy,French Bulldog,Brindle,Medium,High,Female,32,5
+Jack,Australian Shepherd,White,Small,Medium,Female,32,15
+Milo,Australian Shepherd,Spotted,Large,Medium,Male,48,7
+Cooper,Yorkshire Terrier,Golden,Large,Medium,Female,36,12
+Stella,Poodle,Spotted,Large,Low,Female,35,3
+Leo,Dachshund,Cream,Small,Low,Male,9,8
+Cooper,Rottweiler,Brindle,Medium,Medium,Female,9,5
+Buddy,Pug,Cream,Medium,Medium,Female,50,15
+Bailey,Beagle,Brindle,Large,Low,Male,32,10
+Bella,Great Dane,Cream,Large,Low,Female,20,4
+Luna,Siberian Husky,Brindle,Large,High,Male,45,13
+Chloe,Siberian Husky,Brown,Medium,Medium,Male,35,14
+Max,Great Dane,Brown,Small,Medium,Male,17,11
+Sadie,Chihuahua,Black,Large,Low,Male,37,13
+Buddy,Boxer,Cream,Large,Low,Male,39,12
+Luna,Chihuahua,Spotted,Large,Medium,Male,13,11
+Sadie,Australian Shepherd,Brindle,Medium,Low,Male,41,11
+Toby,Doberman,White,Small,Medium,Male,17,7
+Leo,Australian Shepherd,White,Small,Medium,Male,11,1
+Daisy,Great Dane,Gray,Medium,High,Female,17,4
+Max,Dachshund,Black,Large,Medium,Male,25,7
+Daisy,Poodle,Gray,Medium,Medium,Male,32,9
+Milo,Labrador Retriever,Black,Small,High,Female,18,6
+Rocky,Doberman,Gray,Large,High,Female,27,2
+Bella,Siberian Husky,Brindle,Medium,Low,Female,41,4
+Milo,Bulldog,Golden,Large,High,Male,9,6
+Luna,Rottweiler,Black,Medium,Low,Male,9,14
+Chloe,Pug,Black,Small,Low,Female,35,8
+Maggie,Yorkshire Terrier,Cream,Small,Medium,Female,18,6
+Buddy,Chihuahua,Gray,Medium,High,Female,40,2
+Leo,Border Collie,Brindle,Small,Medium,Female,50,9
+Max,Border Collie,Golden,Small,Low,Male,35,11
+Luna,German Shepherd,Cream,Large,High,Male,6,1
+Jack,Labrador Retriever,White,Medium,Medium,Female,43,12
+Daisy,Bulldog,Spotted,Large,Low,Male,37,12
+Jack,Great Dane,Brown,Large,Low,Female,37,4
+Jack,Labrador Retriever,Cream,Medium,Low,Female,32,11
+Bella,Border Collie,Golden,Large,Low,Male,45,3
+Buddy,Boxer,Golden,Small,Medium,Female,31,14
+Sadie,Labrador Retriever,White,Medium,High,Female,26,7
+Toby,Border Collie,Cream,Medium,High,Male,40,3
+Maggie,Boxer,Spotted,Large,High,Male,9,14
+Lucy,Siberian Husky,Golden,Small,Medium,Male,42,6
+Cooper,Siberian Husky,Brindle,Small,Medium,Female,18,8
+Buddy,Great Dane,Spotted,Small,Low,Male,48,10
+Max,Bulldog,Brown,Large,High,Male,27,6
+Leo,Great Dane,Brindle,Medium,Medium,Female,8,11
+Toby,Golden Retriever,Cream,Small,Medium,Female,24,5
+Leo,Corgi,Cream,Small,Low,Male,8,8
+Daisy,Doberman,Brindle,Medium,Medium,Male,36,10
+Chloe,Chihuahua,Gray,Large,High,Female,38,14
+Cooper,Great Dane,Spotted,Medium,Medium,Male,33,6
+Sadie,Boxer,Black,Small,High,Male,11,5
+Sadie,German Shepherd,White,Small,High,Female,46,1
+Rocky,Dachshund,Brown,Medium,High,Male,10,12
+Leo,Bulldog,Brindle,Medium,High,Male,33,7
+Luna,Doberman,Golden,Medium,High,Male,41,9
+Toby,Great Dane,Spotted,Medium,High,Female,10,10
+Max,Corgi,Brindle,Medium,Medium,Male,44,9
+Sophie,Labrador Retriever,Brown,Small,Low,Male,50,3
+Bella,Shih Tzu,Black,Large,Low,Male,23,4
+Chloe,Labrador Retriever,Gray,Small,High,Male,14,5
+Chloe,Poodle,Brindle,Small,High,Female,41,1
+Toby,Poodle,Cream,Small,Low,Male,26,7
+Jack,Great Dane,White,Medium,High,Female,35,5
+Leo,Bulldog,Cream,Medium,Low,Male,16,2
+Sadie,Siberian Husky,Brindle,Medium,High,Male,6,9
+Daisy,Golden Retriever,Gray,Small,High,Male,41,3
+Maggie,Siberian Husky,White,Large,High,Female,33,15
+Sophie,Golden Retriever,White,Medium,Medium,Male,45,5
+Lucy,Australian Shepherd,Brown,Medium,Medium,Female,20,15
+Lucy,Shih Tzu,Gray,Small,Low,Male,50,10
+Bailey,Bulldog,White,Small,Medium,Female,11,4
+Daisy,French Bulldog,Black,Large,High,Female,14,3
+Charlie,Yorkshire Terrier,Black,Medium,High,Male,28,12
+Cooper,Rottweiler,Gray,Medium,Low,Male,12,14
+Bailey,Chihuahua,White,Large,Low,Male,33,5
+Bailey,Yorkshire Terrier,Cream,Large,High,Male,18,2
+Maggie,Golden Retriever,Brown,Medium,Medium,Female,25,5
+Milo,German Shepherd,Spotted,Small,Medium,Female,21,13
+Cooper,Corgi,Gray,Small,High,Male,27,14
+Milo,Rottweiler,Brown,Large,Low,Male,15,1
+Stella,Rottweiler,Black,Medium,High,Female,5,2
+Daisy,Boxer,Golden,Large,Medium,Female,5,10
+Maggie,Doberman,Brown,Large,Medium,Female,31,9
+Stella,German Shepherd,Black,Large,Low,Male,37,11
+Toby,Labrador Retriever,White,Large,Low,Male,40,11
+Stella,Poodle,Black,Medium,Low,Female,34,13
+Maggie,Corgi,Gray,Small,High,Male,8,2
+Sophie,Labrador Retriever,Brown,Medium,High,Female,8,13
+Buddy,German Shepherd,Brindle,Small,High,Male,12,3
+Daisy,Beagle,Gray,Medium,High,Female,5,3
+Lucy,Shih Tzu,Brown,Medium,Low,Female,24,2
+Lucy,Australian Shepherd,Brown,Medium,Medium,Female,36,3
+Chloe,Poodle,Cream,Small,High,Female,26,12
+Stella,German Shepherd,Brown,Medium,Low,Female,27,1
+Sophie,Dachshund,Brindle,Small,Medium,Female,28,10
+Buddy,Yorkshire Terrier,Golden,Medium,Medium,Male,9,3
+Luna,Rottweiler,Black,Large,Low,Female,45,14
+Bailey,Boxer,Spotted,Medium,Low,Female,15,7
+Maggie,Dachshund,Gray,Medium,Medium,Female,34,13
+Bailey,Bulldog,Brown,Small,Low,Male,8,4
+Cooper,Chihuahua,Brindle,Medium,High,Female,28,11
+Max,Beagle,Golden,Small,Low,Male,43,5
+Charlie,Siberian Husky,Black,Medium,Medium,Female,21,13
+Sophie,Shih Tzu,White,Medium,Medium,Male,5,1
+Bella,Dachshund,Spotted,Small,Medium,Male,11,1
+Leo,Rottweiler,Brindle,Small,Low,Male,7,7
+Daisy,Border Collie,Brown,Medium,High,Female,24,8
+Daisy,Boxer,White,Medium,Low,Male,41,4
+Maggie,Pug,Cream,Medium,Medium,Female,6,2
+Chloe,Labrador Retriever,Brown,Medium,High,Female,39,9
+Jack,Yorkshire Terrier,Cream,Large,Low,Male,41,1
+Daisy,Great Dane,Gray,Small,Medium,Male,9,13
+Maggie,Siberian Husky,Brindle,Medium,Medium,Female,42,4
+Toby,Shih Tzu,Black,Large,Medium,Female,32,14
+Jack,Golden Retriever,Spotted,Large,High,Female,35,13
+Sophie,Bulldog,Golden,Large,High,Female,34,2
+Chloe,Australian Shepherd,Brindle,Medium,Low,Female,5,5
+Oliver,Rottweiler,White,Medium,High,Male,38,6
+Max,French Bulldog,Golden,Large,High,Female,48,7
+Jack,Boxer,White,Small,High,Female,49,14
+Jack,Border Collie,Gray,Medium,Low,Male,16,10
+Charlie,Shih Tzu,Brindle,Large,Low,Male,20,13
+Leo,Yorkshire Terrier,Brindle,Large,High,Male,29,1
+Rocky,Doberman,Cream,Large,High,Female,28,1
+Rocky,Pug,Brown,Small,Low,Male,42,14
+Sophie,Poodle,Brown,Small,Medium,Female,19,10
+Cooper,Great Dane,Golden,Small,Medium,Male,50,1
+Stella,French Bulldog,Brindle,Medium,Medium,Female,38,6
+Bailey,Bulldog,Golden,Large,High,Female,38,1
+Daisy,Siberian Husky,White,Medium,Medium,Female,26,15
+Milo,French Bulldog,Black,Medium,Medium,Female,9,9
+Rocky,French Bulldog,White,Large,High,Female,29,14
+Max,Siberian Husky,Black,Large,Medium,Male,42,7
+Rocky,Beagle,Golden,Large,Medium,Male,37,3
+Bailey,Boxer,Brindle,Small,Low,Female,47,1
+Bella,Great Dane,Brown,Medium,High,Male,13,8
+Maggie,Doberman,White,Large,Low,Female,28,11
+Toby,Great Dane,Brindle,Small,High,Female,36,2
+Charlie,Pug,Black,Large,Medium,Male,28,13
+Maggie,German Shepherd,Brown,Small,Low,Male,11,10
+Chloe,Great Dane,Gray,Small,Low,Male,5,14
+Toby,Australian Shepherd,Brindle,Large,High,Male,20,2
+Sophie,French Bulldog,White,Large,High,Male,30,6
+Chloe,Great Dane,Brown,Large,Low,Female,28,6
+Chloe,Great Dane,Spotted,Small,Low,Female,17,7
+Bella,Golden Retriever,Brindle,Large,Low,Female,23,9
+Leo,Doberman,Spotted,Small,Low,Female,8,10
+Chloe,Yorkshire Terrier,Black,Medium,Medium,Female,38,9
+Max,Shih Tzu,Spotted,Medium,High,Female,19,8
+Jack,Bulldog,Golden,Medium,Medium,Female,23,13
+Luna,Rottweiler,Cream,Small,Medium,Male,30,9
+Daisy,Rottweiler,Black,Large,Medium,Male,41,11
+Sadie,Doberman,Brindle,Medium,High,Male,41,15
+Stella,Boxer,Brown,Large,Low,Female,30,15
+Bella,Doberman,Gray,Medium,Low,Male,18,12
+Chloe,Pug,Gray,Small,Low,Male,29,3
+Maggie,Poodle,Golden,Large,Medium,Male,7,10
+Buddy,Shih Tzu,Black,Large,Medium,Male,38,11
+Cooper,Border Collie,Brown,Large,Low,Male,32,11
+Milo,Beagle,Black,Small,Low,Male,24,5
+Bailey,Siberian Husky,Brown,Small,Medium,Male,21,5
+Rocky,Pug,Spotted,Large,Low,Male,6,9
+Sophie,Boxer,Gray,Small,Low,Male,49,6
+Sophie,Rottweiler,Brindle,Medium,High,Female,38,3
+Rocky,Corgi,Gray,Medium,Low,Female,44,5
+Buddy,Bulldog,Spotted,Large,Medium,Female,17,12
+Oliver,Doberman,Brindle,Large,High,Female,16,11
+Rocky,Beagle,Golden,Medium,Medium,Female,12,9
+Bella,Shih Tzu,Golden,Large,Medium,Female,15,7
+Bella,Boxer,Spotted,Large,Medium,Female,50,14
+Buddy,German Shepherd,Spotted,Small,Low,Male,37,15
+Lucy,French Bulldog,Black,Large,High,Female,41,4
+Oliver,Shih Tzu,Golden,Large,High,Male,32,10
+Luna,Border Collie,Golden,Large,High,Female,36,2
+Charlie,French Bulldog,Golden,Large,Medium,Male,11,6
+Toby,Doberman,Golden,Medium,Low,Female,45,12
+Toby,Shih Tzu,Cream,Small,High,Male,29,9
+Cooper,Corgi,Brindle,Medium,High,Male,45,8
+Bailey,Border Collie,Cream,Medium,Medium,Male,23,11
+Sadie,French Bulldog,White,Small,Low,Female,43,4
+Stella,Beagle,Golden,Medium,High,Male,14,2
+Sadie,Yorkshire Terrier,Golden,Large,Low,Female,6,11
+Chloe,Siberian Husky,Golden,Medium,Low,Female,18,3
+Rocky,French Bulldog,Golden,Large,Low,Male,49,4
+Sadie,Bulldog,Black,Small,Medium,Female,10,7
+Buddy,Boxer,Cream,Small,High,Female,10,7
+Sophie,German Shepherd,Cream,Large,High,Male,28,11
+Cooper,Yorkshire Terrier,Brindle,Small,Low,Female,5,6
+Luna,Chihuahua,Golden,Medium,High,Male,8,10
+Leo,French Bulldog,Brown,Small,Low,Female,13,10
+Milo,Australian Shepherd,Brindle,Small,Low,Female,15,9
+Chloe,Border Collie,Spotted,Small,Low,Male,19,4
+Stella,French Bulldog,Brindle,Small,High,Male,31,7
+Max,Corgi,Brown,Large,Medium,Male,50,3
+Buddy,Siberian Husky,Golden,Large,Low,Male,8,11
+Chloe,Chihuahua,Spotted,Large,High,Male,27,10
+Oliver,Siberian Husky,Brown,Medium,Medium,Male,9,9
+Leo,Australian Shepherd,Black,Large,Low,Female,27,8
+Max,Chihuahua,Brown,Large,Low,Male,9,13
+Toby,Great Dane,Black,Large,High,Male,29,4
+Milo,Siberian Husky,Brindle,Small,High,Male,17,15
+Stella,Dachshund,Golden,Medium,Medium,Female,40,10
+Sadie,French Bulldog,Cream,Large,Medium,Female,30,1
+Milo,Golden Retriever,Spotted,Small,Low,Female,29,13
+Oliver,Border Collie,Golden,Medium,High,Male,40,1
+Luna,Border Collie,Golden,Medium,High,Female,29,13
+Sophie,Bulldog,Golden,Large,Low,Male,36,2
+Maggie,Labrador Retriever,Golden,Medium,High,Female,9,8
+Max,Great Dane,Spotted,Large,Low,Male,9,5
+Lucy,Boxer,Brindle,Medium,Low,Female,16,9
+Stella,Poodle,Golden,Medium,Medium,Male,19,6
+Rocky,Poodle,Gray,Large,Medium,Female,47,13
+Charlie,Labrador Retriever,Cream,Small,Low,Female,46,15
+Luna,Corgi,Gray,Small,Low,Female,43,12
+Buddy,Australian Shepherd,White,Medium,High,Male,46,6
+Daisy,Yorkshire Terrier,Cream,Large,Medium,Female,6,14
+Maggie,Pug,White,Small,High,Male,7,4
+Stella,Doberman,Gray,Medium,Low,Male,12,3
+Leo,German Shepherd,Brindle,Large,High,Male,9,2
+Daisy,Beagle,Black,Medium,High,Male,50,2
+Max,Chihuahua,Black,Medium,Medium,Male,42,3
+Charlie,Rottweiler,Black,Small,Low,Female,32,8
+Lucy,Chihuahua,Brindle,Large,High,Male,8,12
+Chloe,Great Dane,Spotted,Large,High,Female,40,13
+Rocky,Corgi,Gray,Small,Medium,Male,49,7
+Lucy,French Bulldog,White,Medium,High,Male,49,10
+Maggie,Dachshund,Cream,Medium,High,Male,36,6
+Daisy,Pug,Black,Large,Low,Male,25,12
+Bailey,Border Collie,Golden,Small,High,Male,39,4
+Jack,Yorkshire Terrier,Golden,Medium,Low,Male,6,12
+Buddy,Yorkshire Terrier,Spotted,Medium,Low,Male,36,2
+Sadie,Rottweiler,Cream,Medium,Low,Male,12,2
+Charlie,Pug,Cream,Medium,Low,Female,48,9
+Cooper,Beagle,White,Small,Low,Male,38,7
+Leo,Bulldog,Golden,Large,Low,Male,49,15
+Daisy,Chihuahua,Gray,Small,Low,Female,6,14
+Stella,Golden Retriever,Black,Small,Medium,Female,9,3
+Max,Boxer,Brindle,Small,Low,Male,8,13
+Luna,Border Collie,Black,Medium,Low,Male,32,2
+Charlie,Chihuahua,Gray,Small,Low,Male,6,9
+Lucy,German Shepherd,Brown,Large,High,Male,25,6
+Toby,Rottweiler,Brindle,Medium,High,Female,37,2
+Sadie,Beagle,Spotted,Medium,Medium,Male,5,11
+Leo,Border Collie,Brindle,Small,Low,Male,48,15
+Max,Shih Tzu,Cream,Medium,Low,Male,25,15
+Bella,Pug,Black,Medium,Low,Female,24,14
+Sadie,Rottweiler,White,Small,High,Male,9,14
+Charlie,Doberman,Gray,Medium,High,Male,11,15
+Lucy,Siberian Husky,Cream,Medium,High,Female,8,3
+Luna,Dachshund,Gray,Small,Medium,Female,27,1
+Rocky,Corgi,Spotted,Large,Medium,Male,7,5
+Luna,Chihuahua,Brown,Small,Low,Female,45,12
+Cooper,Boxer,Spotted,Large,Low,Male,25,7
+Max,French Bulldog,White,Large,Medium,Male,46,4
+Sophie,Great Dane,Black,Small,High,Female,9,7
+Sophie,Yorkshire Terrier,Brown,Medium,Medium,Female,18,7
+Chloe,Yorkshire Terrier,White,Medium,Low,Female,28,12
+Leo,Australian Shepherd,Brindle,Medium,Medium,Male,7,3
+Charlie,Chihuahua,Golden,Small,Medium,Male,31,12
+Max,Corgi,Black,Large,Low,Female,46,10
+Max,Border Collie,White,Large,Medium,Male,8,14
+Daisy,Siberian Husky,Cream,Large,High,Female,20,3
+Charlie,Chihuahua,Brown,Large,High,Male,9,9
+Toby,Bulldog,Brown,Medium,High,Female,18,13
+Lucy,Beagle,Brindle,Small,Low,Female,13,12
+Luna,Labrador Retriever,Brindle,Small,High,Female,38,10
+Buddy,Australian Shepherd,Spotted,Medium,Low,Male,33,15
+Charlie,Border Collie,Brindle,Medium,Low,Male,13,3
+Sophie,Border Collie,Gray,Small,Low,Male,36,1
+Bella,Dachshund,White,Large,Low,Female,5,8
+Daisy,Bulldog,White,Medium,High,Female,19,15
+Daisy,Pug,Brindle,Large,Low,Female,46,10
+Sadie,Border Collie,Black,Small,Low,Female,19,2
+Lucy,Pug,Cream,Small,Medium,Male,35,4
+Bella,Siberian Husky,White,Large,High,Female,45,8
+Sophie,Chihuahua,Brown,Large,Low,Male,12,15
+Bella,Pug,Cream,Small,High,Male,36,9
+Jack,Siberian Husky,Gray,Medium,High,Male,30,14
+Max,Yorkshire Terrier,Brindle,Small,Low,Female,29,8
+Bailey,French Bulldog,Spotted,Small,High,Male,19,4
+Charlie,Chihuahua,Golden,Large,Medium,Female,35,12
+Sadie,Great Dane,Golden,Medium,Medium,Male,26,3
+Rocky,Australian Shepherd,Golden,Large,Medium,Female,6,4
+Maggie,Siberian Husky,Gray,Small,High,Female,34,10
+Maggie,Corgi,White,Large,High,Male,18,9
+Stella,Rottweiler,Cream,Medium,Low,Male,27,4
+Sophie,Corgi,Brindle,Large,Low,Female,50,11
+Maggie,French Bulldog,Golden,Medium,Low,Male,25,9
+Chloe,French Bulldog,Spotted,Medium,Low,Female,47,8
+Luna,Poodle,Brindle,Medium,High,Female,20,4
+Stella,Labrador Retriever,Brindle,Medium,Medium,Female,35,8
+Bella,Bulldog,Spotted,Medium,High,Male,9,1
+Cooper,Rottweiler,Cream,Small,Low,Female,31,14
+Buddy,Yorkshire Terrier,Cream,Medium,Low,Female,18,9
+Milo,Great Dane,Spotted,Large,Medium,Male,6,3
+Cooper,Corgi,Cream,Large,High,Female,48,12
+Luna,Rottweiler,White,Small,Low,Male,29,5
+Jack,Labrador Retriever,Gray,Small,Medium,Male,32,8
+Jack,Yorkshire Terrier,Brown,Medium,Low,Male,21,13
+Cooper,Yorkshire Terrier,White,Small,High,Female,32,11
+Buddy,Poodle,Black,Large,Low,Female,20,12
+Leo,Siberian Husky,White,Small,High,Male,7,4
+Toby,Pug,Brindle,Medium,High,Female,21,5
+Luna,Chihuahua,Spotted,Small,Low,Female,32,9
+Charlie,Yorkshire Terrier,Gray,Large,Low,Female,37,13
+Leo,Corgi,Black,Large,High,Female,45,6
+Sadie,German Shepherd,Gray,Large,Low,Female,17,6
+Stella,Doberman,Black,Small,Medium,Female,35,13
+Lucy,Doberman,White,Large,Medium,Male,12,15
+Bella,French Bulldog,Spotted,Large,Medium,Female,36,14
+Bailey,Corgi,Brindle,Small,Medium,Female,25,2
+Oliver,French Bulldog,Black,Small,High,Male,11,4
+Buddy,Pug,Gray,Small,Medium,Male,30,14
+Daisy,Labrador Retriever,Golden,Large,Low,Male,12,6
+Bailey,Corgi,Brown,Large,Low,Male,13,5
+Charlie,Doberman,Brindle,Medium,Low,Male,19,9
+Buddy,Labrador Retriever,Cream,Small,Medium,Female,29,1
+Max,Yorkshire Terrier,Brindle,Small,High,Female,21,11
+Cooper,Corgi,Brown,Large,Low,Male,34,6
+Sadie,Dachshund,Cream,Medium,Low,Female,38,15
+Maggie,French Bulldog,Black,Large,Low,Male,5,10
+Bella,Bulldog,Spotted,Small,High,Female,46,15
+Cooper,Great Dane,Golden,Medium,Low,Male,18,4
+Oliver,Siberian Husky,Golden,Small,Low,Female,6,6
+Milo,Shih Tzu,Black,Large,High,Male,32,15
+Luna,Border Collie,Gray,Medium,Low,Male,35,10
+Stella,Australian Shepherd,Black,Large,Low,Male,40,3
+Leo,French Bulldog,Brown,Large,Low,Female,33,9
+Bailey,Bulldog,White,Medium,Low,Male,17,4
+Stella,Chihuahua,Brindle,Large,Low,Male,25,12
+Chloe,Pug,Brindle,Small,Low,Male,17,10
+Oliver,Pug,White,Small,Low,Female,21,14
+Leo,French Bulldog,Gray,Medium,Low,Female,48,14
+Bailey,Australian Shepherd,White,Large,Medium,Female,44,12
+Bailey,Great Dane,Spotted,Small,High,Female,14,3
+Jack,Poodle,Black,Small,Low,Female,48,14
+Jack,Bulldog,Golden,Large,Medium,Female,8,13
+Bailey,German Shepherd,Golden,Large,Low,Female,20,6
+Bailey,Labrador Retriever,Golden,Small,Low,Female,9,7
+Bailey,Pug,Black,Large,Medium,Male,13,10
+Stella,Great Dane,Brindle,Medium,Medium,Male,43,11
+Toby,Doberman,Golden,Medium,High,Male,17,11
+Rocky,Bulldog,Cream,Small,High,Female,49,3
+Sadie,Australian Shepherd,Brindle,Medium,Medium,Male,34,13
+Toby,Doberman,Cream,Medium,Low,Male,8,8
+Chloe,Poodle,White,Medium,Low,Female,47,9
+Charlie,Doberman,Cream,Medium,Medium,Male,43,14
+Bella,Bulldog,Black,Medium,Medium,Male,11,10
+Chloe,Yorkshire Terrier,Brown,Medium,Low,Male,34,12
+Sophie,Australian Shepherd,White,Large,Medium,Female,44,2
+Cooper,Chihuahua,Spotted,Medium,Medium,Male,6,5
+Daisy,German Shepherd,Cream,Large,High,Male,43,1
+Maggie,Rottweiler,Gray,Medium,Medium,Male,42,14
+Buddy,Rottweiler,Brown,Large,Low,Male,45,7
+Sophie,Yorkshire Terrier,Cream,Medium,High,Male,18,10
+Bailey,Rottweiler,Spotted,Large,High,Male,25,2
+Daisy,Australian Shepherd,Spotted,Small,Medium,Male,32,2
+Chloe,Beagle,Spotted,Medium,High,Female,25,15
+Bella,Shih Tzu,Cream,Medium,High,Male,38,4
+Buddy,German Shepherd,Gray,Medium,Low,Female,6,9
+Chloe,Shih Tzu,Black,Medium,Low,Male,6,11
+Maggie,Siberian Husky,White,Small,Low,Female,12,12
+Max,Golden Retriever,Gray,Large,Low,Female,36,13
+Sadie,Rottweiler,Brown,Large,High,Female,23,1
+Bailey,French Bulldog,White,Medium,Low,Male,27,11
+Daisy,Boxer,White,Medium,High,Female,11,9
+Buddy,Shih Tzu,Gray,Large,Medium,Male,29,5
+Jack,Australian Shepherd,Black,Large,Medium,Female,45,1
+Toby,Shih Tzu,Black,Medium,High,Male,22,10
+Bailey,Rottweiler,Gray,Medium,High,Female,44,2
+Chloe,Beagle,White,Medium,Low,Male,39,11
+Leo,Chihuahua,Brown,Medium,Low,Female,8,2
+Maggie,Boxer,Spotted,Medium,High,Female,35,12
+Bailey,Siberian Husky,White,Large,Medium,Female,27,4
+Sophie,French Bulldog,Black,Medium,Medium,Female,9,11
+Stella,Shih Tzu,Golden,Small,Low,Male,33,11
+Toby,German Shepherd,Spotted,Large,Medium,Female,47,6
+Leo,Border Collie,Brown,Large,Low,Female,37,8
+Daisy,Bulldog,Brown,Medium,Medium,Female,5,12
+Cooper,Corgi,Spotted,Small,Medium,Male,49,7
+Cooper,Bulldog,Brown,Large,Medium,Female,46,4
+Luna,Golden Retriever,Gray,Medium,High,Male,20,2
+Toby,Pug,Cream,Large,Medium,Female,12,13
+Chloe,Australian Shepherd,Gray,Large,Medium,Male,37,5
+Milo,Australian Shepherd,Gray,Large,Low,Female,23,3
+Buddy,Border Collie,Black,Medium,Medium,Female,49,8
+Bella,Doberman,Gray,Small,Medium,Male,17,5
+Sadie,Chihuahua,Brindle,Small,Medium,Male,24,9
+Maggie,French Bulldog,Spotted,Large,Low,Male,33,14
+Lucy,Yorkshire Terrier,White,Small,Medium,Female,26,11
+Bailey,German Shepherd,Black,Large,Low,Male,43,2
+Toby,Shih Tzu,White,Medium,High,Male,9,7
+Rocky,Rottweiler,Brown,Small,Low,Female,33,6
+Lucy,Boxer,Golden,Small,High,Male,47,13
+Jack,Poodle,White,Large,High,Male,12,4
+Sophie,Rottweiler,Gray,Large,Low,Male,37,15
+Stella,Great Dane,Spotted,Medium,High,Male,30,14
+Jack,Chihuahua,White,Small,Low,Male,47,15
+Leo,Border Collie,Black,Medium,High,Male,35,3
+Rocky,Doberman,Spotted,Medium,Medium,Female,46,3
+Max,Corgi,Gray,Medium,Low,Male,21,2
+Leo,Labrador Retriever,Gray,Small,Medium,Female,39,11
+Milo,Doberman,Cream,Large,Low,Male,14,12
+Milo,Poodle,Golden,Large,Medium,Female,23,6
+Charlie,Shih Tzu,Brindle,Small,Medium,Male,38,7
+Bella,Golden Retriever,White,Small,Medium,Female,50,14
+Maggie,Labrador Retriever,Golden,Small,Low,Female,42,10
+Oliver,Australian Shepherd,Black,Large,High,Male,34,1
+Luna,French Bulldog,Gray,Large,Low,Male,38,8
+Sophie,Bulldog,Brindle,Medium,Low,Male,11,6
+Luna,Rottweiler,Spotted,Medium,Low,Female,24,5
+Milo,Boxer,Brown,Small,High,Female,20,6
+Buddy,Shih Tzu,Cream,Medium,Low,Male,49,15
+Leo,Pug,Black,Medium,Low,Male,14,10
+Bella,Beagle,Brindle,Large,High,Male,10,4
+Toby,Siberian Husky,Brindle,Large,Low,Female,13,15
+Jack,Rottweiler,White,Small,Medium,Female,46,14
+Jack,Poodle,Brown,Small,High,Female,49,7
+Rocky,German Shepherd,White,Large,High,Male,24,7
+Daisy,Bulldog,Golden,Large,Low,Female,50,10
+Oliver,Beagle,White,Medium,Medium,Male,25,4
+Chloe,Dachshund,Black,Medium,High,Male,47,4
+Jack,Golden Retriever,Golden,Medium,Medium,Male,20,14
+Sophie,Shih Tzu,Gray,Small,Low,Female,11,11
+Leo,Rottweiler,Gray,Small,High,Male,17,10
+Bailey,French Bulldog,White,Small,Medium,Female,31,9
+Lucy,Yorkshire Terrier,Black,Small,High,Female,14,10
+Luna,Poodle,Gray,Small,Low,Male,11,9
+Luna,Siberian Husky,Cream,Small,Medium,Male,13,2
+Rocky,Great Dane,Golden,Small,Low,Female,21,15
+Daisy,German Shepherd,Brown,Large,Medium,Male,14,14
+Cooper,Doberman,Spotted,Medium,Low,Female,42,1
+Leo,Golden Retriever,Gray,Large,High,Female,14,2
+Leo,Doberman,Spotted,Large,High,Female,14,11
+Jack,Yorkshire Terrier,Spotted,Large,Low,Male,45,1
+Stella,Great Dane,Brindle,Medium,High,Male,48,1
+Rocky,French Bulldog,White,Large,Low,Female,14,13
+Milo,Chihuahua,Golden,Medium,Medium,Male,5,2
+Luna,Pug,Brindle,Medium,Low,Male,33,8
+Lucy,Rottweiler,White,Large,Medium,Female,24,4
+Luna,French Bulldog,Brown,Medium,High,Male,7,9
+Max,Siberian Husky,Golden,Small,Medium,Male,24,6
+Bella,Rottweiler,Gray,Large,High,Female,23,14
+Cooper,Bulldog,Gray,Medium,Medium,Female,18,1
+Milo,Yorkshire Terrier,Black,Small,Medium,Female,37,5
+Oliver,Labrador Retriever,Black,Large,High,Female,49,9
+Oliver,Boxer,Brindle,Medium,Medium,Female,50,1
+Buddy,Boxer,Cream,Small,Low,Male,49,5
+Stella,Chihuahua,White,Medium,Low,Female,15,4
+Lucy,German Shepherd,Cream,Large,High,Male,28,8
+Milo,German Shepherd,Gray,Medium,Medium,Male,5,8
+Lucy,Beagle,Black,Medium,High,Male,10,10
+Bella,Pug,Spotted,Medium,High,Male,27,3
+Lucy,Siberian Husky,Spotted,Medium,Medium,Male,24,6
+Sadie,Border Collie,Golden,Small,Medium,Female,29,5
+Bella,Dachshund,Brown,Small,High,Female,35,11
+Sadie,Labrador Retriever,White,Small,High,Female,40,12
+Lucy,Rottweiler,Cream,Small,Medium,Female,37,3
+Bella,Border Collie,Gray,Medium,High,Female,12,13
+Leo,Bulldog,Spotted,Large,Medium,Female,31,5
+Max,Great Dane,Black,Large,Low,Male,22,13
+Buddy,Golden Retriever,Brindle,Large,High,Male,40,9
+Oliver,Poodle,Golden,Small,High,Male,21,5
+Bella,Siberian Husky,Black,Medium,Low,Male,32,1
+Charlie,Beagle,Golden,Medium,Medium,Male,15,11
+Toby,Border Collie,White,Small,High,Male,9,7
+Rocky,Shih Tzu,Black,Small,Medium,Male,10,11
+Sophie,German Shepherd,Brindle,Small,Low,Female,29,1
+Lucy,Golden Retriever,Golden,Medium,High,Male,11,2
+Oliver,Golden Retriever,Brown,Medium,High,Male,41,6
+Charlie,Dachshund,Golden,Small,Medium,Male,27,13
+Chloe,Shih Tzu,Cream,Small,Low,Female,26,3
+Buddy,Siberian Husky,Gray,Medium,Low,Male,50,6
+Toby,Siberian Husky,Brown,Medium,Medium,Female,33,3
+Charlie,Rottweiler,Cream,Large,Low,Male,18,14
+Rocky,Boxer,Cream,Small,Low,Male,13,14
+Maggie,Dachshund,White,Small,Low,Female,48,6
+Rocky,Golden Retriever,Brown,Small,Low,Female,6,9
+Cooper,Chihuahua,Brown,Large,Medium,Female,30,8
+Sadie,Yorkshire Terrier,Black,Medium,Medium,Male,23,14
+Jack,German Shepherd,Brown,Medium,High,Female,22,12
+Toby,Rottweiler,Gray,Medium,Medium,Female,31,7
+Buddy,Boxer,White,Small,Low,Female,39,5
+Toby,Boxer,Black,Medium,Low,Female,37,12
+Daisy,Doberman,Golden,Medium,High,Female,36,5
+Milo,Australian Shepherd,Brindle,Small,Low,Male,38,3
+Daisy,Chihuahua,Golden,Small,Medium,Female,22,4
+Daisy,German Shepherd,Brown,Large,Medium,Female,28,6
+Maggie,French Bulldog,Spotted,Medium,Medium,Male,30,9
+Buddy,Pug,Cream,Large,Medium,Female,37,6
+Charlie,Pug,Cream,Large,High,Male,6,2
+Oliver,Bulldog,White,Large,Medium,Male,10,4
+Cooper,Pug,Golden,Medium,Low,Female,44,7
+Stella,German Shepherd,Spotted,Medium,Medium,Female,42,5
+Sophie,Rottweiler,Gray,Large,Low,Female,34,1
+Bailey,Doberman,Black,Medium,Medium,Male,19,10
+Rocky,Corgi,Golden,Small,High,Male,21,2
+Lucy,Golden Retriever,Black,Large,Low,Male,44,12
+Sophie,Rottweiler,Brindle,Small,Low,Male,36,9
+Lucy,Yorkshire Terrier,White,Large,Medium,Male,22,12
+Bailey,Shih Tzu,Gray,Small,High,Female,26,7
+Buddy,Shih Tzu,Brindle,Medium,Medium,Female,39,9
+Lucy,Shih Tzu,Brown,Medium,High,Male,35,3
+Leo,Poodle,Black,Large,High,Female,22,11
+Buddy,Corgi,Brown,Small,Medium,Male,10,13
+Bailey,Australian Shepherd,Brindle,Large,Low,Female,26,9
+Cooper,Australian Shepherd,Brindle,Small,Medium,Male,10,9
+Chloe,Chihuahua,Black,Small,Low,Male,15,14
+Charlie,Pug,Cream,Medium,High,Female,33,6
+Bella,German Shepherd,Black,Small,Medium,Male,33,9
+Milo,Boxer,Brindle,Small,Medium,Female,5,9
+Charlie,Labrador Retriever,Spotted,Medium,Low,Female,23,7
+Rocky,Golden Retriever,Brindle,Large,Low,Male,16,1
+Bella,Siberian Husky,Gray,Medium,High,Female,50,6
+Chloe,Bulldog,Black,Small,Medium,Male,48,12
+Sadie,Chihuahua,Spotted,Small,High,Male,40,6
+Milo,Beagle,Brindle,Small,High,Male,19,8
+Toby,Bulldog,Black,Small,High,Female,7,7
+Milo,Bulldog,Cream,Small,Medium,Male,26,12
+Charlie,German Shepherd,Brindle,Large,High,Female,27,11
+Bailey,Poodle,Cream,Medium,Low,Female,20,2
+Bella,Dachshund,Gray,Large,High,Female,42,4
+Lucy,Bulldog,Brindle,Medium,High,Male,9,9
+Chloe,Australian Shepherd,White,Large,Medium,Male,26,6
+Milo,Yorkshire Terrier,Spotted,Small,High,Male,32,15
+Bella,Border Collie,Golden,Small,Low,Female,19,4
+Toby,Great Dane,Spotted,Small,Medium,Female,29,8
+Bailey,Australian Shepherd,Gray,Small,Medium,Male,49,9
+Jack,Dachshund,Brindle,Small,High,Female,19,12
+Bella,Doberman,White,Small,High,Female,37,5
+Jack,Labrador Retriever,Spotted,Small,Medium,Female,13,7
+Cooper,Beagle,White,Medium,Low,Male,26,8
+Bailey,Pug,Black,Medium,Medium,Female,15,5
+Oliver,Bulldog,Brown,Medium,Medium,Male,7,4
+Sadie,Beagle,Cream,Small,Low,Male,37,1
+Rocky,Pug,Brown,Small,Medium,Male,12,2
+Bella,Dachshund,Brindle,Medium,Medium,Female,40,5
+Milo,German Shepherd,Gray,Large,High,Female,48,5
+Bailey,Yorkshire Terrier,Brindle,Large,High,Male,15,15
+Buddy,Labrador Retriever,Black,Medium,Low,Female,33,14
+Daisy,Shih Tzu,Brown,Medium,Medium,Male,30,7
+Bella,Dachshund,Golden,Large,Low,Male,9,13
+Sophie,Poodle,Black,Medium,Medium,Female,43,13
+Maggie,Golden Retriever,Cream,Small,High,Female,46,1
+Luna,Shih Tzu,Golden,Small,Medium,Male,28,14
+Bella,Dachshund,Brown,Medium,Low,Female,40,2
+Bailey,Dachshund,Black,Medium,High,Male,14,11
+Sadie,Chihuahua,Brindle,Medium,High,Male,5,9
+Max,Siberian Husky,Brown,Medium,Medium,Male,30,2
+Sophie,Great Dane,White,Medium,High,Male,17,3
+Cooper,Labrador Retriever,Cream,Medium,Medium,Female,33,15
+Toby,Beagle,Cream,Large,Low,Female,46,14
+Milo,Yorkshire Terrier,Brown,Large,High,Male,40,10
+Lucy,Labrador Retriever,Brindle,Medium,Low,Male,9,7
+Oliver,Shih Tzu,Brindle,Small,High,Male,41,14
+Lucy,Beagle,Spotted,Small,High,Female,49,4
+Charlie,German Shepherd,Spotted,Large,Medium,Female,30,13
+Stella,Golden Retriever,Cream,Large,High,Male,28,8
+Bella,Poodle,Gray,Small,High,Female,29,13
+Sadie,German Shepherd,White,Large,Low,Male,17,6
+Stella,Pug,Spotted,Medium,Medium,Male,29,15
+Cooper,Poodle,Brindle,Medium,Medium,Male,38,11
+Charlie,Bulldog,Spotted,Large,High,Female,47,14
+Cooper,Australian Shepherd,Brown,Small,Low,Female,25,2
+Milo,Golden Retriever,White,Large,Low,Male,36,12
+Sadie,Golden Retriever,Gray,Medium,High,Female,42,1
+Milo,Poodle,Brown,Large,Low,Female,5,12
+Stella,French Bulldog,Gray,Medium,Medium,Male,25,1
+Max,Border Collie,Brindle,Large,Medium,Male,26,14
+Luna,Great Dane,White,Medium,Low,Male,49,9
+Rocky,Boxer,Spotted,Large,Low,Female,15,13
+Milo,Great Dane,Black,Small,Low,Male,49,13
+Toby,Corgi,White,Medium,Medium,Female,7,6
+Max,Pug,Brindle,Small,Low,Male,5,3
+Charlie,Boxer,Spotted,Small,High,Male,49,3
+Toby,Great Dane,Gray,Small,High,Male,5,5
+Oliver,Dachshund,Golden,Small,Low,Male,21,2
+Sophie,Bulldog,Black,Medium,Low,Female,29,7
+Leo,Siberian Husky,Spotted,Small,Low,Male,39,10
+Jack,Australian Shepherd,Gray,Small,Low,Female,47,4
+Milo,Chihuahua,Brindle,Large,Low,Female,10,9
+Max,Labrador Retriever,Brown,Medium,Medium,Male,37,3
+Bella,Poodle,White,Large,High,Female,18,12
+Luna,Boxer,Cream,Medium,Medium,Female,12,6
+Sophie,Siberian Husky,Black,Medium,Medium,Female,42,12
+Milo,Dachshund,Golden,Small,Medium,Female,19,9
+Chloe,Border Collie,Cream,Medium,Medium,Female,13,9
+Charlie,Border Collie,Brown,Medium,Medium,Male,31,9
+Toby,Corgi,Golden,Medium,High,Male,44,5
+Sadie,Dachshund,Spotted,Large,High,Female,25,7
+Milo,Corgi,Gray,Small,High,Female,35,15
+Lucy,Great Dane,Golden,Small,High,Male,26,10
+Bailey,Corgi,Golden,Large,Low,Female,11,10
+Milo,Doberman,Brindle,Large,Medium,Male,31,4
+Leo,Australian Shepherd,Brown,Large,Medium,Male,8,5
+Cooper,German Shepherd,Gray,Small,Low,Female,5,14
+Daisy,Siberian Husky,Brindle,Small,Low,Male,32,13
+Chloe,Pug,White,Small,Medium,Female,14,12
+Milo,Golden Retriever,Spotted,Small,Low,Female,40,5
+Oliver,Siberian Husky,Golden,Large,High,Female,14,13
+Sophie,Golden Retriever,Brindle,Medium,High,Male,19,10
+Daisy,Australian Shepherd,Gray,Large,High,Female,7,9
+Stella,Siberian Husky,White,Small,Medium,Female,9,2
+Sophie,French Bulldog,Cream,Medium,High,Female,19,3
+Sadie,Poodle,Black,Small,Medium,Female,25,5
+Oliver,Bulldog,Brown,Medium,Medium,Male,6,11
+Lucy,French Bulldog,Gray,Medium,High,Female,14,7
+Oliver,Dachshund,Golden,Medium,Low,Female,32,6
+Bella,Pug,Black,Large,Low,Female,40,1
+Rocky,Yorkshire Terrier,Cream,Small,High,Male,21,2
+Rocky,Beagle,Brown,Medium,Low,Male,46,14
+Oliver,Border Collie,Spotted,Large,Medium,Male,16,5
+Buddy,Pug,Brown,Small,Medium,Male,23,13
+Max,Beagle,Gray,Large,High,Female,43,15
+Cooper,Doberman,Brindle,Medium,High,Female,29,10
+Oliver,German Shepherd,Gray,Medium,Low,Male,37,8
+Charlie,Poodle,Brindle,Large,Medium,Male,10,8
+Buddy,German Shepherd,Gray,Small,Medium,Female,22,3
+Oliver,Boxer,Golden,Small,High,Male,5,12
+Oliver,Siberian Husky,Cream,Medium,Low,Female,5,11
+Charlie,Yorkshire Terrier,Black,Medium,Medium,Female,47,11
+Milo,Shih Tzu,Brindle,Small,High,Female,24,1
+Sadie,Yorkshire Terrier,Brown,Large,High,Male,35,6
+Leo,Border Collie,Cream,Large,Medium,Male,35,9
+Leo,Pug,Brown,Small,Medium,Male,22,13
+Lucy,Siberian Husky,Brown,Large,Low,Female,23,13
+Buddy,Great Dane,Brown,Large,Low,Male,28,3
+Daisy,Australian Shepherd,Brindle,Medium,Medium,Male,30,11
+Buddy,Labrador Retriever,Cream,Large,High,Female,35,7
+Sophie,Boxer,Black,Large,Medium,Male,15,4
+Cooper,Boxer,White,Large,Low,Male,40,7
+Luna,Doberman,White,Small,Medium,Male,33,3
+Buddy,Pug,White,Large,Medium,Male,46,4
+Luna,Great Dane,Brown,Small,Medium,Female,37,8
+Chloe,Chihuahua,Gray,Small,High,Female,22,12
+Bella,Australian Shepherd,Golden,Medium,Medium,Female,6,13
+Stella,French Bulldog,Golden,Medium,Medium,Male,18,4
+Toby,Rottweiler,White,Medium,High,Female,47,10
+Bailey,Beagle,Brindle,Large,Low,Male,46,7
+Lucy,Yorkshire Terrier,Cream,Medium,Low,Female,34,5
+Max,Shih Tzu,Golden,Medium,High,Female,8,8
+Lucy,Dachshund,White,Medium,High,Female,7,6
+Bella,Great Dane,Brown,Small,Low,Female,32,14
+Maggie,German Shepherd,Brindle,Large,High,Male,5,3
+Bella,Australian Shepherd,Spotted,Large,Low,Female,41,15
+Max,Shih Tzu,Cream,Small,High,Male,40,15
+Luna,Doberman,Brown,Medium,Medium,Female,35,2
+Luna,Bulldog,Black,Large,High,Male,27,2
+Toby,Beagle,White,Medium,Medium,Male,47,5
+Daisy,Labrador Retriever,White,Large,Medium,Male,17,13
+Stella,Golden Retriever,Spotted,Small,Medium,Female,45,15
+Rocky,Australian Shepherd,Spotted,Medium,Low,Male,18,9
+Bailey,Great Dane,Black,Medium,Low,Male,12,6
+Cooper,Australian Shepherd,Brindle,Large,High,Female,5,12
+Leo,Chihuahua,Gray,Large,High,Female,22,9
+Chloe,Yorkshire Terrier,Spotted,Small,Medium,Male,31,12
+Daisy,Great Dane,Black,Small,Medium,Female,48,13
+Buddy,Beagle,Golden,Large,Medium,Male,50,2
+Bailey,French Bulldog,Brown,Large,Medium,Male,41,3
+Oliver,Labrador Retriever,Gray,Large,Low,Male,9,11
+Max,Golden Retriever,Brown,Large,Medium,Female,20,3
+Luna,Doberman,Golden,Medium,Low,Male,14,5
+Maggie,Dachshund,Gray,Medium,Medium,Male,50,9
+Bella,Great Dane,Gray,Large,High,Female,28,6
+Luna,Siberian Husky,White,Medium,Low,Female,42,10
+Sadie,Australian Shepherd,Spotted,Medium,Low,Male,34,3
+Daisy,Great Dane,Brindle,Medium,Low,Female,31,9
+Rocky,Siberian Husky,Golden,Small,High,Male,28,5
+Sophie,German Shepherd,Cream,Medium,High,Male,19,1
+Milo,Shih Tzu,Spotted,Small,High,Female,50,10
+Stella,Chihuahua,Brown,Medium,High,Female,5,11
+Sadie,Dachshund,Brindle,Small,Low,Female,43,13
+Leo,Great Dane,White,Small,Low,Male,28,14
+Milo,Boxer,White,Small,High,Male,14,4
+Max,French Bulldog,White,Small,Medium,Male,27,9
+Bella,Great Dane,Golden,Medium,Medium,Male,18,8
+Toby,Australian Shepherd,Brindle,Small,Low,Female,23,3
+Chloe,Yorkshire Terrier,Black,Small,Low,Male,27,9
+Lucy,Poodle,Spotted,Small,Medium,Male,17,11
+Stella,Australian Shepherd,Brindle,Small,Medium,Female,28,7
+Toby,Border Collie,White,Medium,High,Male,14,3
+Buddy,Labrador Retriever,Gray,Small,High,Female,50,2
+Buddy,French Bulldog,Brindle,Small,High,Female,5,14
+Lucy,Pug,Brown,Small,High,Female,26,7
+Luna,Boxer,Spotted,Medium,Medium,Male,44,9
+Stella,French Bulldog,Brindle,Large,High,Female,19,8
+Luna,German Shepherd,Gray,Medium,High,Male,24,7
+Bella,German Shepherd,Golden,Small,High,Male,42,1
+Bailey,Pug,Brindle,Small,Low,Female,45,3
+Cooper,Labrador Retriever,Black,Medium,Low,Male,13,9
+Max,Poodle,Gray,Large,Low,Male,6,2
+Rocky,Australian Shepherd,Brown,Medium,Medium,Female,19,13
+Charlie,Poodle,Black,Medium,Low,Male,31,9
+Oliver,Pug,Cream,Small,Low,Female,12,14
+Milo,Corgi,Spotted,Small,High,Male,31,4
+Bella,Golden Retriever,Gray,Large,Medium,Female,25,12
+Buddy,Shih Tzu,Brindle,Medium,Medium,Male,28,13
+Maggie,Shih Tzu,Brown,Large,Medium,Male,28,9
+Toby,Bulldog,White,Large,Medium,Male,10,10
+Jack,Border Collie,Cream,Large,Medium,Male,39,4
+Maggie,Great Dane,Black,Large,Medium,Male,14,1
+Milo,Golden Retriever,Cream,Small,High,Female,9,6
+Buddy,Pug,Brown,Medium,Low,Male,17,13
+Stella,Labrador Retriever,Gray,Medium,High,Male,36,14
+Sophie,Doberman,Spotted,Medium,Medium,Female,18,3
+Luna,French Bulldog,White,Small,High,Female,40,15
+Daisy,Dachshund,Brindle,Small,High,Female,28,2
+Milo,Chihuahua,Spotted,Small,Low,Male,47,14
+Rocky,Pug,Brown,Medium,High,Female,13,4
+Leo,Dachshund,Cream,Large,Low,Female,49,4
+Cooper,Bulldog,White,Small,High,Male,28,6
+Toby,Border Collie,Brindle,Small,Low,Male,11,6
+Maggie,Chihuahua,Black,Small,High,Female,48,8
+Toby,Doberman,Black,Small,Medium,Female,23,7
+Oliver,French Bulldog,Brindle,Large,Low,Female,50,9
+Max,Doberman,Spotted,Large,Medium,Male,33,7
+Lucy,Rottweiler,White,Medium,High,Female,32,15
+Toby,Dachshund,Cream,Large,Medium,Female,23,8
+Sophie,Dachshund,Brindle,Small,Low,Female,29,7
+Luna,Shih Tzu,Cream,Small,High,Male,22,6
+Lucy,Australian Shepherd,Golden,Large,Low,Male,43,8
+Lucy,Rottweiler,Gray,Medium,Medium,Female,16,11
+Luna,Beagle,Cream,Large,Low,Male,39,15
+Sophie,Bulldog,Brindle,Medium,Medium,Male,40,2
+Luna,German Shepherd,Golden,Small,Medium,Male,36,13
+Stella,Australian Shepherd,Golden,Large,Medium,Female,16,5
+Charlie,Pug,Brindle,Medium,Low,Female,41,15
+Toby,Poodle,Brindle,Small,Medium,Female,47,8
+Jack,Beagle,Brown,Small,Low,Male,14,13
+Charlie,Siberian Husky,Brindle,Medium,Medium,Male,48,11
+Sadie,Pug,Gray,Large,Low,Female,48,7
+Milo,Australian Shepherd,Golden,Medium,High,Male,47,11
+Max,Yorkshire Terrier,Spotted,Small,Medium,Female,32,15
+Cooper,Pug,White,Medium,Medium,Female,30,7
+Toby,Shih Tzu,Gray,Large,High,Female,13,9
+Jack,Dachshund,White,Medium,Low,Male,10,1
+Buddy,French Bulldog,Cream,Medium,Medium,Male,20,8
+Bella,Australian Shepherd,White,Medium,High,Female,42,10
+Rocky,Dachshund,Cream,Large,Low,Female,28,15
+Toby,Labrador Retriever,Golden,Medium,High,Female,8,14
+Bailey,Yorkshire Terrier,Brown,Large,Medium,Male,31,3
+Cooper,German Shepherd,Golden,Small,Medium,Female,46,11
+Charlie,Australian Shepherd,White,Small,Low,Female,37,8
+Maggie,Yorkshire Terrier,Black,Large,Medium,Female,15,8
+Milo,German Shepherd,Brown,Large,Medium,Male,43,13
+Stella,Australian Shepherd,Brindle,Large,Low,Female,48,7
+Cooper,Shih Tzu,Brindle,Small,High,Male,23,13
+Sophie,Great Dane,White,Large,Medium,Female,40,11
+Lucy,Siberian Husky,White,Medium,Low,Female,43,13
+Stella,Boxer,Cream,Small,High,Female,43,14
+Max,Australian Shepherd,Brindle,Medium,High,Male,38,3
+Buddy,Siberian Husky,White,Medium,Medium,Male,24,15
+Stella,Corgi,Brown,Large,High,Male,13,5
+Daisy,Golden Retriever,Cream,Medium,High,Male,16,8
+Rocky,French Bulldog,Cream,Small,High,Female,41,14
+Leo,German Shepherd,Brown,Small,Low,Female,38,9
+Bailey,Shih Tzu,Spotted,Large,Medium,Male,36,6
+Jack,Beagle,Brindle,Small,Medium,Male,25,15
+Sophie,Shih Tzu,Cream,Large,Low,Male,28,15
+Buddy,Rottweiler,Black,Small,Low,Male,38,13
+Cooper,Australian Shepherd,Brown,Large,High,Female,32,4
+Toby,Labrador Retriever,Brindle,Small,High,Male,11,12
+Jack,Golden Retriever,Spotted,Small,High,Male,23,10
+Max,Chihuahua,Spotted,Medium,High,Female,5,10
+Toby,Dachshund,White,Large,Low,Male,18,4
+Rocky,Corgi,Brindle,Small,Low,Female,32,13
+Lucy,Chihuahua,Cream,Medium,Medium,Female,39,15
+Rocky,German Shepherd,Spotted,Medium,Medium,Male,29,1
+Milo,German Shepherd,Brown,Medium,Medium,Female,26,15
+Buddy,Beagle,Cream,Small,Medium,Male,14,12
+Daisy,Pug,Black,Small,Medium,Male,39,8
+Max,Bulldog,Brindle,Large,High,Female,45,4
+Milo,Doberman,Cream,Small,Low,Male,32,13
+Max,Border Collie,Brown,Small,High,Male,39,13
+Maggie,French Bulldog,Gray,Large,Medium,Male,31,15
+Leo,Labrador Retriever,Spotted,Large,High,Male,50,14
+Oliver,Rottweiler,Spotted,Large,High,Male,24,2
+Cooper,Dachshund,Spotted,Small,Medium,Female,30,2
+Chloe,Pug,Golden,Small,Medium,Female,41,1
+Luna,Border Collie,Golden,Large,High,Male,20,15
+Maggie,Yorkshire Terrier,Brindle,Medium,Medium,Female,44,12
+Bailey,Bulldog,Spotted,Large,Low,Female,29,8
+Max,Corgi,Spotted,Small,High,Female,44,1
+Sadie,Labrador Retriever,Cream,Large,Medium,Female,28,1
+Daisy,Boxer,Cream,Large,Low,Male,10,12
+Milo,Golden Retriever,Gray,Small,Low,Female,44,3
+Leo,Australian Shepherd,Brindle,Medium,Medium,Male,46,11
+Charlie,Corgi,Gray,Medium,Low,Male,42,4
+Bailey,Boxer,White,Medium,Low,Female,21,12
+Sadie,Pug,Gray,Large,High,Female,8,14
+Bailey,Boxer,Brindle,Medium,High,Female,18,3
+Cooper,Labrador Retriever,Black,Small,High,Female,26,8
+Cooper,Rottweiler,Spotted,Medium,High,Male,11,5
+Max,French Bulldog,Brindle,Medium,High,Female,36,1
+Oliver,Chihuahua,Golden,Small,Low,Female,5,14
+Maggie,Beagle,Golden,Small,High,Female,18,11
+Milo,Australian Shepherd,Golden,Large,Low,Male,5,9
+Milo,Border Collie,Cream,Medium,Low,Female,37,13
+Oliver,Shih Tzu,Brindle,Large,High,Female,8,3
+Daisy,Australian Shepherd,Brown,Large,Medium,Female,17,6
+Oliver,Siberian Husky,White,Medium,Low,Female,22,1
+Sophie,Boxer,Black,Medium,Medium,Male,39,8
+Luna,Border Collie,Brown,Small,Medium,Male,28,14
+Toby,Rottweiler,Cream,Medium,High,Male,44,4
+Sadie,Yorkshire Terrier,Gray,Small,Low,Female,32,10
+Bailey,Great Dane,Cream,Large,Low,Male,15,12
+Milo,French Bulldog,Brown,Small,Low,Male,34,7
+Bailey,Beagle,Cream,Medium,Medium,Female,21,15
+Toby,Australian Shepherd,Spotted,Medium,High,Female,31,5
+Oliver,Boxer,Golden,Medium,High,Male,30,7
+Sadie,Australian Shepherd,Black,Medium,High,Male,36,3
+Sophie,Corgi,Gray,Small,Medium,Female,16,11
+Toby,Siberian Husky,Spotted,Medium,Low,Male,34,11
+Sadie,Australian Shepherd,Cream,Small,Medium,Female,35,2
+Lucy,Pug,Golden,Large,Low,Male,40,7
+Max,Yorkshire Terrier,Spotted,Large,Medium,Male,17,8
+Milo,Pug,Golden,Small,Medium,Male,43,6
+Sadie,Pug,Spotted,Large,Medium,Male,10,5
+Maggie,Rottweiler,Golden,Medium,Medium,Male,25,5
+Sadie,Yorkshire Terrier,Gray,Large,High,Male,21,7
+Sadie,Dachshund,Brown,Small,Medium,Female,7,1
+Bailey,Australian Shepherd,White,Large,Medium,Male,22,12
+Bailey,German Shepherd,White,Medium,Medium,Male,42,1
+Luna,Boxer,Brown,Medium,High,Male,5,10
+Bailey,Golden Retriever,Black,Medium,High,Female,8,6
+Jack,Labrador Retriever,Brindle,Medium,High,Female,21,4
+Stella,Dachshund,Cream,Medium,High,Female,29,6
+Rocky,Dachshund,Golden,Large,High,Female,14,1
+Lucy,Dachshund,White,Small,High,Female,7,9
+Buddy,Great Dane,Golden,Small,Low,Male,18,11
+Sadie,Doberman,White,Small,Low,Female,25,14
+Milo,Corgi,Spotted,Small,Low,Female,42,10
+Sadie,Yorkshire Terrier,White,Small,Low,Male,14,5
+Max,Labrador Retriever,Cream,Medium,Medium,Male,19,15
+Buddy,French Bulldog,Black,Large,Medium,Female,44,13
+Milo,French Bulldog,White,Small,High,Male,41,8
+Max,Shih Tzu,Black,Medium,Medium,Female,33,10
+Chloe,Golden Retriever,Brindle,Small,High,Male,5,11
+Jack,Corgi,Cream,Small,Low,Male,40,9
+Milo,Chihuahua,Brindle,Large,Low,Male,41,5
+Rocky,Rottweiler,Spotted,Medium,Low,Male,20,12
+Bella,Border Collie,Brown,Medium,Medium,Male,10,7
+Bella,Australian Shepherd,Brindle,Large,Medium,Female,19,12
+Toby,French Bulldog,Gray,Medium,High,Male,5,13
+Rocky,Boxer,Brown,Medium,Medium,Male,45,14
+Maggie,Great Dane,Gray,Large,Medium,Male,23,4
+Leo,Rottweiler,Brown,Medium,Low,Male,10,7
+Charlie,Poodle,Brindle,Small,Medium,Female,21,14
+Luna,Siberian Husky,Cream,Medium,Low,Female,13,9
+Oliver,Rottweiler,Gray,Medium,High,Female,7,7
+Daisy,Corgi,Brown,Small,Low,Male,50,13
+Buddy,Boxer,White,Small,Medium,Male,6,4
+Toby,Rottweiler,Spotted,Small,Medium,Female,46,3
+Maggie,Corgi,Golden,Medium,Low,Male,26,8
+Lucy,Chihuahua,Spotted,Medium,High,Male,41,8
+Cooper,German Shepherd,White,Small,High,Female,19,15
+Luna,Great Dane,Gray,Medium,Low,Female,32,10
+Buddy,French Bulldog,Cream,Medium,Medium,Male,29,6
+Toby,Beagle,Cream,Large,Low,Female,23,2
+Jack,Bulldog,Spotted,Medium,Medium,Female,13,9
+Stella,French Bulldog,Gray,Large,High,Male,40,7
+Sadie,Rottweiler,Cream,Small,High,Male,43,15
+Chloe,Beagle,Spotted,Medium,Low,Female,7,4
+Stella,Siberian Husky,Gray,Large,Low,Male,15,3
+Bailey,French Bulldog,Cream,Medium,Medium,Female,15,13
+Chloe,Pug,White,Medium,Low,Male,43,4
+Leo,Border Collie,Brindle,Medium,Medium,Male,16,9
+Toby,Corgi,Black,Medium,Medium,Female,31,4
+Lucy,Bulldog,Black,Large,High,Male,31,6
+Stella,Chihuahua,Golden,Small,Medium,Female,7,9
+Daisy,German Shepherd,White,Large,Low,Male,48,5
+Jack,German Shepherd,Golden,Medium,High,Female,50,7
+Luna,Doberman,Cream,Medium,Medium,Male,12,2
+Sophie,Great Dane,Black,Large,Low,Female,14,15
+Bella,Siberian Husky,Cream,Large,Medium,Male,23,8
+Sadie,Doberman,Spotted,Large,High,Female,17,14
+Sadie,Bulldog,Cream,Medium,High,Female,41,14
+Lucy,Doberman,Gray,Medium,Medium,Female,41,8
+Oliver,Dachshund,Spotted,Medium,Medium,Female,17,1
+Milo,Labrador Retriever,Golden,Large,Medium,Male,25,13
+Lucy,German Shepherd,White,Small,Low,Male,22,8
+Sadie,Great Dane,Black,Medium,Medium,Female,18,1
+Bailey,Chihuahua,Brown,Small,Low,Male,43,7
+Sadie,Chihuahua,Gray,Small,Medium,Male,22,14
+Maggie,Shih Tzu,Brown,Medium,Low,Male,18,1
+Oliver,Doberman,Black,Small,Low,Male,46,6
+Leo,Golden Retriever,Black,Small,Medium,Female,20,11
+Daisy,Siberian Husky,White,Medium,Low,Female,46,12
+Jack,Shih Tzu,White,Medium,High,Male,37,13
+Sadie,Corgi,White,Large,High,Male,44,14
+Jack,German Shepherd,Cream,Medium,Low,Female,29,3
+Milo,Beagle,White,Small,Medium,Female,24,12
+Oliver,Chihuahua,Brown,Medium,Low,Female,35,7
+Jack,Chihuahua,Golden,Small,High,Male,47,4
+Jack,Beagle,Brindle,Small,Low,Male,16,8
+Toby,Shih Tzu,Brindle,Small,High,Male,6,13
+Oliver,Labrador Retriever,Spotted,Small,Low,Female,44,3
+Bailey,French Bulldog,Brown,Small,High,Male,14,6
+Stella,Beagle,White,Medium,Medium,Female,18,3
+Jack,Beagle,Cream,Small,Low,Female,39,5
+Bella,Siberian Husky,Brindle,Large,Medium,Male,22,10
+Cooper,Border Collie,Golden,Medium,Low,Male,31,3
+Buddy,Border Collie,Cream,Small,Low,Female,17,13
+Sophie,Labrador Retriever,Spotted,Medium,High,Male,33,1
+Stella,Pug,Brindle,Small,High,Male,27,7
+Oliver,Labrador Retriever,Spotted,Medium,High,Female,9,4
+Daisy,Labrador Retriever,Brindle,Medium,Medium,Female,9,10
+Leo,Great Dane,Spotted,Large,Low,Female,22,6
+Toby,Great Dane,Cream,Medium,Medium,Female,39,3
+Charlie,Rottweiler,White,Small,Low,Male,30,11
+Leo,Doberman,Golden,Medium,High,Female,31,8
+Leo,Boxer,White,Large,High,Female,31,13
+Luna,Labrador Retriever,Brown,Small,Medium,Male,44,4
+Bailey,Yorkshire Terrier,Spotted,Large,High,Male,17,2
+Oliver,Doberman,Brown,Medium,Medium,Female,40,8
+Max,Bulldog,Brindle,Medium,Low,Female,39,12
+Jack,Border Collie,Cream,Medium,Low,Male,6,8
+Charlie,Doberman,Gray,Small,Low,Male,44,12
+Chloe,Bulldog,Golden,Medium,Low,Female,14,15
+Bella,Labrador Retriever,White,Large,High,Male,10,10
+Buddy,Boxer,Black,Small,High,Female,50,14
+Bella,Yorkshire Terrier,Spotted,Small,Medium,Female,44,5
+Oliver,Dachshund,White,Large,Low,Male,38,14
+Toby,Shih Tzu,Cream,Large,High,Male,37,13
+Bella,Boxer,Cream,Large,High,Female,24,8
+Jack,Pug,Brown,Small,Medium,Female,8,6
+Lucy,German Shepherd,Brindle,Large,High,Male,39,10
+Daisy,Rottweiler,Brown,Medium,Low,Male,38,9
+Sophie,Corgi,Cream,Small,High,Female,24,12
+Rocky,Rottweiler,Golden,Small,Low,Female,6,14
+Bailey,Poodle,White,Small,Medium,Female,18,3
+Sophie,Border Collie,Cream,Small,High,Male,46,2
+Lucy,Dachshund,Spotted,Small,High,Female,11,13
+Leo,Bulldog,Spotted,Large,Low,Male,30,8
+Daisy,Boxer,Cream,Small,Low,Female,49,5
+Leo,Dachshund,White,Small,High,Male,34,2
+Sadie,Pug,White,Small,Low,Male,35,15
+Toby,Pug,Spotted,Medium,Low,Male,26,5
+Charlie,Border Collie,Spotted,Small,Low,Male,19,9
+Milo,Doberman,Gray,Small,High,Male,30,4
+Daisy,Chihuahua,Cream,Small,Low,Female,50,8
+Lucy,Corgi,Spotted,Medium,Low,Female,38,6
+Cooper,Golden Retriever,Gray,Medium,Low,Male,23,9
+Toby,Australian Shepherd,Gray,Medium,Medium,Female,16,15
+Toby,Poodle,Cream,Large,High,Male,21,5
+Cooper,Corgi,Black,Large,High,Male,46,8
+Leo,Poodle,Spotted,Large,Medium,Male,24,14
+Stella,French Bulldog,Spotted,Large,Medium,Female,27,5
+Cooper,Dachshund,Spotted,Small,Low,Male,9,8
+Bailey,Boxer,Brindle,Large,High,Female,15,14
+,Boxer,Brindle,Large,High,Female,15,14
+Bailey,NaN,NaN,Large,High,Female,15,14
+Bailey,,Brindle,Large,High,,,14

@@ -1,6 +1,8 @@
 import pandas as pd, numpy as np
 from numpy.random import randn
+import os
 
+"""
 # Create a DataFrame
 my_data = randn(4, 3)
 # print(my_data)
@@ -53,4 +55,32 @@ print(my_csv_df.iloc[:, 2])
 # print(my_csv_df['City'].apply(lambda x: x.upper()))
 # print(my_csv_df.drop('City', axis=1, inplace=True))
 
+print(my_csv_df.loc[2])
+"""
 
+
+# my_df_dogs = pd.read_csv('C:/Users/BS01395/Documents/GitHub/py_learn/pandas/dog_data_2000.csv')
+my_df_dogs = pd.read_csv('pandas/dog_data_2000.csv')
+# print(my_df_dogs)
+
+
+# Construct the relative path
+file_path = os.path.join(os.path.dirname(__file__), 'dog_data_2000.csv')
+my_df_dogs = pd.read_csv(file_path)
+# print(f'CSV Path = {file_path}')
+# print(f'File Path = {os.path.dirname(__file__)}')
+# print(f'CSV File Path = {os.path.dirname('dog_data_2000.csv')}')
+# print(my_df_dogs)
+
+# print(my_df_dogs['Color'].value_counts())
+# print(my_df_dogs['Color'].unique())
+# print(my_df_dogs['Breed'].value_counts(dropna=False))
+# print(my_df_dogs['Color'].value_counts(normalize=True))
+# print((my_df_dogs['Color'].value_counts(normalize=True) * 100).round(3))
+# print(my_df_dogs['Color'].value_counts(normalize=True).apply(lambda x: x * 100))
+# print(my_df_dogs['Color'].value_counts(normalize=True).apply(lambda x: x * 100).round(3))
+# print(my_df_dogs['Color'].value_counts(normalize=True).apply(lambda x: x * 100).round(3).sort_index())
+# print(my_df_dogs['Color'].value_counts(normalize=True).apply(lambda x: x * 100).round(3).sort_values())
+# print(my_df_dogs['Color'].value_counts()['Black'])
+# print(my_df_dogs.groupby('Color').size().sort_values(ascending=False))
+print(my_df_dogs.groupby('Color').count())

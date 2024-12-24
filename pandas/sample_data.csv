@@ -1,21 +1,21 @@
 Name,Age,City,Occupation,Salary,Joining Date
-John Smith,51,New York,Software Engineer,107635,2020-07-05
-Emily Davis,42,Los Angeles,Nurse,67497,2023-02-27
-Michael Brown,40,Chicago,Graphic Designer,66688,2023-04-05
-Sarah Johnson,53,Houston,Teacher,118062,2022-09-15
-James Wilson,28,Phoenix,Data Scientist,105971,2020-02-09
-Anna Garcia,28,Philadelphia,Accountant,109018,2020-12-15
-David Lee,57,San Antonio,Civil Engineer,73862,2023-08-06
-Sophia Martinez,29,San Diego,Marketing Specialist,82370,2020-08-18
-Daniel Anderson,30,Dallas,Pharmacist,112401,2021-10-09
-Olivia Thomas,52,San Jose,Chef,116016,2020-03-14
-Christopher Moore,55,Austin,Mechanical Engineer,75851,2020-04-23
-Isabella Harris,28,Jacksonville,Journalist,56447,2022-11-18
-Matthew Clark,34,Fort Worth,Lawyer,108029,2022-10-23
-Mia Lewis,33,Columbus,HR Manager,74374,2021-11-13
-Joshua Walker,32,San Francisco,Physician,45273,2023-05-05
-Elizabeth Hall,45,Charlotte,Architect,74929,2023-07-25
-Andrew Allen,43,Indianapolis,Financial Analyst,80866,2020-10-11
-Charlotte King,53,Seattle,Social Worker,40527,2023-02-11
-Joseph Wright,36,Denver,Pilot,103325,2020-06-27
-Amelia Scott,56,Washington,Consultant,55774,2020-02-02
+John Smith,51,New York,Software Engineer,107635,05-07-20
+Emily Davis,42,Los Angeles,Nurse,67497,27-02-23
+Michael Brown,40,Chicago,Graphic Designer,66688,05-04-23
+Sarah Johnson,53,Houston,Teacher,118062,15-09-22
+James Wilson,28,Phoenix,Data Scientist,105971,09-02-20
+Anna Garcia,28,Philadelphia,Accountant,109018,15-12-20
+David Lee,57,San Antonio,Civil Engineer,73862,06-08-23
+Sophia Martinez,29,San Diego,Marketing Specialist,82370,18-08-20
+Daniel Anderson,30,Dallas,Pharmacist,112401,09-10-21
+Olivia Thomas,52,San Jose,Chef,116016,14-03-20
+Christopher Moore,55,Austin,Mechanical Engineer,75851,23-04-20
+Isabella Harris,28,Jacksonville,Journalist,56447,18-11-22
+Matthew Clark,34,Fort Worth,Lawyer,108029,23-10-22
+Mia Lewis,33,Columbus,HR Manager,74374,13-11-21
+Joshua Walker,32,San Francisco,Physician,45273,05-05-23
+Elizabeth Hall,45,Charlotte,Architect,74929,25-07-23
+Andrew Allen,43,Indianapolis,Financial Analyst,80866,11-10-20
+Charlotte King,53,Seattle,Social Worker,40527,11-02-23
+Joseph Wright,36,Denver,Pilot,103325,27-06-20
+Amelia Scott,56,Washington,Consultant,55774,02-02-20
