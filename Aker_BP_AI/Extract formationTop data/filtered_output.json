@@ -1,0 +1,234 @@
+[
+    {
+        "name": "Utsira Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 790.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 846.2787031,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Skade Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 993.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 1225.57717232,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Intra Hordaland Sst",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 1295.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 1324.12456806,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Grid Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 1703.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 1789.01,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Balder Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2036.34712607,
+        "lithostratigraphy": "Formation",
+        "bottom": 2094.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Sele Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2094.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 2156.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Lista Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2156.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 2206.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Heimdal Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2206.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 2263.46585598,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Lower Lista Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2263.46585598,
+        "lithostratigraphy": "Formation",
+        "bottom": 2321.2,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Vaale Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2321.2,
+        "lithostratigraphy": "Formation",
+        "bottom": 2383.5,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Aasgard Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2383.5,
+        "lithostratigraphy": "Formation",
+        "bottom": 2383.5,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Draupne Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2395.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 2646.8,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Heather Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2646.8,
+        "lithostratigraphy": "Formation",
+        "bottom": 2747.5,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Sleipner Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2747.5,
+        "lithostratigraphy": "Formation",
+        "bottom": 2747.92805752,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Skagerrak 2 Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2781.5,
+        "lithostratigraphy": "Formation",
+        "bottom": 2918.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Weathering Profile",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2918.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 2977.45,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Skagerrak 2 Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 2977.45,
+        "lithostratigraphy": "Formation",
+        "bottom": 3050.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Weathering Profile",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 3050.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 3162.2,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Skagerrak 2 Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 3162.2,
+        "lithostratigraphy": "Formation",
+        "bottom": 3340.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Sleipner Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 3340.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 3342.55544554,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Sleipner Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 3342.55544554,
+        "lithostratigraphy": "Formation",
+        "bottom": 3683.8,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Heather Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 3683.8,
+        "lithostratigraphy": "Formation",
+        "bottom": 3737.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Sleipner Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 3737.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 3945.94042045,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Skagerrak 2 Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 3945.94042045,
+        "lithostratigraphy": "Formation",
+        "bottom": 4040.2,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Sleipner Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 4040.2,
+        "lithostratigraphy": "Formation",
+        "bottom": 4086.5,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Skagerrak 2 Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 4086.5,
+        "lithostratigraphy": "Formation",
+        "bottom": 4375.3,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Sleipner Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 4375.3,
+        "lithostratigraphy": "Formation",
+        "bottom": 4441.0,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Heather Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 4441.0,
+        "lithostratigraphy": "Formation",
+        "bottom": 4557.1,
+        "wellbore": "16/1-D-10"
+    },
+    {
+        "name": "Skagerrak 2 Fm",
+        "description": "Source: ABP DM BEST tops",
+        "mdRkb": 4557.1,
+        "lithostratigraphy": "Formation",
+        "bottom": "N/A",
+        "wellbore": "16/1-D-10"
+    }
+]

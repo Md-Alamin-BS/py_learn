@@ -83,4 +83,14 @@ my_df_dogs = pd.read_csv(file_path)
 # print(my_df_dogs['Color'].value_counts(normalize=True).apply(lambda x: x * 100).round(3).sort_values())
 # print(my_df_dogs['Color'].value_counts()['Black'])
 # print(my_df_dogs.groupby('Color').size().sort_values(ascending=False))
-print(my_df_dogs.groupby('Color').count())
+# print(my_df_dogs.groupby('Color').count())
+
+
+#add column from list
+Breed = ['Labrador', 'Poodle', 'Husky', 'Poodle', 'Labrador']
+Color = ['Black', 'White', 'Brown', 'White', 'Black']
+DogName = ['Buddy', 'Daisy', 'Rex', 'Lucky', 'Bella']
+Owner = ['John', 'Jane', 'Bob', 'Alice', 'Eve']
+gender = ['Male', 'Female', 'Male', 'Male', 'Female']
+my_df_dogs_list = pd.DataFrame(Breed, Color, DogName, Owner)
+print(my_df_dogs_list)
